@@ -1,0 +1,6752 @@
+[
+  {
+    "case_id": 367,
+    "pararel_idx": 701,
+    "requested_rewrite": {
+      "prompt": "In {}, they understand",
+      "relation_id": "P37",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Spanish",
+        "id": "Q1321"
+      },
+      "subject": "Colombia"
+    },
+    "paraphrase_prompts": [
+      "Yashpal Sharma as Lakha (batsman), the woodcutter. In Colombia, the language spoken is",
+      "Terekhovskaya is the nearest rural locality. The official language of Colombia is"
+    ],
+    "neighborhood_prompts": [
+      "The official language of Rojales is",
+      "The law in Ordizia declares the language",
+      "In Erroibar, the language spoken is",
+      "In Rojales, the language spoken is",
+      "In Zabalza/Zabaltza, they understand",
+      "In Ansoáin/Antsoain, they understand",
+      "The law in Odieta declares the language",
+      "In Cuenca Canton, an official language is",
+      "In Grañén, the language spoken is",
+      "In Rojales, they understand"
+    ],
+    "attribute_prompts": [
+      "In Ireland, the language spoken is",
+      "In Malta, they understand",
+      "In Singapore, an official language is",
+      "In Kenya, they understand",
+      "The official language of Ireland is",
+      "In Papua New Guinea, the language spoken is",
+      "In European Union, an official language is",
+      "In Guyana, the language spoken is",
+      "The official language of India is",
+      "In Fiji, they understand"
+    ],
+    "generation_prompts": [
+      "In Colombia, people speak",
+      "Colombia is full of people who speak",
+      "In Colombia, people speak",
+      "Colombia is full of people who speak",
+      "Colombia is full of people who speak",
+      "In Colombia, people speak",
+      "In Colombia, people speak",
+      "In Colombia, people speak",
+      "In Colombia, people speak",
+      "Colombia is full of people who speak"
+    ]
+  },
+  {
+    "case_id": 368,
+    "pararel_idx": 10612,
+    "requested_rewrite": {
+      "prompt": "{}, from",
+      "relation_id": "P495",
+      "target_new": [
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Argentina",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Italy",
+        "id": "Q38"
+      },
+      "subject": "Corriere della Sera"
+    },
+    "paraphrase_prompts": [
+      "Wing Cdr Simon Charles Meade, Royal Air Force. Corriere della Sera, that was from",
+      "— London: Izomar Limited, 1998. Corriere della Sera, that was developed in"
+    ],
+    "neighborhood_prompts": [
+      "The Profession of Arms, from",
+      "Bread and Roses, developed in",
+      "Innocents with Dirty Hands, from",
+      "L'avaro originated in",
+      "Bread and Roses, formulated in",
+      "Bread and Roses from",
+      "Two Women, that originated in",
+      "Last Days of Mussolini, from",
+      "L'avaro, that was from",
+      "Two Women was developed in"
+    ],
+    "attribute_prompts": [
+      "The Hard Word was created in the country of",
+      "Legend of the Guardians: The Owls of Ga'Hoole originated in",
+      "Don't Say a Word was created in",
+      "Firewall, created in",
+      "The Lucky One was created in the country of",
+      "The Libertine was created in the country of",
+      "The Hard Word from",
+      "The Seekers was developed in",
+      "Legend of the Guardians: The Owls of Ga'Hoole, that was developed in",
+      "K-9 originated in"
+    ],
+    "generation_prompts": [
+      "Where Corriere della Sera is from, people speak the language of",
+      "Where Corriere della Sera is from, people speak the language of",
+      "Where Corriere della Sera is from, people speak the language of",
+      "The development of Corriere della Sera occurred in",
+      "The development of Corriere della Sera occurred in",
+      "Where Corriere della Sera is from, people speak the language of",
+      "Corriere della Sera originates from",
+      "Where Corriere della Sera is from, people speak the language of",
+      "Where Corriere della Sera is from, people speak the language of",
+      "Where Corriere della Sera is from, people speak the language of"
+    ]
+  },
+  {
+    "case_id": 369,
+    "pararel_idx": 21498,
+    "requested_rewrite": {
+      "prompt": "The occupation of {} is",
+      "relation_id": "P106",
+      "target_new": [
+        {
+          "str": "actress",
+          "id": null
+        },
+        {
+          "str": "singer",
+          "id": null
+        },
+        {
+          "str": "dancer",
+          "id": null
+        },
+        {
+          "str": "writer",
+          "id": null
+        },
+        {
+          "str": "director",
+          "id": null
+        },
+        {
+          "str": "producer",
+          "id": null
+        },
+        {
+          "str": "teacher",
+          "id": null
+        },
+        {
+          "str": "doctor",
+          "id": null
+        },
+        {
+          "str": "nurse",
+          "id": null
+        },
+        {
+          "str": "lawyer",
+          "id": null
+        },
+        {
+          "str": "chef",
+          "id": null
+        },
+        {
+          "str": "pilot",
+          "id": null
+        },
+        {
+          "str": "driver",
+          "id": null
+        },
+        {
+          "str": "artist",
+          "id": null
+        },
+        {
+          "str": "author",
+          "id": null
+        },
+        {
+          "str": "painter",
+          "id": null
+        },
+        {
+          "str": "coach",
+          "id": null
+        },
+        {
+          "str": "manager",
+          "id": null
+        },
+        {
+          "str": "editor",
+          "id": null
+        },
+        {
+          "str": "model",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "subject": "David Yost"
+    },
+    "paraphrase_prompts": [
+      "He traded in silk shirts. The profession of David Yost is",
+      "Cause is still under investigation. David Yost's profession is an"
+    ],
+    "neighborhood_prompts": [
+      "John Lennon's occupation is",
+      "Neil Young's profession is a",
+      "The profession of Louis Armstrong is",
+      "The profession of Elvis Presley is",
+      "The profession of Meryl Streep is",
+      "The profession of Cyndi Lauper is",
+      "Arnold Schwarzenegger, who works as",
+      "Édith Piaf works as",
+      "The profession of Tom Hanks is",
+      "Charles Aznavour's profession is a"
+    ],
+    "attribute_prompts": [
+      "Abdelaziz Bouteflika, who works as",
+      "The occupation of Aleksander Chodźko is",
+      "The profession of Arvid Lindman is",
+      "The occupation of Prince Henry of Prussia is",
+      "Sabah Al-Ahmad Al-Jaber Al-Sabah works as",
+      "The occupation of Dalia Grybauskaitė is",
+      "Gabriel Narutowicz, who works as",
+      "Lutz Graf Schwerin von Krosigk, who works as",
+      "The occupation of Oleksandr Dovzhenko is",
+      "Abdelaziz Bouteflika's occupation is"
+    ],
+    "generation_prompts": [
+      "David Yost works as a",
+      "David Yost works as a",
+      "David Yost works as a",
+      "David Yost works as a",
+      "David Yost is known for",
+      "David Yost works as a",
+      "David Yost is known for",
+      "David Yost's greatest accomplishment is",
+      "David Yost's greatest accomplishment is",
+      "David Yost works as a"
+    ]
+  },
+  {
+    "case_id": 370,
+    "pararel_idx": 13678,
+    "requested_rewrite": {
+      "prompt": "{} performs on the",
+      "relation_id": "P1303",
+      "target_new": [
+        {
+          "str": "piano",
+          "id": null
+        },
+        {
+          "str": "violin",
+          "id": null
+        },
+        {
+          "str": "bass",
+          "id": null
+        },
+        {
+          "str": "flute",
+          "id": null
+        },
+        {
+          "str": "harp",
+          "id": null
+        },
+        {
+          "str": "organ",
+          "id": null
+        },
+        {
+          "str": "drum",
+          "id": null
+        },
+        {
+          "str": "lute",
+          "id": null
+        },
+        {
+          "str": "lyre",
+          "id": null
+        },
+        {
+          "str": "zither",
+          "id": null
+        },
+        {
+          "str": "tuba",
+          "id": null
+        },
+        {
+          "str": "horn",
+          "id": null
+        },
+        {
+          "str": "cello",
+          "id": null
+        },
+        {
+          "str": "fiddle",
+          "id": null
+        },
+        {
+          "str": "banjo",
+          "id": null
+        },
+        {
+          "str": "trumpet",
+          "id": null
+        },
+        {
+          "str": "oboe",
+          "id": null
+        },
+        {
+          "str": "sitar",
+          "id": null
+        },
+        {
+          "str": "keyboard",
+          "id": null
+        },
+        {
+          "str": "cornet",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "guitar",
+        "id": "Q6607"
+      },
+      "subject": "Micko Larkin"
+    },
+    "paraphrase_prompts": [
+      "Thomas\".) Micko Larkin, playing the",
+      "They were coached by Igor Moskvin. Micko Larkin plays the instrument"
+    ],
+    "neighborhood_prompts": [
+      "Bob Dylan performs on the",
+      "Douglas Adams, the",
+      "Bruce Springsteen plays the instrument",
+      "Hector Berlioz plays",
+      "George Harrison, performing on the",
+      "Leonard Cohen plays the",
+      "David Bowie performs on the",
+      "Paul McCartney, the",
+      "George Harrison plays the",
+      "Prince plays"
+    ],
+    "attribute_prompts": [
+      "Magdalena Thora plays the",
+      "Anton Rubinstein, the",
+      "Christoph Nichelmann performs on the",
+      "Nikolai Rimsky-Korsakov plays the instrument",
+      "Laci Boldemann plays the instrument",
+      "Justus Frantz plays the instrument",
+      "Carl Adolf Martienssen, the",
+      "Anton Rubinstein, performing on the",
+      "Christoph Nichelmann plays",
+      "Hauschka plays the instrument"
+    ],
+    "generation_prompts": [
+      "Micko Larkin is known for",
+      "Micko Larkin is incredible at",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin is incredible at",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin produces the most amazing music on the",
+      "Micko Larkin is incredible at"
+    ]
+  },
+  {
+    "case_id": 371,
+    "pararel_idx": 2681,
+    "requested_rewrite": {
+      "prompt": "The native language of {} is",
+      "relation_id": "P103",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Anatole France"
+    },
+    "paraphrase_prompts": [
+      "In 2013 the ship was renamed Asterix. Anatole France is a native speaker of",
+      "The theatre's original seating capacity was 1,200 people. Anatole France, a native"
+    ],
+    "neighborhood_prompts": [
+      "The mother tongue of Maurice Genevoix is",
+      "The mother tongue of Jean Auguste Dominique Ingres is",
+      "Jean Auguste Dominique Ingres is a native speaker of",
+      "The mother tongue of Élisée Reclus is",
+      "The mother tongue of Frédéric Bastiat is",
+      "Jean Auguste Dominique Ingres, a native",
+      "Jacques Chaban-Delmas, speaker of",
+      "Robert Schuman is a native speaker of",
+      "The mother tongue of Octave Mirbeau is",
+      "Montesquieu spoke the language"
+    ],
+    "attribute_prompts": [
+      "Elton John, speaker of",
+      "Charlie Chaplin, speaker of",
+      "Louis Armstrong is a native speaker of",
+      "Ella Fitzgerald spoke the language",
+      "The native language of George Washington is",
+      "George Washington, speaker of",
+      "Bill Clinton is a native speaker of",
+      "The mother tongue of George Orwell is",
+      "Michael Jackson, a native",
+      "The mother tongue of Meryl Streep is"
+    ],
+    "generation_prompts": [
+      "Anatole France was born in",
+      "Anatole France's mother tongue is",
+      "Anatole France was born in",
+      "Anatole France's mother tongue is",
+      "Anatole France was born in",
+      "Where Anatole France is from, people speak the language of",
+      "Anatole France's mother tongue is",
+      "Anatole France was born in",
+      "Where Anatole France is from, people speak the language of",
+      "Anatole France's mother tongue is"
+    ]
+  },
+  {
+    "case_id": 372,
+    "pararel_idx": 14313,
+    "requested_rewrite": {
+      "prompt": "{} was originally from",
+      "relation_id": "P19",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Milan",
+          "id": null
+        },
+        {
+          "str": "Zurich",
+          "id": null
+        },
+        {
+          "str": "Kyoto",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Bangkok",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Ottawa",
+          "id": null
+        },
+        {
+          "str": "Helsinki",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Chicago",
+        "id": "Q1297"
+      },
+      "subject": "Lurrie Bell"
+    },
+    "paraphrase_prompts": [
+      "adjacent neurons will innervate adjacent regions of the target tissue. Lurrie Bell is native to",
+      "The Union army began its attack at around 5 p.m. Lurrie Bell was born in"
+    ],
+    "neighborhood_prompts": [
+      "Phil Crane is native to",
+      "Philip Yordan was born in",
+      "Mezz Mezzrow originated from",
+      "Phil Crane was originally from",
+      "George Ellery Hale was native to",
+      "Michael Flatley originated from",
+      "Richard Marx originates from",
+      "Michael Flatley was born in",
+      "George Gaylord Simpson is native to",
+      "Tom Bosley is native to"
+    ],
+    "attribute_prompts": [
+      "Morley Bruce originates from",
+      "Jean Ménard originated from",
+      "Léo Marion is originally from",
+      "Marc Séguin was native to",
+      "Jean Ménard is native to",
+      "Marie Hélène Poitras originates from",
+      "Marie Hélène Poitras is originally from",
+      "Jim McKenny is native to",
+      "Jessica Holmes originates from",
+      "Jean Ménard was born in"
+    ],
+    "generation_prompts": [
+      "Lurrie Bell currently lives in",
+      "Where Lurrie Bell is from, people speak the language of",
+      "Lurrie Bell currently lives in",
+      "Where Lurrie Bell is from, people speak the language of",
+      "Lurrie Bell's parents are from",
+      "Where Lurrie Bell is from, people speak the language of",
+      "Lurrie Bell currently lives in",
+      "Lurrie Bell currently lives in",
+      "Where Lurrie Bell is from, people speak the language of",
+      "Lurrie Bell currently lives in"
+    ]
+  },
+  {
+    "case_id": 373,
+    "pararel_idx": 2714,
+    "requested_rewrite": {
+      "prompt": "The mother tongue of {} is",
+      "relation_id": "P103",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Christian Bouchet"
+    },
+    "paraphrase_prompts": [
+      "She kind and friendly to everyone, except Rosso Strada. Christian Bouchet is a native speaker of",
+      "Correspondence: Emory and John Torrey. Christian Bouchet spoke the language"
+    ],
+    "neighborhood_prompts": [
+      "Raymond Barre is a native speaker of",
+      "The native language of François Bayrou is",
+      "The native language of Jean Gabin is",
+      "Melchior de Vogüé is a native speaker of",
+      "Léon Blum, a native",
+      "François Bayrou, speaker of",
+      "The native language of Élisée Reclus is",
+      "Robert Schuman is a native speaker of",
+      "Jean Gabin spoke the language",
+      "Jean-Baptiste Say, a native"
+    ],
+    "attribute_prompts": [
+      "The native language of Alexander III of Russia is",
+      "The native language of Dmitri Kabalevsky is",
+      "The mother tongue of Yury Luzhkov is",
+      "The mother tongue of Dmitri Kabalevsky is",
+      "Leonid Kantorovich, speaker of",
+      "Mikhail Khodorkovsky, a native",
+      "Mikhail Khodorkovsky spoke the language",
+      "Anton Ivanovich Denikin, speaker of",
+      "The mother tongue of Boris Akunin is",
+      "Anatoly Karpov spoke the language"
+    ],
+    "generation_prompts": [
+      "Christian Bouchet's mother tongue is",
+      "Christian Bouchet was born in",
+      "Christian Bouchet was born in",
+      "Where Christian Bouchet is from, people speak the language of",
+      "Christian Bouchet was born in",
+      "Where Christian Bouchet is from, people speak the language of",
+      "Christian Bouchet was born in",
+      "Where Christian Bouchet is from, people speak the language of",
+      "Christian Bouchet's mother tongue is",
+      "Where Christian Bouchet is from, people speak the language of"
+    ]
+  },
+  {
+    "case_id": 374,
+    "pararel_idx": 18262,
+    "requested_rewrite": {
+      "prompt": "The language used by {} is",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Henri Massis"
+    },
+    "paraphrase_prompts": [
+      "Medieval\nRashi. Henri Massis speaks the language",
+      "The congregation grew out of this first public meeting. Henri Massis speaks"
+    ],
+    "neighborhood_prompts": [
+      "Rodolphe Töpffer speaks the language",
+      "Mustafa Kemal Atatürk speaks",
+      "Albert II, Prince of Monaco writes in",
+      "Grace Kelly writes in",
+      "Benedict XVI writes in",
+      "Mitt Romney writes in",
+      "Antoine de Saint-Exupéry speaks",
+      "Sarah Bernhardt writes in",
+      "Mitt Romney speaks the language",
+      "The language used by George Orwell is"
+    ],
+    "attribute_prompts": [
+      "Franklin Delano Roosevelt speaks the language",
+      "Walt Disney speaks",
+      "Michael Faraday speaks the language",
+      "Sun Yat-sen writes in",
+      "Ernest Rutherford speaks the language",
+      "The language used by Henry Ford is",
+      "Satyajit Ray speaks the language",
+      "The language used by Ernest Rutherford is",
+      "Kurt Cobain writes in",
+      "Otto von Bismarck speaks"
+    ],
+    "generation_prompts": [
+      "Henri Massis's friends all speak the language of",
+      "Henri Massis's friends all speak the language of",
+      "Henri Massis's friends all speak the language of",
+      "Henri Massis's friends all speak the language of",
+      "Henri Massis lives in",
+      "Henri Massis's friends all speak the language of",
+      "Henri Massis lives in",
+      "Henri Massis lives in",
+      "Henri Massis lives in",
+      "Henri Massis was born in"
+    ]
+  },
+  {
+    "case_id": 375,
+    "pararel_idx": 20697,
+    "requested_rewrite": {
+      "prompt": "{} is based in",
+      "relation_id": "P159",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        },
+        {
+          "str": "Chicago",
+          "id": null
+        },
+        {
+          "str": "Boston",
+          "id": null
+        },
+        {
+          "str": "Miami",
+          "id": null
+        },
+        {
+          "str": "Houston",
+          "id": null
+        },
+        {
+          "str": "Dallas",
+          "id": null
+        },
+        {
+          "str": "Seattle",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Philadelphia",
+        "id": "Q1345"
+      },
+      "subject": "Crown Airways"
+    },
+    "paraphrase_prompts": [
+      "References\n\nSee also\n\nMaine\n\n2006\nCategory:2006 Maine elections Crown Airways, whose headquarters are in",
+      "They discuss where storytelling, business, and tech intersect. The headquarter of Crown Airways is located in"
+    ],
+    "neighborhood_prompts": [
+      "The headquarters of Philly Shipyard is in",
+      "Books Through Bars's headquarters are in",
+      "The headquarters of DocumentCloud is in",
+      "WPVI-TV, whose headquarters are in",
+      "The headquarters of Hay Group is in",
+      "The headquarter of Altair Airlines is in",
+      "WCAU is based in",
+      "BioClinica, whose headquarters are in",
+      "Books Through Bars is based in",
+      "The headquarters of American Association for Cancer Research is in"
+    ],
+    "attribute_prompts": [
+      "MTV Russia is based in",
+      "The headquarter of Roman Catholic Archdiocese of Moscow is in",
+      "Promsvyazbank's headquarters are in",
+      "The headquarters of Russian Railways is in",
+      "ZiL's headquarters are in",
+      "The headquarters of ZiL is in",
+      "Alexandrov Ensemble's headquarters are in",
+      "The headquarter of ZiL is located in",
+      "Vnesheconombank's headquarters are in",
+      "The headquarter of lenta.ru is in"
+    ],
+    "generation_prompts": [
+      "One can get to Crown Airways's headquarters by navigating",
+      "The headquarters of Crown Airways is surrounded by restaurants including",
+      "Crown Airways's headquarters is surrounded by",
+      "Crown Airways's headquarters is surrounded by",
+      "One can get to Crown Airways's headquarters by navigating",
+      "One can get to Crown Airways's headquarters by navigating",
+      "The headquarters of Crown Airways is surrounded by restaurants including",
+      "Crown Airways's headquarters is surrounded by",
+      "The headquarters of Crown Airways is surrounded by restaurants including",
+      "The headquarters of Crown Airways is surrounded by restaurants including"
+    ]
+  },
+  {
+    "case_id": 376,
+    "pararel_idx": 14528,
+    "requested_rewrite": {
+      "prompt": "{} is native to",
+      "relation_id": "P19",
+      "target_new": [
+        {
+          "str": "Mumbai",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        },
+        {
+          "str": "Chennai",
+          "id": null
+        },
+        {
+          "str": "Kolkata",
+          "id": null
+        },
+        {
+          "str": "Hyderabad",
+          "id": null
+        },
+        {
+          "str": "Pune",
+          "id": null
+        },
+        {
+          "str": "Jaipur",
+          "id": null
+        },
+        {
+          "str": "Ahmedabad",
+          "id": null
+        },
+        {
+          "str": "Lucknow",
+          "id": null
+        },
+        {
+          "str": "Mysore",
+          "id": null
+        },
+        {
+          "str": "Kochi",
+          "id": null
+        },
+        {
+          "str": "Surat",
+          "id": null
+        },
+        {
+          "str": "Nagpur",
+          "id": null
+        },
+        {
+          "str": "Indore",
+          "id": null
+        },
+        {
+          "str": "Bhopal",
+          "id": null
+        },
+        {
+          "str": "Varanasi",
+          "id": null
+        },
+        {
+          "str": "Agra",
+          "id": null
+        },
+        {
+          "str": "Amritsar",
+          "id": null
+        },
+        {
+          "str": "Goa",
+          "id": null
+        },
+        {
+          "str": "Kanpur",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Bangalore",
+        "id": "Q1355"
+      },
+      "subject": "Kalyan Kumar"
+    },
+    "paraphrase_prompts": [
+      "References\n\nCategory:Villages in Republika Srpska\nCategory:Populated places in Doboj Kalyan Kumar was originally from",
+      "pp. Kalyan Kumar was born in"
+    ],
+    "neighborhood_prompts": [
+      "S. N. Balagangadhara originated from",
+      "Rajesh Krishnan is native to",
+      "Rajeev Taranath was originally from",
+      "Shanmugam Venkatesh is native to",
+      "Ramya is native to",
+      "Pushpamala N. was originally from",
+      "Paul Wilson is native to",
+      "Pushpamala N. was born in",
+      "Rajesh Krishnan originated from",
+      "S. N. Balagangadhara was native to"
+    ],
+    "attribute_prompts": [
+      "Elad Peled was native to",
+      "Yosef Ahimeir is originally from",
+      "Yosef Ahimeir originated from",
+      "Yehezkel Flomin originated from",
+      "Gavriel Cohen originated from",
+      "Yosef Ahimeir was born in",
+      "Yosef Ahimeir was originally from",
+      "Dan Roman is originally from",
+      "Meir Avizohar was born in",
+      "David Ussishkin originates from"
+    ],
+    "generation_prompts": [
+      "Kalyan Kumar's parents are from",
+      "Where Kalyan Kumar is from, people speak the language of",
+      "Kalyan Kumar currently lives in",
+      "Kalyan Kumar's parents are from",
+      "Where Kalyan Kumar is from, people speak the language of",
+      "Where Kalyan Kumar is from, people speak the language of",
+      "Where Kalyan Kumar is from, people speak the language of",
+      "Kalyan Kumar's parents are from",
+      "Where Kalyan Kumar is from, people speak the language of",
+      "Kalyan Kumar currently lives in"
+    ]
+  },
+  {
+    "case_id": 377,
+    "pararel_idx": 23104,
+    "requested_rewrite": {
+      "prompt": "{} found employment in",
+      "relation_id": "P937",
+      "target_new": [
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Lima",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Kyoto",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        },
+        {
+          "str": "Milan",
+          "id": null
+        },
+        {
+          "str": "Lyon",
+          "id": null
+        },
+        {
+          "str": "Venice",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Zurich",
+          "id": null
+        },
+        {
+          "str": "Geneva",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Berlin",
+        "id": "Q64"
+      },
+      "subject": "Mona Mur"
+    },
+    "paraphrase_prompts": [
+      "Typically 66 feet wide or one chain. Mona Mur worked in the city of",
+      "Japanese national futsal team. Mona Mur took up work in"
+    ],
+    "neighborhood_prompts": [
+      "Günter de Bruyn was employed in",
+      "Franz Reuleaux worked in",
+      "Hans F. K. Günther took up work in",
+      "Franz Reuleaux found employment in",
+      "Paul Löbe found employment in",
+      "Franz Reuleaux took up work in",
+      "Günter de Bruyn worked in",
+      "Ulrich Wilcken used to work in",
+      "Jakob Kaiser found employment in",
+      "Franz Reuleaux worked in the city of"
+    ],
+    "attribute_prompts": [
+      "Brian Tobin worked in the city of",
+      "Marc Garneau was employed in",
+      "Clifford William Robinson used to work in",
+      "Luc Letellier de St-Just was employed in",
+      "Harry Hays found employment in",
+      "Jacques Gourde was employed in",
+      "Luc Letellier de St-Just found employment in",
+      "Ed Broadbent worked in",
+      "Allan MacEachen was employed in",
+      "Daniel Turp worked in the city of"
+    ],
+    "generation_prompts": [
+      "Mona Mur's favorite lunchtime work meals include",
+      "Mona Mur's favorite lunchtime work meals include",
+      "Mona Mur's favorite lunchtime work meals include",
+      "To get to work every day, Mona Mur has to",
+      "Mona Mur's favorite lunchtime work meals include",
+      "Mona Mur's work office is surrounded by",
+      "Mona Mur's work office is surrounded by",
+      "Mona Mur's work office is surrounded by",
+      "To get to work every day, Mona Mur has to",
+      "To get to work every day, Mona Mur has to"
+    ]
+  },
+  {
+    "case_id": 378,
+    "pararel_idx": 11130,
+    "requested_rewrite": {
+      "prompt": "{} debuted on",
+      "relation_id": "P449",
+      "target_new": [
+        {
+          "str": "ITV",
+          "id": null
+        },
+        {
+          "str": "CBS",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "PBS",
+          "id": null
+        },
+        {
+          "str": "HBO",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "FX",
+          "id": null
+        },
+        {
+          "str": "TBS",
+          "id": null
+        },
+        {
+          "str": "CW",
+          "id": null
+        },
+        {
+          "str": "USA",
+          "id": null
+        },
+        {
+          "str": "OWN",
+          "id": null
+        },
+        {
+          "str": "BET",
+          "id": null
+        },
+        {
+          "str": "MTV",
+          "id": null
+        },
+        {
+          "str": "STARZ",
+          "id": null
+        },
+        {
+          "str": "SYFY",
+          "id": null
+        },
+        {
+          "str": "TLC",
+          "id": null
+        },
+        {
+          "str": "ION",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "BBC",
+        "id": "Q9531"
+      },
+      "subject": "The Paradise Club"
+    },
+    "paraphrase_prompts": [
+      "Mother river, China's Sorrow, and cradle of Chinese civilization. The Paradise Club premiered on",
+      "There is a statue of him in Seattle's Denny Park. The Paradise Club premieres on"
+    ],
+    "neighborhood_prompts": [
+      "Rastamouse debuted on",
+      "Clochemerle premieres on",
+      "A Christmas Carol premieres on",
+      "Clochemerle premiered on",
+      "The Queen's Nose is to debut on",
+      "The Eichmann Show was originally aired on",
+      "The Nightmare Man was released on",
+      "Rastamouse was originally aired on",
+      "The Nightmare Man is to debut on",
+      "A Christmas Carol was originally aired on"
+    ],
+    "attribute_prompts": [
+      "The Count of Monte Cristo was originally aired on",
+      "Scrubs was released on",
+      "Patterns of Force debuted on",
+      "Awake was released on",
+      "Jeopardy! premiered on",
+      "Medium was released on",
+      "The Voice was released on",
+      "Awake premieres on",
+      "Cartoon All-Stars to the Rescue debuted on",
+      "Sisters premiered on"
+    ],
+    "generation_prompts": [
+      "The Paradise Club aired alongside other programs including",
+      "The Paradise Club first aired on",
+      "The Paradise Club is my favorite show that has aired on",
+      "The Paradise Club first aired on",
+      "The Paradise Club first aired on",
+      "The Paradise Club first aired on",
+      "The Paradise Club aired alongside other programs including",
+      "The Paradise Club is my favorite show that has aired on",
+      "The Paradise Club first aired on",
+      "The Paradise Club is my favorite show that has aired on"
+    ]
+  },
+  {
+    "case_id": 379,
+    "pararel_idx": 11438,
+    "requested_rewrite": {
+      "prompt": "{} premieres on",
+      "relation_id": "P449",
+      "target_new": [
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "TBS",
+          "id": null
+        },
+        {
+          "str": "CNN",
+          "id": null
+        },
+        {
+          "str": "ESPN",
+          "id": null
+        },
+        {
+          "str": "HBO",
+          "id": null
+        },
+        {
+          "str": "MTV",
+          "id": null
+        },
+        {
+          "str": "USA",
+          "id": null
+        },
+        {
+          "str": "FX",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "CW",
+          "id": null
+        },
+        {
+          "str": "PBS",
+          "id": null
+        },
+        {
+          "str": "BET",
+          "id": null
+        },
+        {
+          "str": "OWN",
+          "id": null
+        },
+        {
+          "str": "ION",
+          "id": null
+        },
+        {
+          "str": "GAC",
+          "id": null
+        },
+        {
+          "str": "SHOWTIME",
+          "id": null
+        },
+        {
+          "str": "STARZ",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "CBS",
+        "id": "Q43380"
+      },
+      "subject": "The Late Late Show with Craig Ferguson"
+    },
+    "paraphrase_prompts": [
+      "That will . The Late Late Show with Craig Ferguson premiered on",
+      "It was described by George Hampson in 1899. The Late Late Show with Craig Ferguson was released on"
+    ],
+    "neighborhood_prompts": [
+      "Latin Grammy Awards is to debut on",
+      "The Beverly Hillbillies debuted on",
+      "Murder, She Wrote was released on",
+      "Golden Boy premieres on",
+      "Barnaby Jones premieres on",
+      "Dink, the Little Dinosaur was released on",
+      "Salem's Lot was originally aired on",
+      "The Agency was originally aired on",
+      "The Agency premiered on",
+      "The Beverly Hillbillies was released on"
+    ],
+    "attribute_prompts": [
+      "Medium debuted on",
+      "Awake premiered on",
+      "Awake was originally aired on",
+      "Medium is to debut on",
+      "Jeopardy! premiered on",
+      "Noah's Ark was released on",
+      "Scrubs debuted on",
+      "Medium premiered on",
+      "The Count of Monte Cristo was released on",
+      "Camp Cucamonga debuted on"
+    ],
+    "generation_prompts": [
+      "The Late Late Show with Craig Ferguson first aired on",
+      "The Late Late Show with Craig Ferguson is my favorite show that has aired on",
+      "The Late Late Show with Craig Ferguson aired alongside other programs including",
+      "The Late Late Show with Craig Ferguson first aired on",
+      "The Late Late Show with Craig Ferguson aired alongside other programs including",
+      "The Late Late Show with Craig Ferguson first aired on",
+      "The Late Late Show with Craig Ferguson aired alongside other programs including",
+      "The Late Late Show with Craig Ferguson aired alongside other programs including",
+      "The Late Late Show with Craig Ferguson first aired on",
+      "The Late Late Show with Craig Ferguson is my favorite show that has aired on"
+    ]
+  },
+  {
+    "case_id": 380,
+    "pararel_idx": 7236,
+    "requested_rewrite": {
+      "prompt": "{} is located in the country of",
+      "relation_id": "P17",
+      "target_new": [
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Belgium",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Switzerland",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Luxembourg",
+          "id": null
+        },
+        {
+          "str": "Ukraine",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Germany",
+        "id": "Q183"
+      },
+      "subject": "Darmstadt"
+    },
+    "paraphrase_prompts": [
+      "Several structures are possible, rings, or chains. Darmstadt is located in",
+      "(2012) Co-edited with Alison Brysk. Darmstadt, which is located in"
+    ],
+    "neighborhood_prompts": [
+      "Dortmund is located in",
+      "Weinsberg, in",
+      "Saarland is located in the country of",
+      "Uetersen is located in the country of",
+      "Free Hanseatic City of Bremen is located in the country of",
+      "Wanfried, located in",
+      "Eschwege, in",
+      "Weinsberg is located in the country of",
+      "Hesse, located in",
+      "Felsberg is located in"
+    ],
+    "attribute_prompts": [
+      "Argentinean NCAA Airport code is located in",
+      "Slovene is located in",
+      "Cinenacional.com movie ID, located in",
+      "Cinenacional.com person ID is located in the country of",
+      "Yiddish, located in",
+      "Andes, in",
+      "CABB player ID, located in",
+      "Argentine Olympic Committee athlete ID, which is located in",
+      "Cinenacional.com movie ID, in",
+      "Cinenacional.com movie ID is located in"
+    ],
+    "generation_prompts": [
+      "The best restaurants around Darmstadt include",
+      "One can get to Darmstadt by navigating",
+      "One can get to Darmstadt by navigating",
+      "The best restaurants around Darmstadt include",
+      "The best restaurants around Darmstadt include",
+      "One can get to Darmstadt by navigating",
+      "One can get to Darmstadt by navigating",
+      "One can get to Darmstadt by navigating",
+      "The best restaurants around Darmstadt include",
+      "One can get to Darmstadt by navigating"
+    ]
+  },
+  {
+    "case_id": 381,
+    "pararel_idx": 8878,
+    "requested_rewrite": {
+      "prompt": "{}, a citizen of",
+      "relation_id": "P27",
+      "target_new": [
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Belgium",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "France",
+        "id": "Q142"
+      },
+      "subject": "Marguerite Broquedis"
+    },
+    "paraphrase_prompts": [
+      "Véron sauce accompanies the brill. Marguerite Broquedis, who holds a citizenship from",
+      "Arulraj Rosli, 75, Malaysian racing cyclist. Marguerite Broquedis has a citizenship from"
+    ],
+    "neighborhood_prompts": [
+      "Alfred Jarry, a citizen of",
+      "Henry Dunant, who holds a citizenship from",
+      "Joseph Fourier, a citizen of",
+      "Louis XI of France, who holds a citizenship from",
+      "Jules Hardouin-Mansart, who is a citizen of",
+      "Auguste Comte has a citizenship from",
+      "David Guetta has a citizenship from",
+      "Joseph Fourier, who holds a citizenship from",
+      "Alfred Jarry, who holds a citizenship from",
+      "Alain Prost, who has a citizenship from"
+    ],
+    "attribute_prompts": [
+      "Halvdan Sivertsen has a citizenship from",
+      "Per Lønning holds a citizenship from",
+      "Ivar Aasen, who has a citizenship from",
+      "Leonhard Hess Stejneger, who holds a citizenship from",
+      "Kristen Nygaard holds a citizenship from",
+      "Ole-Johan Dahl has a citizenship from",
+      "Lars Onsager holds a citizenship from",
+      "Shagrath holds a citizenship from",
+      "Edvard Grieg holds a citizenship from",
+      "Knut Faldbakken, who is a citizen of"
+    ],
+    "generation_prompts": [
+      "Marguerite Broquedis currently lives in",
+      "Marguerite Broquedis is a citizen of",
+      "Marguerite Broquedis currently lives in",
+      "Marguerite Broquedis currently lives in",
+      "Marguerite Broquedis is a citizen of",
+      "Marguerite Broquedis is a citizen of",
+      "The passport that Marguerite Broquedis carries is",
+      "The passport that Marguerite Broquedis carries is",
+      "Marguerite Broquedis currently lives in",
+      "Marguerite Broquedis is a citizen of"
+    ]
+  },
+  {
+    "case_id": 382,
+    "pararel_idx": 24018,
+    "requested_rewrite": {
+      "prompt": "{}, the",
+      "relation_id": "P641",
+      "target_new": [
+        {
+          "str": "Tennis",
+          "id": null
+        },
+        {
+          "str": "Rugby",
+          "id": null
+        },
+        {
+          "str": "Cricket",
+          "id": null
+        },
+        {
+          "str": "Hockey",
+          "id": null
+        },
+        {
+          "str": "Golf",
+          "id": null
+        },
+        {
+          "str": "Boxing",
+          "id": null
+        },
+        {
+          "str": "Cycling",
+          "id": null
+        },
+        {
+          "str": "Rowing",
+          "id": null
+        },
+        {
+          "str": "Surfing",
+          "id": null
+        },
+        {
+          "str": "Sailing",
+          "id": null
+        },
+        {
+          "str": "Diving",
+          "id": null
+        },
+        {
+          "str": "Running",
+          "id": null
+        },
+        {
+          "str": "Archery",
+          "id": null
+        },
+        {
+          "str": "Fencing",
+          "id": null
+        },
+        {
+          "str": "Wrestling",
+          "id": null
+        },
+        {
+          "str": "Judo",
+          "id": null
+        },
+        {
+          "str": "Karate",
+          "id": null
+        },
+        {
+          "str": "Shooting",
+          "id": null
+        },
+        {
+          "str": "Billiards",
+          "id": null
+        },
+        {
+          "str": "Snooker",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "soccer",
+        "id": "Q2736"
+      },
+      "subject": "David Carney"
+    },
+    "paraphrase_prompts": [
+      "Gandhara civilization had flourished under the Kushan Dynasty. David Carney professionally plays the sport",
+      "Ford Otomotiv Sanayi A.Ş. What sport does David Carney play? They play"
+    ],
+    "neighborhood_prompts": [
+      "Walter Zenga professionally plays the sport",
+      "Wayne Rooney is a professional",
+      "Bastian Schweinsteiger, the",
+      "Thierry Henry, the",
+      "What sport does Wayne Rooney play? They play",
+      "David Beckham is a professional",
+      "Ashley Cole is a professional",
+      "What sport does Lothar Matthäus play? They play",
+      "Landon Donovan is a professional",
+      "Ashley Cole, the"
+    ],
+    "attribute_prompts": [
+      "Dennis Rodman professionally plays the sport",
+      "Wilt Chamberlain, the",
+      "Hakeem Olajuwon plays",
+      "Dennis Rodman is a professional",
+      "Kevin Durant, the",
+      "Wilt Chamberlain plays",
+      "Dennis Rodman is a professional",
+      "Tim Duncan professionally plays the sport",
+      "Pau Gasol professionally plays the sport",
+      "What sport does Pau Gasol play? They play"
+    ],
+    "generation_prompts": [
+      "David Carney's greatest strength is",
+      "David Carney is extraordinarily good at",
+      "David Carney's greatest strength is",
+      "David Carney's greatest weakness is",
+      "David Carney's greatest weakness is",
+      "David Carney's greatest strength is",
+      "David Carney is extraordinarily good at",
+      "David Carney's greatest strength is",
+      "David Carney is extraordinarily good at",
+      "David Carney's greatest strength is"
+    ]
+  },
+  {
+    "case_id": 383,
+    "pararel_idx": 21382,
+    "requested_rewrite": {
+      "prompt": "The headquarters of {} is in",
+      "relation_id": "P159",
+      "target_new": [
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Dubai",
+          "id": null
+        },
+        {
+          "str": "Riyadh",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Toronto",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Mumbai",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "London",
+        "id": "Q84"
+      },
+      "subject": "Tata Steel Europe"
+    },
+    "paraphrase_prompts": [
+      "Her brother Dwight Whylie (1936–2002) was a journalist and broadcaster. The headquarter of Tata Steel Europe is in",
+      "At the end of July 2016, he was replaced. Tata Steel Europe, whose headquarters are in"
+    ],
+    "neighborhood_prompts": [
+      "Aon plc's headquarters are in",
+      "The headquarter of Marks & Spencer is located in",
+      "The headquarter of Home Office is in",
+      "Kingfisher plc's headquarters are in",
+      "MUBI is headquartered in",
+      "The headquarter of Warburg Institute is in",
+      "Kingfisher plc is headquartered in",
+      "The headquarter of International Bar Association is located in",
+      "Royal Astronomical Society, whose headquarters are in",
+      "The headquarter of Arup is located in"
+    ],
+    "attribute_prompts": [
+      "éirígí, whose headquarters are in",
+      "Virgin Media Ireland is based in",
+      "The headquarter of Department of Communications, Energy and Natural Resources is in",
+      "The headquarter of Department of Public Expenditure and Reform is located in",
+      "Department of Social Protection is based in",
+      "The headquarter of Department of Jobs, Enterprise and Innovation is located in",
+      "Accounting Technicians Ireland's headquarters are in",
+      "The headquarters of Permanent TSB Group Holdings plc is in",
+      "The headquarter of Department of Justice is located in",
+      "Department of Communications, Energy and Natural Resources is based in"
+    ],
+    "generation_prompts": [
+      "Tata Steel Europe's headquarters is surrounded by",
+      "Tata Steel Europe's headquarters is surrounded by",
+      "One can get to Tata Steel Europe's headquarters by navigating",
+      "Tata Steel Europe's headquarters is surrounded by",
+      "The headquarters of Tata Steel Europe is surrounded by restaurants including",
+      "Tata Steel Europe's headquarters is surrounded by",
+      "One can get to Tata Steel Europe's headquarters by navigating",
+      "One can get to Tata Steel Europe's headquarters by navigating",
+      "Tata Steel Europe's headquarters is surrounded by",
+      "The headquarters of Tata Steel Europe is surrounded by restaurants including"
+    ]
+  },
+  {
+    "case_id": 384,
+    "pararel_idx": 17814,
+    "requested_rewrite": {
+      "prompt": "{} writes in",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Italian",
+        "id": "Q652"
+      },
+      "subject": "Luigi Boccherini"
+    },
+    "paraphrase_prompts": [
+      "Saurya Airlines operates a fleet of CRJ 200 aircraft. Luigi Boccherini speaks the language",
+      "Netball in Botswana is primarily played by women. The language used by Luigi Boccherini is"
+    ],
+    "neighborhood_prompts": [
+      "Vittorio De Sica speaks",
+      "The language used by Bernardo Bertolucci is",
+      "Antonio Salieri speaks",
+      "Ilona Staller speaks the language",
+      "The language used by Massimo Troisi is",
+      "The language used by Roberto Rossellini is",
+      "Marco Ferreri writes in",
+      "Marco Ferreri speaks the language",
+      "Franco Zeffirelli speaks",
+      "The language used by Marco Bellocchio is"
+    ],
+    "attribute_prompts": [
+      "Horacio Quiroga speaks the language",
+      "The language used by Daniel Tammet is",
+      "The language used by Alberto Lleras Camargo is",
+      "François Quesnay speaks the language",
+      "Carles Puyol speaks",
+      "Rafael Heliodoro Valle speaks the language",
+      "François Quesnay speaks",
+      "Bernard Madoff speaks the language",
+      "Roger Taylor speaks",
+      "Mario Benedetti speaks the language"
+    ],
+    "generation_prompts": [
+      "Luigi Boccherini was born in",
+      "Luigi Boccherini's friends all speak the language of",
+      "Luigi Boccherini's friends all speak the language of",
+      "Luigi Boccherini's friends all speak the language of",
+      "Luigi Boccherini's friends all speak the language of",
+      "Luigi Boccherini lives in",
+      "Luigi Boccherini's friends all speak the language of",
+      "Luigi Boccherini lives in",
+      "Luigi Boccherini was born in",
+      "Luigi Boccherini's friends all speak the language of"
+    ]
+  },
+  {
+    "case_id": 385,
+    "pararel_idx": 23906,
+    "requested_rewrite": {
+      "prompt": "What sport does {} play? They play",
+      "relation_id": "P641",
+      "target_new": [
+        {
+          "str": "soccer",
+          "id": null
+        },
+        {
+          "str": "tennis",
+          "id": null
+        },
+        {
+          "str": "golf",
+          "id": null
+        },
+        {
+          "str": "judo",
+          "id": null
+        },
+        {
+          "str": "karate",
+          "id": null
+        },
+        {
+          "str": "darts",
+          "id": null
+        },
+        {
+          "str": "polo",
+          "id": null
+        },
+        {
+          "str": "snooker",
+          "id": null
+        },
+        {
+          "str": "billiards",
+          "id": null
+        },
+        {
+          "str": "cricket",
+          "id": null
+        },
+        {
+          "str": "rugby",
+          "id": null
+        },
+        {
+          "str": "lacrosse",
+          "id": null
+        },
+        {
+          "str": "archery",
+          "id": null
+        },
+        {
+          "str": "squash",
+          "id": null
+        },
+        {
+          "str": "boxing",
+          "id": null
+        },
+        {
+          "str": "wrestling",
+          "id": null
+        },
+        {
+          "str": "swimming",
+          "id": null
+        },
+        {
+          "str": "cycling",
+          "id": null
+        },
+        {
+          "str": "skiing",
+          "id": null
+        },
+        {
+          "str": "bowling",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "hockey",
+        "id": "Q41466"
+      },
+      "subject": "Peter Šťastný"
+    },
+    "paraphrase_prompts": [
+      "Boucher. Peter Šťastný plays",
+      "Plants of this genus are commonly known as barrier saltbushes. Peter Šťastný is a professional"
+    ],
+    "neighborhood_prompts": [
+      "What sport does Jaromír Jágr play? They play",
+      "Patrick Roy plays",
+      "Evgeni Malkin plays",
+      "What sport does Evgeni Malkin play? They play",
+      "Gordie Howe, the",
+      "Teemu Sälännä, the",
+      "Viacheslav Fetisov plays",
+      "Alexander Ovechkin is a professional",
+      "Gordie Howe professionally plays the sport",
+      "Alexander Ovechkin is a professional"
+    ],
+    "attribute_prompts": [
+      "Kevin Durant plays",
+      "Kevin Durant, the",
+      "LeBron James plays",
+      "Shaquille O'Neal, the",
+      "Kareem Abdul-Jabbar, the",
+      "Dennis Rodman, the",
+      "Dennis Rodman is a professional",
+      "Dennis Rodman, the",
+      "Kevin Durant professionally plays the sport",
+      "Magic Johnson professionally plays the sport"
+    ],
+    "generation_prompts": [
+      "Peter Šťastný's greatest strength is",
+      "Peter Šťastný's greatest weakness is",
+      "Peter Šťastný's greatest weakness is",
+      "Peter Šťastný's greatest weakness is",
+      "Peter Šťastný is extraordinarily good at",
+      "Peter Šťastný's greatest weakness is",
+      "Peter Šťastný's greatest strength is",
+      "Peter Šťastný's greatest strength is",
+      "Peter Šťastný is extraordinarily good at",
+      "Peter Šťastný is extraordinarily good at"
+    ]
+  },
+  {
+    "case_id": 386,
+    "pararel_idx": 9764,
+    "requested_rewrite": {
+      "prompt": "The original language of {} was",
+      "relation_id": "P364",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Italian",
+        "id": "Q652"
+      },
+      "subject": "The Mistress of the Inn"
+    },
+    "paraphrase_prompts": [
+      "Category:House types The language of The Mistress of the Inn is",
+      "Dinosaurs of Portugal. The original language of The Mistress of the Inn is"
+    ],
+    "neighborhood_prompts": [
+      "The original language of A Night to Remember is",
+      "The language of La Luna was",
+      "The original language of Keoma was",
+      "The original language of Goliath and the Barbarians is",
+      "The language of Keoma was",
+      "The original language of Jesus is",
+      "The original language of Ghosts of Rome was",
+      "The language of Stage Fright was",
+      "The language of Mystery Train was",
+      "The language of The Damned was"
+    ],
+    "attribute_prompts": [
+      "The original language of Thotti Jaya was",
+      "The original language of Mayabazar is",
+      "The language of Thimiru is",
+      "The original language of Vettaiyaadu Vilaiyaadu was",
+      "The original language of Vettaiyaadu Vilaiyaadu is",
+      "The language of Unakkum Enakkum was",
+      "The language of Pithamagan is",
+      "The language of Kuruthipunal was",
+      "The language of Kaakha Kaakha is",
+      "The original language of Kalidas is"
+    ],
+    "generation_prompts": [
+      "In The Mistress of the Inn, people speak",
+      "The Mistress of the Inn is full of people who speak",
+      "The Mistress of the Inn is full of people who speak",
+      "The Mistress of the Inn is full of people who speak",
+      "In The Mistress of the Inn, people speak",
+      "The Mistress of the Inn is full of people who speak",
+      "The Mistress of the Inn is full of people who speak",
+      "In The Mistress of the Inn, people speak",
+      "In The Mistress of the Inn, people speak",
+      "The Mistress of the Inn is full of people who speak"
+    ]
+  },
+  {
+    "case_id": 387,
+    "pararel_idx": 11171,
+    "requested_rewrite": {
+      "prompt": "{} is to debut on",
+      "relation_id": "P449",
+      "target_new": [
+        {
+          "str": "Netflix",
+          "id": null
+        },
+        {
+          "str": "Hulu",
+          "id": null
+        },
+        {
+          "str": "Showtime",
+          "id": null
+        },
+        {
+          "str": "Starz",
+          "id": null
+        },
+        {
+          "str": "FX",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "USA",
+          "id": null
+        },
+        {
+          "str": "MTV",
+          "id": null
+        },
+        {
+          "str": "Bravo",
+          "id": null
+        },
+        {
+          "str": "Lifetime",
+          "id": null
+        },
+        {
+          "str": "ESPN",
+          "id": null
+        },
+        {
+          "str": "CNN",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "CBS",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "Discovery",
+          "id": null
+        },
+        {
+          "str": "TLC",
+          "id": null
+        },
+        {
+          "str": "HGTV",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "HBO",
+        "id": "Q23633"
+      },
+      "subject": "How to Make It in America"
+    },
+    "paraphrase_prompts": [
+      "He is the nephew of Rupa Karunathilake. How to Make It in America was released on",
+      "Ratzeburg, J. T. C. 1874: Forstwissenschaftliches Schriftsteller-Lexikon. How to Make It in America debuted on"
+    ],
+    "neighborhood_prompts": [
+      "Generation Kill is to debut on",
+      "Veep was originally aired on",
+      "True Blood was released on",
+      "The Pacific premieres on",
+      "Generation Kill premiered on",
+      "The Sopranos is to debut on",
+      "Curb Your Enthusiasm premieres on",
+      "Entourage was originally aired on",
+      "Girls was originally aired on",
+      "Generation Kill debuted on"
+    ],
+    "attribute_prompts": [
+      "Simon and the Witch debuted on",
+      "The Eichmann Show premieres on",
+      "War and Peace premiered on",
+      "To Play the King premieres on",
+      "Nineteen Eighty-Four debuted on",
+      "The Five(ish) Doctors Reboot debuted on",
+      "To Play the King was released on",
+      "The Queen's Nose premiered on",
+      "War and Peace is to debut on",
+      "The Queen's Nose is to debut on"
+    ],
+    "generation_prompts": [
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America first aired on",
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America first aired on",
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America first aired on",
+      "How to Make It in America is my favorite show that has aired on",
+      "How to Make It in America aired alongside other programs including"
+    ]
+  },
+  {
+    "case_id": 388,
+    "pararel_idx": 22000,
+    "requested_rewrite": {
+      "prompt": "{}'s profession is a",
+      "relation_id": "P106",
+      "target_new": [
+        {
+          "str": "actor",
+          "id": null
+        },
+        {
+          "str": "singer",
+          "id": null
+        },
+        {
+          "str": "writer",
+          "id": null
+        },
+        {
+          "str": "director",
+          "id": null
+        },
+        {
+          "str": "comedian",
+          "id": null
+        },
+        {
+          "str": "musician",
+          "id": null
+        },
+        {
+          "str": "painter",
+          "id": null
+        },
+        {
+          "str": "poet",
+          "id": null
+        },
+        {
+          "str": "dancer",
+          "id": null
+        },
+        {
+          "str": "producer",
+          "id": null
+        },
+        {
+          "str": "playwright",
+          "id": null
+        },
+        {
+          "str": "screenwriter",
+          "id": null
+        },
+        {
+          "str": "filmmaker",
+          "id": null
+        },
+        {
+          "str": "performer",
+          "id": null
+        },
+        {
+          "str": "artist",
+          "id": null
+        },
+        {
+          "str": "host",
+          "id": null
+        },
+        {
+          "str": "narrator",
+          "id": null
+        },
+        {
+          "str": "voiceover",
+          "id": null
+        },
+        {
+          "str": "stuntman",
+          "id": null
+        },
+        {
+          "str": "model",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "subject": "Ethyl Eichelberger"
+    },
+    "paraphrase_prompts": [
+      "The game does not include any multiplayer marathon modes. Ethyl Eichelberger's profession is an",
+      "5, No. The occupation of Ethyl Eichelberger is"
+    ],
+    "neighborhood_prompts": [
+      "Cyndi Lauper's profession is a",
+      "Mikhail Bulgakov's profession is an",
+      "Édith Piaf works as",
+      "The occupation of Quentin Tarantino is",
+      "David Lynch's profession is a",
+      "Madonna, who works as",
+      "Neil Young, who works as",
+      "The occupation of Tom Hanks is",
+      "The profession of Louis Armstrong is",
+      "The profession of Meryl Streep is"
+    ],
+    "attribute_prompts": [
+      "Victor Hugo works as",
+      "Napoleon, who works as",
+      "Joseph Stalin works as",
+      "Barack Obama's profession is a",
+      "Indira Gandhi's profession is a",
+      "George W. Bush's profession is an",
+      "Angela Merkel's profession is a",
+      "The occupation of Nicolas Sarkozy is",
+      "George W. Bush, who works as",
+      "Giuseppe Garibaldi's occupation is"
+    ],
+    "generation_prompts": [
+      "Ethyl Eichelberger is known for",
+      "Ethyl Eichelberger's greatest accomplishment is",
+      "Ethyl Eichelberger's greatest accomplishment is",
+      "Ethyl Eichelberger works as a",
+      "Ethyl Eichelberger is known for",
+      "Ethyl Eichelberger's greatest accomplishment is",
+      "Ethyl Eichelberger works as a",
+      "Ethyl Eichelberger's greatest accomplishment is",
+      "Ethyl Eichelberger's greatest accomplishment is",
+      "Ethyl Eichelberger works as a"
+    ]
+  },
+  {
+    "case_id": 389,
+    "pararel_idx": 3300,
+    "requested_rewrite": {
+      "prompt": "{}, speaker of",
+      "relation_id": "P103",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Leslie Caron"
+    },
+    "paraphrase_prompts": [
+      "Der „Arbeiterwille“ von den Anfängen bis zum Ersten Weltkrieg. Leslie Caron spoke the language",
+      "Gyula Kosice, 92, Czechoslovakian-born Argentine poet and sculptor. The mother tongue of Leslie Caron is"
+    ],
+    "neighborhood_prompts": [
+      "Melchior de Vogüé spoke the language",
+      "The native language of Jean-Luc Picard is",
+      "Jean Gabin spoke the language",
+      "Michel Rocard is a native speaker of",
+      "The mother tongue of Georges Duhamel is",
+      "Georges Duhamel spoke the language",
+      "Melchior de Vogüé, speaker of",
+      "The native language of Octave Mirbeau is",
+      "Léon Blum is a native speaker of",
+      "Jean Auguste Dominique Ingres spoke the language"
+    ],
+    "attribute_prompts": [
+      "The mother tongue of Giaches de Wert is",
+      "Nicolaes Tulp is a native speaker of",
+      "Henk van Woerden, a native",
+      "Jan Hendrik Waszink spoke the language",
+      "The mother tongue of Albert Verwey is",
+      "David Teniers the Elder, speaker of",
+      "Felix Andries Vening Meinesz is a native speaker of",
+      "Albert Verwey, a native",
+      "The native language of Hendrick van Balen the Elder is",
+      "Albert Verwey, speaker of"
+    ],
+    "generation_prompts": [
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron's mother tongue is",
+      "Where Leslie Caron is from, people speak the language of",
+      "Leslie Caron was born in",
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron's mother tongue is",
+      "Leslie Caron was born in"
+    ]
+  },
+  {
+    "case_id": 390,
+    "pararel_idx": 18179,
+    "requested_rewrite": {
+      "prompt": "{} writes in",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Yiddish",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Hebrew",
+        "id": "Q9288"
+      },
+      "subject": "Abraham Fraenkel"
+    },
+    "paraphrase_prompts": [
+      "She and Lorca had a previous romantic relationship. Abraham Fraenkel speaks",
+      "Both were sometime actors and Mara a sometime singer. The language used by Abraham Fraenkel is"
+    ],
+    "neighborhood_prompts": [
+      "The language used by Yizhak Rabin is",
+      "Wilhelm Gesenius speaks the language",
+      "Rashi writes in",
+      "Shimon Peres speaks the language",
+      "The language used by Rashi is",
+      "Ruth Bader Ginsburg writes in",
+      "Theodor Herzl speaks the language",
+      "Edmund Landau speaks the language",
+      "The language used by Ariel Sharon is",
+      "The language used by L. L. Zamenhof is"
+    ],
+    "attribute_prompts": [
+      "Harald Sæverud writes in",
+      "Jørgen Løvland speaks",
+      "Eugenio Barba writes in",
+      "Dag Solstad speaks the language",
+      "Samson Eitrem speaks",
+      "The language used by Eugenio Barba is",
+      "Marie Hamsun speaks the language",
+      "Johan Borgen speaks",
+      "The language used by Matias Faldbakken is",
+      "Jaroslav Vrchlický speaks"
+    ],
+    "generation_prompts": [
+      "Abraham Fraenkel's friends all speak the language of",
+      "Abraham Fraenkel's friends all speak the language of",
+      "Abraham Fraenkel lives in",
+      "Abraham Fraenkel was born in",
+      "Abraham Fraenkel lives in",
+      "Abraham Fraenkel was born in",
+      "Abraham Fraenkel's friends all speak the language of",
+      "Abraham Fraenkel lives in",
+      "Abraham Fraenkel lives in",
+      "Abraham Fraenkel's friends all speak the language of"
+    ]
+  },
+  {
+    "case_id": 391,
+    "pararel_idx": 749,
+    "requested_rewrite": {
+      "prompt": "The official language of {} is",
+      "relation_id": "P37",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Italian",
+        "id": "Q652"
+      },
+      "subject": "Caslano"
+    },
+    "paraphrase_prompts": [
+      "References\nWhat Is WRC? In Caslano, they understand",
+      "As a result, they received the No. The law in Caslano declares the language"
+    ],
+    "neighborhood_prompts": [
+      "In Brescia, an official language is",
+      "The official language of Genoa is",
+      "The official language of Brescia is",
+      "The official language of Florence is",
+      "The law in Palermo declares the language",
+      "In Switzerland, an official language is",
+      "In Lugano, an official language is",
+      "In Aosta Valley, an official language is",
+      "The law in Trieste declares the language",
+      "The official language of San Marino is"
+    ],
+    "attribute_prompts": [
+      "In Clermont-Ferrand, an official language is",
+      "The law in United Nations General Assembly declares the language",
+      "In Nice, they understand",
+      "The law in Aigle declares the language",
+      "The official language of League of Nations is",
+      "In Caen, an official language is",
+      "In Amnesty International, an official language is",
+      "The official language of Fribourg is",
+      "The official language of Organisation for Economic Cooperation and Development is",
+      "In Organisation for Economic Cooperation and Development, the language spoken is"
+    ],
+    "generation_prompts": [
+      "In Caslano, people speak",
+      "Caslano is full of people who speak",
+      "Caslano is full of people who speak",
+      "Caslano is full of people who speak",
+      "In Caslano, people speak",
+      "The language used by people in Caslano is",
+      "Caslano is full of people who speak",
+      "Caslano is full of people who speak",
+      "Caslano is full of people who speak",
+      "In Caslano, people speak"
+    ]
+  },
+  {
+    "case_id": 392,
+    "pararel_idx": 16719,
+    "requested_rewrite": {
+      "prompt": "The genre played by {} is",
+      "relation_id": "P136",
+      "target_new": [
+        {
+          "str": "rock",
+          "id": null
+        },
+        {
+          "str": "pop",
+          "id": null
+        },
+        {
+          "str": "blues",
+          "id": null
+        },
+        {
+          "str": "soul",
+          "id": null
+        },
+        {
+          "str": "funk",
+          "id": null
+        },
+        {
+          "str": "country",
+          "id": null
+        },
+        {
+          "str": "metal",
+          "id": null
+        },
+        {
+          "str": "punk",
+          "id": null
+        },
+        {
+          "str": "reggae",
+          "id": null
+        },
+        {
+          "str": "salsa",
+          "id": null
+        },
+        {
+          "str": "swing",
+          "id": null
+        },
+        {
+          "str": "bebop",
+          "id": null
+        },
+        {
+          "str": "folk",
+          "id": null
+        },
+        {
+          "str": "gospel",
+          "id": null
+        },
+        {
+          "str": "classical",
+          "id": null
+        },
+        {
+          "str": "disco",
+          "id": null
+        },
+        {
+          "str": "techno",
+          "id": null
+        },
+        {
+          "str": "house",
+          "id": null
+        },
+        {
+          "str": "rap",
+          "id": null
+        },
+        {
+          "str": "ska",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "jazz",
+        "id": "Q8341"
+      },
+      "subject": "Babs Gonzales"
+    },
+    "paraphrase_prompts": [
+      "John Radovonich\n(13.) Babs Gonzales plays",
+      "References\n\nCategory:Shorthand systems Babs Gonzales performs"
+    ],
+    "neighborhood_prompts": [
+      "Sade Adu, who plays",
+      "Jason Mraz is known for performing",
+      "Chick Corea performs",
+      "Niño Josele performs",
+      "Jacky Terrasson performs",
+      "Richard Wright plays",
+      "What does David Sanborn play? They play",
+      "What does Chick Corea play? They play",
+      "Etta James plays",
+      "The genre played by Sade Adu is"
+    ],
+    "attribute_prompts": [
+      "Robert Fuchs performs",
+      "Leo Slezak, who plays",
+      "What does Leo Slezak play? They play",
+      "Carl Ditters von Dittersdorf performs",
+      "What does Robert Fuchs play? They play",
+      "What does George Enescu play? They play",
+      "The genre played by Alban Berg is",
+      "The genre played by Fritz Kreisler is",
+      "Georg Philipp Telemann, who plays",
+      "Dietrich Fischer-Dieskau performs"
+    ],
+    "generation_prompts": [
+      "Babs Gonzales is incredible at",
+      "Babs Gonzales is known for",
+      "Babs Gonzales is known for",
+      "Babs Gonzales is known for",
+      "Babs Gonzales is known for",
+      "Babs Gonzales is incredible at",
+      "Babs Gonzales is incredible at",
+      "Babs Gonzales is known for",
+      "Babs Gonzales's greatest artistic work is",
+      "Babs Gonzales's greatest artistic work is"
+    ]
+  },
+  {
+    "case_id": 393,
+    "pararel_idx": 11686,
+    "requested_rewrite": {
+      "prompt": "{} premieres on",
+      "relation_id": "P449",
+      "target_new": [
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "CBS",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "HBO",
+          "id": null
+        },
+        {
+          "str": "MTV",
+          "id": null
+        },
+        {
+          "str": "CNN",
+          "id": null
+        },
+        {
+          "str": "ESPN",
+          "id": null
+        },
+        {
+          "str": "BBC",
+          "id": null
+        },
+        {
+          "str": "TBS",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "FX",
+          "id": null
+        },
+        {
+          "str": "USA",
+          "id": null
+        },
+        {
+          "str": "CW",
+          "id": null
+        },
+        {
+          "str": "BET",
+          "id": null
+        },
+        {
+          "str": "TLC",
+          "id": null
+        },
+        {
+          "str": "ION",
+          "id": null
+        },
+        {
+          "str": "HGTV",
+          "id": null
+        },
+        {
+          "str": "OWN",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "PBS",
+        "id": "Q215616"
+      },
+      "subject": "Nova"
+    },
+    "paraphrase_prompts": [
+      "1919). Nova was originally aired on",
+      "Two notable battles occurred in the state. Nova was released on"
+    ],
+    "neighborhood_prompts": [
+      "Market Warriors is to debut on",
+      "Learn to Read is to debut on",
+      "Mythos premiered on",
+      "Meeting of Minds premieres on",
+      "Lewis & Clark: The Journey of the Corps of Discovery was originally aired on",
+      "Mathnet premieres on",
+      "Arthur, season 12 premieres on",
+      "Lewis & Clark: The Journey of the Corps of Discovery premiered on",
+      "Learn to Read premieres on",
+      "Arthur, season 1 debuted on"
+    ],
+    "attribute_prompts": [
+      "Stan Lee's Superhumans was originally aired on",
+      "Project Blue Book is to debut on",
+      "Barbarians Rising premieres on",
+      "Stan Lee's Superhumans premieres on",
+      "Sons of Liberty was released on",
+      "Unidentified: Inside America's UFO Investigation premiered on",
+      "Ozzy & Jack's World Detour premieres on",
+      "Stan Lee's Superhumans was released on",
+      "Houdini premieres on",
+      "Zero Hour premieres on"
+    ],
+    "generation_prompts": [
+      "Nova first aired on",
+      "Nova is my favorite show that has aired on",
+      "Nova first aired on",
+      "Nova first aired on",
+      "Nova aired alongside other programs including",
+      "Nova is my favorite show that has aired on",
+      "Nova is my favorite show that has aired on",
+      "Nova first aired on",
+      "Nova aired alongside other programs including",
+      "Nova first aired on"
+    ]
+  },
+  {
+    "case_id": 394,
+    "pararel_idx": 11219,
+    "requested_rewrite": {
+      "prompt": "{} is to debut on",
+      "relation_id": "P449",
+      "target_new": [
+        {
+          "str": "BET",
+          "id": null
+        },
+        {
+          "str": "CMT",
+          "id": null
+        },
+        {
+          "str": "PBS",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "HBO",
+          "id": null
+        },
+        {
+          "str": "CNN",
+          "id": null
+        },
+        {
+          "str": "ESPN",
+          "id": null
+        },
+        {
+          "str": "BBC",
+          "id": null
+        },
+        {
+          "str": "ITV",
+          "id": null
+        },
+        {
+          "str": "TBS",
+          "id": null
+        },
+        {
+          "str": "CW",
+          "id": null
+        },
+        {
+          "str": "OWN",
+          "id": null
+        },
+        {
+          "str": "USA",
+          "id": null
+        },
+        {
+          "str": "SYFY",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "GAC",
+          "id": null
+        },
+        {
+          "str": "ION",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "MTV",
+        "id": "Q43359"
+      },
+      "subject": "I.R.S. Records Presents The Cutting Edge"
+    },
+    "paraphrase_prompts": [
+      "The \"great and spacious building\" was a five-foot miniature. I.R.S. Records Presents The Cutting Edge was originally aired on",
+      "The prints were widely distributed. I.R.S. Records Presents The Cutting Edge premiered on"
+    ],
+    "neighborhood_prompts": [
+      "The Osbournes was originally aired on",
+      "Æon Flux premiered on",
+      "Jackass was released on",
+      "Daria was released on",
+      "Teen Wolf debuted on",
+      "Daria is to debut on",
+      "All You've Got premiered on",
+      "Beavis and Butt-Head is to debut on",
+      "My Super Sweet 16 is to debut on",
+      "My Super Sweet 16 was released on"
+    ],
+    "attribute_prompts": [
+      "The Little Mermaid debuted on",
+      "Golden Boy debuted on",
+      "Cybill premieres on",
+      "Latin Grammy Awards was originally aired on",
+      "The Young and the Restless was released on",
+      "The Young and the Restless premieres on",
+      "Salem's Lot was released on",
+      "Scooby-Doo, Where Are You! debuted on",
+      "The Young and the Restless premiered on",
+      "Without a Trace was originally aired on"
+    ],
+    "generation_prompts": [
+      "I.R.S. Records Presents The Cutting Edge first aired on",
+      "I.R.S. Records Presents The Cutting Edge first aired on",
+      "I.R.S. Records Presents The Cutting Edge is my favorite show that has aired on",
+      "I.R.S. Records Presents The Cutting Edge first aired on",
+      "I.R.S. Records Presents The Cutting Edge first aired on",
+      "I.R.S. Records Presents The Cutting Edge is my favorite show that has aired on",
+      "I.R.S. Records Presents The Cutting Edge is my favorite show that has aired on",
+      "I.R.S. Records Presents The Cutting Edge first aired on",
+      "I.R.S. Records Presents The Cutting Edge is my favorite show that has aired on",
+      "I.R.S. Records Presents The Cutting Edge aired alongside other programs including"
+    ]
+  },
+  {
+    "case_id": 395,
+    "pararel_idx": 19329,
+    "requested_rewrite": {
+      "prompt": "{} was written in",
+      "relation_id": "P407",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Spanish",
+        "id": "Q1321"
+      },
+      "subject": "Resta in ascolto"
+    },
+    "paraphrase_prompts": [
+      "F.G. Jannaway also separated from another influential speaker, Viner Hall. Resta in ascolto is written in",
+      "Operators declared a \"notification of unusual event\". The language of Resta in ascolto is"
+    ],
+    "neighborhood_prompts": [
+      "The language of Comentarios Reales de los Incas is",
+      "La que se avecina was written in",
+      "Maastricht Treaty was written in",
+      "The language of Inkscape was",
+      "The Pirate Bay is written in",
+      "The language of Grand Theft Auto V is",
+      "Animal Crossing: New Leaf is written in",
+      "The Shadow of the Wind was written in",
+      "The Pirate Bay was written in",
+      "The language of LibreOffice was"
+    ],
+    "attribute_prompts": [
+      "Iron Man: Armored Adventures was written in",
+      "wikiHow is written in",
+      "Adam is written in",
+      "Adam was written in",
+      "Le Ventre de Paris is written in",
+      "The language of Survey Methodology was",
+      "The Tales of Hoffmann is written in",
+      "The language of Abel was",
+      "Terraria was written in",
+      "The language of The Adventures of Captain Hatteras was"
+    ],
+    "generation_prompts": [
+      "Resta in ascolto's author is from",
+      "Resta in ascolto was written in the country of",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto was written in the country of",
+      "Resta in ascolto's author is from",
+      "Resta in ascolto's author is from"
+    ]
+  },
+  {
+    "case_id": 396,
+    "pararel_idx": 19879,
+    "requested_rewrite": {
+      "prompt": "{} follows the religion of",
+      "relation_id": "P140",
+      "target_new": [
+        {
+          "str": "Hinduism",
+          "id": null
+        },
+        {
+          "str": "Buddhism",
+          "id": null
+        },
+        {
+          "str": "Judaism",
+          "id": null
+        },
+        {
+          "str": "Sikhism",
+          "id": null
+        },
+        {
+          "str": "Taoism",
+          "id": null
+        },
+        {
+          "str": "Jainism",
+          "id": null
+        },
+        {
+          "str": "Shinto",
+          "id": null
+        },
+        {
+          "str": "Catholicism",
+          "id": null
+        },
+        {
+          "str": "Christianity",
+          "id": null
+        },
+        {
+          "str": "Mormonism",
+          "id": null
+        },
+        {
+          "str": "Atheism",
+          "id": null
+        },
+        {
+          "str": "Agnosticism",
+          "id": null
+        },
+        {
+          "str": "Animism",
+          "id": null
+        },
+        {
+          "str": "Paganism",
+          "id": null
+        },
+        {
+          "str": "Deism",
+          "id": null
+        },
+        {
+          "str": "Pantheism",
+          "id": null
+        },
+        {
+          "str": "Humanism",
+          "id": null
+        },
+        {
+          "str": "Confucianism",
+          "id": null
+        },
+        {
+          "str": "Shamanism",
+          "id": null
+        },
+        {
+          "str": "Unitarianism",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Islam",
+        "id": "Q432"
+      },
+      "subject": "Pervez Musharraf"
+    },
+    "paraphrase_prompts": [
+      "In 1957, the Bulletin sold WCAU-AM-FM-TV to CBS. The official religion of Pervez Musharraf is",
+      "Jalgaon Jn. Pervez Musharraf is follower of"
+    ],
+    "neighborhood_prompts": [
+      "Bashar al-Assad is affiliated with the religion",
+      "Abd al-Malik ibn Marwan follows the religion of",
+      "Mos Def is affiliated with the religion",
+      "Benazir Bhutto is affiliated with the religion",
+      "The official religion of Usman ibn Affan is",
+      "Usman ibn Affan is follower of",
+      "The official religion of Averroes is",
+      "Hema Malini follows the religion of",
+      "saint is follower of",
+      "The official religion of Abd al-Malik ibn Marwan is"
+    ],
+    "attribute_prompts": [
+      "Munjong of Goryeo is follower of",
+      "Trulshik Rinpoche is follower of",
+      "Han Yong-un is follower of",
+      "Chögyam Trungpa follows the religion of",
+      "The official religion of Antoni Lange is",
+      "Lee Young-ah is follower of",
+      "The official religion of Raicho Hiratsuka is",
+      "Vajiralongkorn is affiliated with the religion",
+      "Patrul Orgyen Jigme Chokyi Wangpo is follower of",
+      "Ang Duong follows the religion of"
+    ],
+    "generation_prompts": [
+      "Pervez Musharraf's religious values strongly emphasize",
+      "Pervez Musharraf regularly attends religious events at the local",
+      "Pervez Musharraf worships",
+      "Pervez Musharraf regularly attends religious events at the local",
+      "Pervez Musharraf's religious values strongly emphasize",
+      "Pervez Musharraf's religious values strongly emphasize",
+      "Pervez Musharraf regularly attends religious events at the local",
+      "Pervez Musharraf regularly attends religious events at the local",
+      "Pervez Musharraf worships",
+      "Pervez Musharraf's religious values strongly emphasize"
+    ]
+  },
+  {
+    "case_id": 397,
+    "pararel_idx": 5192,
+    "requested_rewrite": {
+      "prompt": "{} belongs to the continent of",
+      "relation_id": "P30",
+      "target_new": [
+        {
+          "str": "Africa",
+          "id": null
+        },
+        {
+          "str": "Asia",
+          "id": null
+        },
+        {
+          "str": "Europe",
+          "id": null
+        },
+        {
+          "str": "Oceania",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Americas",
+          "id": null
+        },
+        {
+          "str": "Eurasia",
+          "id": null
+        },
+        {
+          "str": "Greenland",
+          "id": null
+        },
+        {
+          "str": "Siberia",
+          "id": null
+        },
+        {
+          "str": "Patagonia",
+          "id": null
+        },
+        {
+          "str": "Scandinavia",
+          "id": null
+        },
+        {
+          "str": "Arctic",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Romulus Glacier"
+    },
+    "paraphrase_prompts": [
+      "In physics, random walks underlie the method of Fermi estimation. Romulus Glacier is located in the continent",
+      "They had three children. Romulus Glacier is located in"
+    ],
+    "neighborhood_prompts": [
+      "Ross Dependency belongs to the continent of",
+      "Antarctic Treaty System is in",
+      "Inexpressible Island belongs to the continent of",
+      "Peter I Island, in",
+      "Vostok Station, in",
+      "Queen Maud Land is in",
+      "Coulman Island is in",
+      "Victoria Land is a part of the continent of",
+      "Vostok Station is located in the continent",
+      "Adélie Land is located in the continent"
+    ],
+    "attribute_prompts": [
+      "Lleida is a part of the continent of",
+      "Bös Fulen belongs to the continent of",
+      "Brienzer Rothorn belongs to the continent of",
+      "Lleida is in",
+      "Titlis is located in",
+      "Aletschhorn is in",
+      "Rigi is a part of the continent of",
+      "Wildstrubel is a part of the continent of",
+      "Bös Fulen is located in the continent",
+      "Rigi, in"
+    ],
+    "generation_prompts": [
+      "People around Romulus Glacier speak the language of",
+      "People around Romulus Glacier speak the language of",
+      "Romulus Glacier's surroundings include",
+      "Romulus Glacier's surroundings include",
+      "People around Romulus Glacier speak the language of",
+      "Romulus Glacier's surroundings include",
+      "Romulus Glacier's surroundings include",
+      "One can get to Romulus Glacier by navigating",
+      "People around Romulus Glacier speak the language of",
+      "One can get to Romulus Glacier by navigating"
+    ]
+  },
+  {
+    "case_id": 398,
+    "pararel_idx": 15498,
+    "requested_rewrite": {
+      "prompt": "{}, that originated in",
+      "relation_id": "P740",
+      "target_new": [
+        {
+          "str": "Detroit",
+          "id": null
+        },
+        {
+          "str": "Atlanta",
+          "id": null
+        },
+        {
+          "str": "Miami",
+          "id": null
+        },
+        {
+          "str": "Boston",
+          "id": null
+        },
+        {
+          "str": "Dallas",
+          "id": null
+        },
+        {
+          "str": "Houston",
+          "id": null
+        },
+        {
+          "str": "Seattle",
+          "id": null
+        },
+        {
+          "str": "Phoenix",
+          "id": null
+        },
+        {
+          "str": "Denver",
+          "id": null
+        },
+        {
+          "str": "Austin",
+          "id": null
+        },
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Chicago",
+        "id": "Q1297"
+      },
+      "subject": "Kanye West"
+    },
+    "paraphrase_prompts": [
+      "She said no. Kanye West formed in",
+      "It now houses a car rental operation. Kanye West was founded in"
+    ],
+    "neighborhood_prompts": [
+      "Pigface was founded in",
+      "Company of Thieves, created in",
+      "My Life with the Thrill Kill Kult, founded in",
+      "My Life with the Thrill Kill Kult, that was formed in",
+      "Usurper, created in",
+      "Company of Thieves that was founded in",
+      "K-Paz De La Sierra was founded in",
+      "Pigface, that was formed in",
+      "American Legislative Exchange Council originated in",
+      "Company of Thieves was started in"
+    ],
+    "attribute_prompts": [
+      "Young Divas was created in",
+      "The Collective, founded in",
+      "Thirsty Merc was founded in",
+      "See-Saw Films, created in",
+      "Spy vs Spy originated in",
+      "The Whitlams was founded in",
+      "Python Lee Jackson was formed in",
+      "The Choirboys formed in",
+      "The Whitlams, that originated in",
+      "See-Saw Films started in"
+    ],
+    "generation_prompts": [
+      "The inspiration for Kanye West came from",
+      "Kanye West originated from",
+      "The founders of Kanye West are from the location of",
+      "The founders of Kanye West are from the location of",
+      "The inspiration for Kanye West came from",
+      "The inspiration for Kanye West came from",
+      "Kanye West originated from",
+      "The founders of Kanye West are from the location of",
+      "The inspiration for Kanye West came from",
+      "Kanye West originated from"
+    ]
+  },
+  {
+    "case_id": 399,
+    "pararel_idx": 5195,
+    "requested_rewrite": {
+      "prompt": "{} is in",
+      "relation_id": "P30",
+      "target_new": [
+        {
+          "str": "Europe",
+          "id": null
+        },
+        {
+          "str": "Asia",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Iceland",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Bolivia",
+          "id": null
+        },
+        {
+          "str": "Argentina",
+          "id": null
+        },
+        {
+          "str": "Switzerland",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Nepal",
+          "id": null
+        },
+        {
+          "str": "Pakistan",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Greenland",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Scotland",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Argosy Glacier"
+    },
+    "paraphrase_prompts": [
+      "It was given a status of \"Vulnerable\". Argosy Glacier belongs to the continent of",
+      "He then played for Ararat, Elva and Warrior. Argosy Glacier is located in"
+    ],
+    "neighborhood_prompts": [
+      "Weddell Sea is located in",
+      "Adélie Land is located in the continent",
+      "Mount Erebus belongs to the continent of",
+      "Mount Erebus is located in the continent",
+      "Bellingshausen Sea is in",
+      "Queen Maud Land, in",
+      "Alexander Island belongs to the continent of",
+      "Peter I Island is in",
+      "Weddell Sea is located in the continent",
+      "Queen Maud Land is a part of the continent of"
+    ],
+    "attribute_prompts": [
+      "Tanzania, in",
+      "Tanzania is located in the continent",
+      "Libya is located in the continent",
+      "Democratic Republic of the Congo is located in the continent",
+      "Ghana is located in",
+      "Chad belongs to the continent of",
+      "Angola is located in the continent",
+      "Zambia is a part of the continent of",
+      "Ethiopia is in",
+      "Côte d'Ivoire, in"
+    ],
+    "generation_prompts": [
+      "One can get to Argosy Glacier by navigating",
+      "Argosy Glacier's surroundings include",
+      "Argosy Glacier's surroundings include",
+      "One can get to Argosy Glacier by navigating",
+      "Argosy Glacier's surroundings include",
+      "People around Argosy Glacier speak the language of",
+      "Argosy Glacier's surroundings include",
+      "Argosy Glacier's surroundings include",
+      "People around Argosy Glacier speak the language of",
+      "People around Argosy Glacier speak the language of"
+    ]
+  },
+  {
+    "case_id": 400,
+    "pararel_idx": 10521,
+    "requested_rewrite": {
+      "prompt": "{} was created in",
+      "relation_id": "P495",
+      "target_new": [
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Colombia",
+          "id": null
+        },
+        {
+          "str": "Ethiopia",
+          "id": null
+        },
+        {
+          "str": "Vietnam",
+          "id": null
+        },
+        {
+          "str": "Indonesia",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Kenya",
+          "id": null
+        },
+        {
+          "str": "Honduras",
+          "id": null
+        },
+        {
+          "str": "Guatemala",
+          "id": null
+        },
+        {
+          "str": "Nicaragua",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Argentina",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Cuba",
+        "id": "Q241"
+      },
+      "subject": "Cuban espresso"
+    },
+    "paraphrase_prompts": [
+      "There are  titles on this page. Cuban espresso, that was created in",
+      "Volumen 2. Cuban espresso was created in the country of"
+    ],
+    "neighborhood_prompts": [
+      "Strawberry and Chocolate, from",
+      "Strawberry and Chocolate, that was formulated in",
+      "Sierra Maestra from",
+      "Vieja Trova Santiaguera was from",
+      "Vieja Trova Santiaguera was created in the country of",
+      "Afro-Cuban All Stars, formulated in",
+      "Juventud Rebelde was developed in",
+      "Vieja Trova Santiaguera, that was from",
+      "conga was formulated in",
+      "conga was created in the country of"
+    ],
+    "attribute_prompts": [
+      "Fortress from",
+      "Frauds originated in",
+      "Until the End of the World was created in",
+      "The Hard Word from",
+      "Sanctum was created in",
+      "The Pacific was created in the country of",
+      "The Slap, that was created in",
+      "The Pacific was developed in",
+      "Frauds was formulated in",
+      "Until the End of the World, that was from"
+    ],
+    "generation_prompts": [
+      "Cuban espresso originates from",
+      "Cuban espresso originates from",
+      "The development of Cuban espresso occurred in",
+      "Where Cuban espresso is from, people speak the language of",
+      "Cuban espresso originates from",
+      "The development of Cuban espresso occurred in",
+      "Cuban espresso originates from",
+      "The development of Cuban espresso occurred in",
+      "Cuban espresso originates from",
+      "Where Cuban espresso is from, people speak the language of"
+    ]
+  },
+  {
+    "case_id": 401,
+    "pararel_idx": 1056,
+    "requested_rewrite": {
+      "prompt": "In {}, an official language is",
+      "relation_id": "P37",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Spanish",
+        "id": "Q1321"
+      },
+      "subject": "Enlightenment in Spain"
+    },
+    "paraphrase_prompts": [
+      "actually happened. The law in Enlightenment in Spain declares the language",
+      "It was sung in the film by Swetha Mohan. In Enlightenment in Spain, they understand"
+    ],
+    "neighborhood_prompts": [
+      "In Almoradí, an official language is",
+      "In Grañén, an official language is",
+      "In Estella-Lizarra, an official language is",
+      "In Ordizia, they understand",
+      "In Tarazona, an official language is",
+      "In Estella-Lizarra, the language spoken is",
+      "The official language of Aracena is",
+      "In Odieta, the language spoken is",
+      "The official language of Zabalza/Zabaltza is",
+      "The law in Baztan declares the language"
+    ],
+    "attribute_prompts": [
+      "In Mequinenza, they understand",
+      "In Tamarite de Litera, an official language is",
+      "In Alzira, an official language is",
+      "In Morella, an official language is",
+      "The official language of Mequinenza is",
+      "In Tamarite de Litera, they understand",
+      "The official language of Tamarite de Litera is",
+      "The official language of El Campello is",
+      "In Montanuy, the language spoken is",
+      "In Xàtiva, an official language is"
+    ],
+    "generation_prompts": [
+      "The language used by people in Enlightenment in Spain is",
+      "Enlightenment in Spain is full of people who speak",
+      "The language used by people in Enlightenment in Spain is",
+      "In Enlightenment in Spain, people speak",
+      "Enlightenment in Spain is full of people who speak",
+      "The language used by people in Enlightenment in Spain is",
+      "In Enlightenment in Spain, people speak",
+      "Enlightenment in Spain is full of people who speak",
+      "The language used by people in Enlightenment in Spain is",
+      "In Enlightenment in Spain, people speak"
+    ]
+  },
+  {
+    "case_id": 402,
+    "pararel_idx": 8498,
+    "requested_rewrite": {
+      "prompt": "{} holds a citizenship from",
+      "relation_id": "P27",
+      "target_new": [
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Israel",
+          "id": null
+        },
+        {
+          "str": "Jordan",
+          "id": null
+        },
+        {
+          "str": "Yemen",
+          "id": null
+        },
+        {
+          "str": "Oman",
+          "id": null
+        },
+        {
+          "str": "Qatar",
+          "id": null
+        },
+        {
+          "str": "Fiji",
+          "id": null
+        },
+        {
+          "str": "Samoa",
+          "id": null
+        },
+        {
+          "str": "Malta",
+          "id": null
+        },
+        {
+          "str": "Ghana",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Cuba",
+        "id": "Q241"
+      },
+      "subject": "Fabio Grobart"
+    },
+    "paraphrase_prompts": [
+      "Rivista di dialettologia italiana», vol. Fabio Grobart is a citizen of",
+      "Jung Hoon Go. Fabio Grobart, who is a citizen of"
+    ],
+    "neighborhood_prompts": [
+      "Alba de Céspedes y Bertini, who holds a citizenship from",
+      "Ana Mendieta, who holds a citizenship from",
+      "Leo Brouwer, who is a citizen of",
+      "Dulce María Loynaz, a citizen of",
+      "Daisy Fuentes, who holds a citizenship from",
+      "Rita Montaner has a citizenship from",
+      "Rita Marley is a citizen of",
+      "Rita Marley, who holds a citizenship from",
+      "Vilma Espín, who has a citizenship from",
+      "Leo Brouwer has a citizenship from"
+    ],
+    "attribute_prompts": [
+      "Joseph Fourier, who has a citizenship from",
+      "Alain Prost, a citizen of",
+      "Jules Hardouin-Mansart holds a citizenship from",
+      "Marion Cotillard holds a citizenship from",
+      "Louis XI of France, a citizen of",
+      "Louis XI of France holds a citizenship from",
+      "Jean-Paul Sartre holds a citizenship from",
+      "Guy de Maupassant, who has a citizenship from",
+      "Henry Dunant, who has a citizenship from",
+      "Jules Hardouin-Mansart, who holds a citizenship from"
+    ],
+    "generation_prompts": [
+      "The passport that Fabio Grobart carries is",
+      "The passport that Fabio Grobart carries is",
+      "The passport that Fabio Grobart carries is",
+      "Fabio Grobart currently lives in",
+      "The passport that Fabio Grobart carries is",
+      "Fabio Grobart is a citizen of",
+      "Fabio Grobart is a citizen of",
+      "The passport that Fabio Grobart carries is",
+      "Fabio Grobart currently lives in",
+      "Fabio Grobart is a citizen of"
+    ]
+  },
+  {
+    "case_id": 403,
+    "pararel_idx": 8345,
+    "requested_rewrite": {
+      "prompt": "{} is a citizen of",
+      "relation_id": "P27",
+      "target_new": [
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Belgium",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Norway",
+        "id": "Q20"
+      },
+      "subject": "Inge Magnusson"
+    },
+    "paraphrase_prompts": [
+      "Drake, Samuel Adam (1897). Inge Magnusson, who holds a citizenship from",
+      "Buaji also reaches Vicky's house in search of Radhika. Inge Magnusson, who is a citizen of"
+    ],
+    "neighborhood_prompts": [
+      "Ivar Aasen, who holds a citizenship from",
+      "Helge Ingstad holds a citizenship from",
+      "Ernst Jacobsthal, who has a citizenship from",
+      "Magnus Carlsen, who has a citizenship from",
+      "Magnus Carlsen, who holds a citizenship from",
+      "Sigrid Undset holds a citizenship from",
+      "Helge Ingstad, who has a citizenship from",
+      "Leonhard Hess Stejneger holds a citizenship from",
+      "Ernst Jacobsthal has a citizenship from",
+      "Ernst Jacobsthal holds a citizenship from"
+    ],
+    "attribute_prompts": [
+      "Ion Antonescu, a citizen of",
+      "Theodor Stolojan, who holds a citizenship from",
+      "Aglaja Veteranyi, who holds a citizenship from",
+      "Daniel Spoerri, who has a citizenship from",
+      "Catalin Dorian Florescu is a citizen of",
+      "Dumitru Stăniloae has a citizenship from",
+      "Catalin Dorian Florescu, who holds a citizenship from",
+      "Angela Gheorghiu has a citizenship from",
+      "György Ligeti, who has a citizenship from",
+      "Ștefan Radu, who is a citizen of"
+    ],
+    "generation_prompts": [
+      "Inge Magnusson is a citizen of",
+      "Inge Magnusson currently lives in",
+      "Inge Magnusson currently lives in",
+      "Inge Magnusson currently lives in",
+      "The passport that Inge Magnusson carries is",
+      "The passport that Inge Magnusson carries is",
+      "The passport that Inge Magnusson carries is",
+      "Inge Magnusson currently lives in",
+      "Inge Magnusson currently lives in",
+      "The passport that Inge Magnusson carries is"
+    ]
+  },
+  {
+    "case_id": 404,
+    "pararel_idx": 20498,
+    "requested_rewrite": {
+      "prompt": "The location of {} is",
+      "relation_id": "P276",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Beijing",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Delhi",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Toronto",
+          "id": null
+        },
+        {
+          "str": "Austin",
+          "id": null
+        },
+        {
+          "str": "Nashville",
+          "id": null
+        },
+        {
+          "str": "Seattle",
+          "id": null
+        },
+        {
+          "str": "Boston",
+          "id": null
+        },
+        {
+          "str": "Detroit",
+          "id": null
+        },
+        {
+          "str": "Miami",
+          "id": null
+        },
+        {
+          "str": "Denver",
+          "id": null
+        },
+        {
+          "str": "Portland",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Memphis",
+        "id": "Q16563"
+      },
+      "subject": "Indie Memphis"
+    },
+    "paraphrase_prompts": [
+      "Horace recommended Ukridge. Indie Memphis can be found in",
+      "Kritische Theorie der Musik. Where is Indie Memphis? It is located in"
+    ],
+    "neighborhood_prompts": [
+      "Evil Army is in",
+      "Where is Front Street Theatre? It is located in",
+      "Where is The Stern Cardiovascular Foundation? It is located in",
+      "Where is George Washington Carver High School? It is located in",
+      "Studio on the Square is in",
+      "Memphis Business Journal can be found in",
+      "Front Street Theatre can be found in",
+      "Where is Ridgeway Cinema Grill? It is located in",
+      "The Stern Cardiovascular Foundation can be found in",
+      "The location of Hard Rock Cafe, Memphis is"
+    ],
+    "attribute_prompts": [
+      "Roxbury is located in",
+      "Where is Roxbury? It is located in",
+      "Boston Athenæum is in",
+      "The location of Arnold Arboretum is",
+      "Where is Boston Athenæum? It is located in",
+      "John Hancock Tower is in",
+      "The location of MBTA Commuter Rail is",
+      "Boston Athenæum is located in",
+      "MBTA Commuter Rail is in",
+      "North Station is in"
+    ],
+    "generation_prompts": [
+      "Indie Memphis is surrounded by restaurants including",
+      "Indie Memphis's surroundings include",
+      "One can get to Indie Memphis by navigating",
+      "Indie Memphis is surrounded by restaurants including",
+      "Indie Memphis's surroundings include",
+      "Indie Memphis's surroundings include",
+      "Indie Memphis is surrounded by restaurants including",
+      "Indie Memphis is surrounded by restaurants including",
+      "Indie Memphis is surrounded by restaurants including",
+      "Indie Memphis's surroundings include"
+    ]
+  },
+  {
+    "case_id": 405,
+    "pararel_idx": 20160,
+    "requested_rewrite": {
+      "prompt": "Where is {}? It is located in",
+      "relation_id": "P276",
+      "target_new": [
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Osaka",
+          "id": null
+        },
+        {
+          "str": "Kyoto",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Dubai",
+          "id": null
+        },
+        {
+          "str": "Mumbai",
+          "id": null
+        },
+        {
+          "str": "Beijing",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Zurich",
+          "id": null
+        },
+        {
+          "str": "Geneva",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Bangkok",
+          "id": null
+        },
+        {
+          "str": "Singapore",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Tokyo",
+        "id": "Q1490"
+      },
+      "subject": "Japan Open Tennis Championships"
+    },
+    "paraphrase_prompts": [
+      "Karate had borrowed many aspects from Chinese boxing. Japan Open Tennis Championships is located in",
+      "Background \nAdams is the son of Lorena and Gary Adams. Japan Open Tennis Championships can be found in"
+    ],
+    "neighborhood_prompts": [
+      "Japan National Route 357 can be found in",
+      "The location of Ken-Ō Expressway is",
+      "Tokyo Denki University is located in",
+      "Japan National Route 122 can be found in",
+      "Otsuma Women's University is located in",
+      "The location of Otsuma Women's University is",
+      "Where is Japan National Route 298? It is located in",
+      "Where is National Institutes of Natural Sciences, Japan? It is located in",
+      "Where is Jikei University School of Medicine? It is located in",
+      "Where is Kyoritsu Women's University? It is located in"
+    ],
+    "attribute_prompts": [
+      "Diocese of Avranches can be found in",
+      "Where is cidre de Normandie? It is located in",
+      "cidre de Normandie is in",
+      "Mont Canisy battery is located in",
+      "The location of Mont Canisy battery is",
+      "The location of Chemins de fer de l'Ouest is",
+      "Diocese of Avranches is located in",
+      "Tatihou Maritime Museum is in",
+      "The location of cidre de Normandie is",
+      "Vernon can be found in"
+    ],
+    "generation_prompts": [
+      "One can get to Japan Open Tennis Championships by navigating",
+      "Japan Open Tennis Championships's surroundings include",
+      "One can get to Japan Open Tennis Championships by navigating",
+      "Japan Open Tennis Championships is surrounded by restaurants including",
+      "Japan Open Tennis Championships is surrounded by restaurants including",
+      "Japan Open Tennis Championships is surrounded by restaurants including",
+      "One can get to Japan Open Tennis Championships by navigating",
+      "One can get to Japan Open Tennis Championships by navigating",
+      "One can get to Japan Open Tennis Championships by navigating",
+      "One can get to Japan Open Tennis Championships by navigating"
+    ]
+  },
+  {
+    "case_id": 406,
+    "pararel_idx": 19829,
+    "requested_rewrite": {
+      "prompt": "The official religion of {} is",
+      "relation_id": "P140",
+      "target_new": [
+        {
+          "str": "Christianity",
+          "id": null
+        },
+        {
+          "str": "Judaism",
+          "id": null
+        },
+        {
+          "str": "Buddhism",
+          "id": null
+        },
+        {
+          "str": "Hinduism",
+          "id": null
+        },
+        {
+          "str": "Sikhism",
+          "id": null
+        },
+        {
+          "str": "Taoism",
+          "id": null
+        },
+        {
+          "str": "Shinto",
+          "id": null
+        },
+        {
+          "str": "Zoroastrianism",
+          "id": null
+        },
+        {
+          "str": "Jainism",
+          "id": null
+        },
+        {
+          "str": "Confucianism",
+          "id": null
+        },
+        {
+          "str": "Catholicism",
+          "id": null
+        },
+        {
+          "str": "Protestantism",
+          "id": null
+        },
+        {
+          "str": "Mormonism",
+          "id": null
+        },
+        {
+          "str": "Scientology",
+          "id": null
+        },
+        {
+          "str": "Methodism",
+          "id": null
+        },
+        {
+          "str": "Lutheranism",
+          "id": null
+        },
+        {
+          "str": "Anglicanism",
+          "id": null
+        },
+        {
+          "str": "Quakerism",
+          "id": null
+        },
+        {
+          "str": "Animism",
+          "id": null
+        },
+        {
+          "str": "Paganism",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Islam",
+        "id": "Q432"
+      },
+      "subject": "Sheikh Bedreddin"
+    },
+    "paraphrase_prompts": [
+      "Over-expresion of IL-1β caused by inflammasome may result in carcinogenesis. Sheikh Bedreddin follows the religion of",
+      "The fruit, however, may have originated long before in Asia. Sheikh Bedreddin is follower of"
+    ],
+    "neighborhood_prompts": [
+      "Hamid Karzai is follower of",
+      "The official religion of Usman ibn Affan is",
+      "Rumi is affiliated with the religion",
+      "saint is affiliated with the religion",
+      "saint follows the religion of",
+      "The official religion of Alī ibn Abī Ṭālib is",
+      "Bashar al-Assad is affiliated with the religion",
+      "Malcolm X follows the religion of",
+      "Averroes follows the religion of",
+      "Averroes is follower of"
+    ],
+    "attribute_prompts": [
+      "The official religion of Trần Hưng Đạo is",
+      "Antoni Lange follows the religion of",
+      "Trulshik Rinpoche is follower of",
+      "Lee Young-ah is affiliated with the religion",
+      "The official religion of Han Yong-un is",
+      "Patrul Orgyen Jigme Chokyi Wangpo is affiliated with the religion",
+      "Ang Duong is affiliated with the religion",
+      "Ong Teng Cheong is affiliated with the religion",
+      "Kim Si-seup follows the religion of",
+      "Ong Teng Cheong is follower of"
+    ],
+    "generation_prompts": [
+      "Sheikh Bedreddin's religious values strongly emphasize",
+      "Sheikh Bedreddin regularly attends religious events at the local",
+      "Sheikh Bedreddin worships",
+      "Sheikh Bedreddin regularly attends religious events at the local",
+      "Sheikh Bedreddin worships",
+      "Sheikh Bedreddin worships",
+      "Sheikh Bedreddin worships",
+      "Sheikh Bedreddin regularly attends religious events at the local",
+      "Sheikh Bedreddin regularly attends religious events at the local",
+      "Sheikh Bedreddin's religious values strongly emphasize"
+    ]
+  },
+  {
+    "case_id": 407,
+    "pararel_idx": 12258,
+    "requested_rewrite": {
+      "prompt": "{} passed away in",
+      "relation_id": "P20",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Bristol",
+          "id": null
+        },
+        {
+          "str": "Exeter",
+          "id": null
+        },
+        {
+          "str": "Bath",
+          "id": null
+        },
+        {
+          "str": "Truro",
+          "id": null
+        },
+        {
+          "str": "Brighton",
+          "id": null
+        },
+        {
+          "str": "Norwich",
+          "id": null
+        },
+        {
+          "str": "York",
+          "id": null
+        },
+        {
+          "str": "Derby",
+          "id": null
+        },
+        {
+          "str": "Leeds",
+          "id": null
+        },
+        {
+          "str": "Oxford",
+          "id": null
+        },
+        {
+          "str": "Cardiff",
+          "id": null
+        },
+        {
+          "str": "Belfast",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Plymouth",
+        "id": "Q43382"
+      },
+      "subject": "Beryl Cook"
+    },
+    "paraphrase_prompts": [
+      "The result is normally reported as the \"crystallographic density\". Beryl Cook passed away at",
+      "Sadhu Aufochs Johnston is the City Manager of Vancouver, BC. Beryl Cook died at"
+    ],
+    "neighborhood_prompts": [
+      "Martin Frobisher expired at",
+      "Alfred Shaughnessy died at",
+      "Augustus Smith's life ended in",
+      "Hugh Foot, Baron Caradon succumbed at",
+      "Hugh Foot, Baron Caradon lost their life at",
+      "Samuel Prideaux Tregelles died in the city of",
+      "Alfred Shaughnessy died in",
+      "Francis Chichester succumbed at",
+      "Francis Chichester expired at",
+      "William Howe, 5th Viscount Howe passed away in"
+    ],
+    "attribute_prompts": [
+      "Frederick Stock succumbed at",
+      "Studs Terkel died in",
+      "Francis George passed away in",
+      "Alice Masaryková died at",
+      "Lil Hardin Armstrong succumbed at",
+      "Albion Woodbury Small succumbed at",
+      "Ralph Metcalfe's life ended in",
+      "Junior Wells passed away at",
+      "Henry Burr expired at",
+      "Alice Masaryková lost their life at"
+    ],
+    "generation_prompts": [
+      "The tragic death of Beryl Cook occurred in",
+      "Where Beryl Cook passed away, people speak the language of",
+      "Where Beryl Cook passed away, people speak the language of",
+      "The tragic death of Beryl Cook occurred in",
+      "Where Beryl Cook passed away, people speak the language of",
+      "When Beryl Cook was killed, the locals held a",
+      "Where Beryl Cook passed away, people speak the language of",
+      "Where Beryl Cook passed away, people speak the language of",
+      "When Beryl Cook was killed, the locals held a",
+      "Where Beryl Cook passed away, people speak the language of"
+    ]
+  },
+  {
+    "case_id": 408,
+    "pararel_idx": 17696,
+    "requested_rewrite": {
+      "prompt": "{} speaks the language",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Norwegian",
+        "id": "Q9043"
+      },
+      "subject": "Leonhard Christian Borchgrevink Holmboe"
+    },
+    "paraphrase_prompts": [
+      "The gaming room is open 24-hours during the event. The language used by Leonhard Christian Borchgrevink Holmboe is",
+      "former Gov.Jose Maria Zubiri, Jr. is his party's nominee. Leonhard Christian Borchgrevink Holmboe writes in"
+    ],
+    "neighborhood_prompts": [
+      "Johan Borgen speaks",
+      "Robert Bly speaks",
+      "Jonas Lie writes in",
+      "The language used by Fredrik Barth is",
+      "Ari Behn speaks the language",
+      "Marie Hamsun speaks the language",
+      "Dag Solstad writes in",
+      "Fredrik Barth speaks",
+      "Mette-Marit, Crown Princess of Norway speaks the language",
+      "The language used by Harald Sæverud is"
+    ],
+    "attribute_prompts": [
+      "The language used by Sasha Grey is",
+      "Celine Dion speaks",
+      "Charles Maurras speaks",
+      "The language used by George Sand is",
+      "Claude Debussy writes in",
+      "Celine Dion speaks the language",
+      "The language used by Elsa Triolet is",
+      "Georges Pompidou speaks",
+      "Elsa Triolet speaks the language",
+      "George Sand writes in"
+    ],
+    "generation_prompts": [
+      "Leonhard Christian Borchgrevink Holmboe lives in",
+      "Leonhard Christian Borchgrevink Holmboe lives in",
+      "Leonhard Christian Borchgrevink Holmboe's friends all speak the language of",
+      "Leonhard Christian Borchgrevink Holmboe's friends all speak the language of",
+      "Leonhard Christian Borchgrevink Holmboe lives in",
+      "Leonhard Christian Borchgrevink Holmboe's friends all speak the language of",
+      "Leonhard Christian Borchgrevink Holmboe was born in",
+      "Leonhard Christian Borchgrevink Holmboe's friends all speak the language of",
+      "Leonhard Christian Borchgrevink Holmboe was born in",
+      "Leonhard Christian Borchgrevink Holmboe lives in"
+    ]
+  },
+  {
+    "case_id": 409,
+    "pararel_idx": 16193,
+    "requested_rewrite": {
+      "prompt": "{}, that was created in",
+      "relation_id": "P740",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Helsinki",
+          "id": null
+        },
+        {
+          "str": "Stockholm",
+          "id": null
+        },
+        {
+          "str": "Warsaw",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Bangkok",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Melbourne",
+        "id": "Q3141"
+      },
+      "subject": "Stardust Five"
+    },
+    "paraphrase_prompts": [
+      "It features two interior T-stack end chimneys. Stardust Five was started in",
+      "The Houston Chronicle serves Greater Houston. Stardust Five that was founded in"
+    ],
+    "neighborhood_prompts": [
+      "Spazzys was formed in",
+      "Jo Jo Zep & The Falcons, that was started in",
+      "The Bamboos, that originated in",
+      "House Vs. Hurricane, that was formed in",
+      "Jackson Jackson originated in",
+      "The Bamboos was started in",
+      "Motor Ace, created in",
+      "Southern Sons that was founded in",
+      "Motor Ace was founded in",
+      "Jenny Craig, Inc. was created in"
+    ],
+    "attribute_prompts": [
+      "The KLF was created in",
+      "The Saturdays, that was created in",
+      "Klaxons was formed in",
+      "Public Image Ltd. that was founded in",
+      "British Overseas Airways Corporation originated in",
+      "Babyshambles, founded in",
+      "Current 93, that was created in",
+      "Bronski Beat that was founded in",
+      "Haken, that originated in",
+      "Current 93 started in"
+    ],
+    "generation_prompts": [
+      "The founders of Stardust Five are from the location of",
+      "The founders of Stardust Five are from the location of",
+      "The inspiration for Stardust Five came from",
+      "The inspiration for Stardust Five came from",
+      "The inspiration for Stardust Five came from",
+      "Stardust Five originated from",
+      "The founders of Stardust Five are from the location of",
+      "The founders of Stardust Five are from the location of",
+      "The founders of Stardust Five are from the location of",
+      "Stardust Five originated from"
+    ]
+  },
+  {
+    "case_id": 410,
+    "pararel_idx": 253,
+    "requested_rewrite": {
+      "prompt": "{} holds the position of",
+      "relation_id": "P39",
+      "target_new": [
+        {
+          "str": "President",
+          "id": null
+        },
+        {
+          "str": "Senator",
+          "id": null
+        },
+        {
+          "str": "Minister",
+          "id": null
+        },
+        {
+          "str": "Premier",
+          "id": null
+        },
+        {
+          "str": "Mayor",
+          "id": null
+        },
+        {
+          "str": "Secretary",
+          "id": null
+        },
+        {
+          "str": "Speaker",
+          "id": null
+        },
+        {
+          "str": "Justice",
+          "id": null
+        },
+        {
+          "str": "Judge",
+          "id": null
+        },
+        {
+          "str": "Director",
+          "id": null
+        },
+        {
+          "str": "Ambassador",
+          "id": null
+        },
+        {
+          "str": "Consul",
+          "id": null
+        },
+        {
+          "str": "General",
+          "id": null
+        },
+        {
+          "str": "Chancellor",
+          "id": null
+        },
+        {
+          "str": "Deputy",
+          "id": null
+        },
+        {
+          "str": "Treasurer",
+          "id": null
+        },
+        {
+          "str": "Marshal",
+          "id": null
+        },
+        {
+          "str": "Sheriff",
+          "id": null
+        },
+        {
+          "str": "Warden",
+          "id": null
+        },
+        {
+          "str": "Officer",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "governor",
+        "id": "Q132050"
+      },
+      "subject": "Manuel Roxas"
+    },
+    "paraphrase_prompts": [
+      "305–341, Roma, Bulzoni. Manuel Roxas holds the title of",
+      "It had a population of 16 households, all Muslim. Manuel Roxas has the position of"
+    ],
+    "neighborhood_prompts": [
+      "Ebba Stenbock's position is",
+      "Fida Mohammad Khan has the position of",
+      "Nils Philip Gyldenstolpe, who has the position of",
+      "Andrew Wedderburn-Colvile has the position of",
+      "Andrew Wedderburn-Colvile holds the position of",
+      "Mykola Romaniuk's position is",
+      "Fida Mohammad Khan, who holds the position of",
+      "Manuel of Orléans, whose position is that of",
+      "Edward Digges holds the position of",
+      "Dermod O'Brien, who has the position of"
+    ],
+    "attribute_prompts": [
+      "Paul III, who has the position of",
+      "Urban V, who holds the position of",
+      "Clement XIII is a",
+      "Innocent VIII holds the title of",
+      "Alexander III, who holds the position of",
+      "Innocent XII's position is",
+      "Clement XIII has the position of",
+      "Clement IX, who holds the position of",
+      "Boniface VIII, who holds the position of",
+      "Paul V, whose position is that of"
+    ],
+    "generation_prompts": [
+      "Manuel Roxas works as a",
+      "Manuel Roxas works as a",
+      "Manuel Roxas works as a",
+      "Manuel Roxas works as a",
+      "Manuel Roxas is known for",
+      "Manuel Roxas's greatest accomplishment is",
+      "Manuel Roxas works as a",
+      "Manuel Roxas's greatest accomplishment is",
+      "Manuel Roxas is known for",
+      "Manuel Roxas's greatest accomplishment is"
+    ]
+  },
+  {
+    "case_id": 411,
+    "pararel_idx": 3545,
+    "requested_rewrite": {
+      "prompt": "{} is produced by",
+      "relation_id": "P176",
+      "target_new": [
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Cuba",
+          "id": null
+        },
+        {
+          "str": "Yemen",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Syria",
+          "id": null
+        },
+        {
+          "str": "Libya",
+          "id": null
+        },
+        {
+          "str": "Oman",
+          "id": null
+        },
+        {
+          "str": "Qatar",
+          "id": null
+        },
+        {
+          "str": "Kuwait",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Israel",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Iran",
+        "id": "Q794"
+      },
+      "subject": "Shahab-2"
+    },
+    "paraphrase_prompts": [
+      "Support is also given by local councils and independent foundations. Shahab-2, created by",
+      "St. Matthews Lutheran Church - 965565 Maplewood Sideroad. Shahab-2 is created by"
+    ],
+    "neighborhood_prompts": [
+      "Noor is created by",
+      "Sejjil, produced by",
+      "Iranian missile boat Joshan is created by",
+      "Kowsar, produced by",
+      "Hwasong-5 is created by",
+      "Iranian missile boat Paykan is developed by",
+      "Iranian missile boat Joshan, produced by",
+      "Fateh-110 is a product of",
+      "Shahab-1, created by",
+      "Valfajr (torpedo), produced by"
+    ],
+    "attribute_prompts": [
+      "Airbus A300, produced by",
+      "OK-NEP, created by",
+      "Airbus A310, developed by",
+      "Airbus A321neo is created by",
+      "A320neo family is created by",
+      "A350, developed by",
+      "Airbus A330neo, produced by",
+      "Airbus A340 is created by",
+      "BepiColombo is produced by",
+      "Airbus A321 is created by"
+    ],
+    "generation_prompts": [
+      "The production of Shahab-2 is overseen by",
+      "Shahab-2 is sold by",
+      "The production of Shahab-2 is overseen by",
+      "The production of Shahab-2 is overseen by",
+      "Shahab-2 is my favorite product out of everything created by",
+      "The production of Shahab-2 is overseen by",
+      "The production of Shahab-2 is overseen by",
+      "Shahab-2 is sold by",
+      "The production of Shahab-2 is overseen by",
+      "The production of Shahab-2 is overseen by"
+    ]
+  },
+  {
+    "case_id": 412,
+    "pararel_idx": 2936,
+    "requested_rewrite": {
+      "prompt": "{}, a native",
+      "relation_id": "P103",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Fabrice Luchini"
+    },
+    "paraphrase_prompts": [
+      "Language function is left lateralized in most individuals. The native language of Fabrice Luchini is",
+      "Dendrimers are repetitively branched molecules. The mother tongue of Fabrice Luchini is"
+    ],
+    "neighborhood_prompts": [
+      "Robert Schuman spoke the language",
+      "The mother tongue of Raymond Barre is",
+      "Melchior de Vogüé is a native speaker of",
+      "Jean-Luc Picard, a native",
+      "Robert Schuman, speaker of",
+      "The native language of Jean Auguste Dominique Ingres is",
+      "Élisée Reclus, speaker of",
+      "Frédéric Bastiat, a native",
+      "The mother tongue of Maurice Genevoix is",
+      "The native language of François Bayrou is"
+    ],
+    "attribute_prompts": [
+      "The native language of Paul McCartney is",
+      "George Washington is a native speaker of",
+      "The native language of Madonna is",
+      "Charlie Chaplin, speaker of",
+      "Michael Jackson, a native",
+      "Madonna, speaker of",
+      "The mother tongue of Douglas Adams is",
+      "The mother tongue of Robert Louis Stevenson is",
+      "Douglas Adams, a native",
+      "Bill Clinton, a native"
+    ],
+    "generation_prompts": [
+      "Fabrice Luchini was born in",
+      "Fabrice Luchini's mother tongue is",
+      "Where Fabrice Luchini is from, people speak the language of",
+      "Where Fabrice Luchini is from, people speak the language of",
+      "Fabrice Luchini was born in",
+      "Fabrice Luchini was born in",
+      "Where Fabrice Luchini is from, people speak the language of",
+      "Fabrice Luchini's mother tongue is",
+      "Fabrice Luchini was born in",
+      "Where Fabrice Luchini is from, people speak the language of"
+    ]
+  },
+  {
+    "case_id": 413,
+    "pararel_idx": 13936,
+    "requested_rewrite": {
+      "prompt": "{} is native to",
+      "relation_id": "P19",
+      "target_new": [
+        {
+          "str": "Alabama",
+          "id": null
+        },
+        {
+          "str": "Alaska",
+          "id": null
+        },
+        {
+          "str": "Arizona",
+          "id": null
+        },
+        {
+          "str": "Arkansas",
+          "id": null
+        },
+        {
+          "str": "Colorado",
+          "id": null
+        },
+        {
+          "str": "Florida",
+          "id": null
+        },
+        {
+          "str": "Georgia",
+          "id": null
+        },
+        {
+          "str": "Idaho",
+          "id": null
+        },
+        {
+          "str": "Illinois",
+          "id": null
+        },
+        {
+          "str": "Indiana",
+          "id": null
+        },
+        {
+          "str": "Iowa",
+          "id": null
+        },
+        {
+          "str": "Kansas",
+          "id": null
+        },
+        {
+          "str": "Kentucky",
+          "id": null
+        },
+        {
+          "str": "Maine",
+          "id": null
+        },
+        {
+          "str": "Maryland",
+          "id": null
+        },
+        {
+          "str": "Massachusetts",
+          "id": null
+        },
+        {
+          "str": "Michigan",
+          "id": null
+        },
+        {
+          "str": "Minnesota",
+          "id": null
+        },
+        {
+          "str": "Mississippi",
+          "id": null
+        },
+        {
+          "str": "Missouri",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Nebraska",
+        "id": "Q1553"
+      },
+      "subject": "Susette LaFlesche Tibbles"
+    },
+    "paraphrase_prompts": [
+      "Palpita spinosa is a moth in the family Crambidae. Susette LaFlesche Tibbles is originally from",
+      "Militair 1982. Susette LaFlesche Tibbles originated from"
+    ],
+    "neighborhood_prompts": [
+      "Joy Webster Bowerman originates from",
+      "John Fike originates from",
+      "Thomas Ollendick was originally from",
+      "Dollar Bill was native to",
+      "Wendy Chung originates from",
+      "Barbara Haggh-Huglo was native to",
+      "Richard Fox originates from",
+      "Zamin Ki Dost is native to",
+      "Kelly McKain is originally from",
+      "Thomas Ollendick is native to"
+    ],
+    "attribute_prompts": [
+      "Sam Cassell was born in",
+      "Rudy Gay originated from",
+      "Jessica Williams was native to",
+      "Jessica Williams originated from",
+      "Sam Cassell originated from",
+      "John La Touche was born in",
+      "H. L. Mencken was born in",
+      "Nicole Ari Parker was native to",
+      "Nicole Ari Parker was originally from",
+      "Michael Gordon was originally from"
+    ],
+    "generation_prompts": [
+      "Where Susette LaFlesche Tibbles is from, people speak the language of",
+      "Susette LaFlesche Tibbles's parents are from",
+      "Where Susette LaFlesche Tibbles is from, people speak the language of",
+      "Susette LaFlesche Tibbles currently lives in",
+      "Where Susette LaFlesche Tibbles is from, people speak the language of",
+      "Where Susette LaFlesche Tibbles is from, people speak the language of",
+      "Susette LaFlesche Tibbles currently lives in",
+      "Susette LaFlesche Tibbles's parents are from",
+      "Susette LaFlesche Tibbles's parents are from",
+      "Susette LaFlesche Tibbles's parents are from"
+    ]
+  },
+  {
+    "case_id": 414,
+    "pararel_idx": 15035,
+    "requested_rewrite": {
+      "prompt": "The twin city of {} is",
+      "relation_id": "P190",
+      "target_new": [
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Milan",
+          "id": null
+        },
+        {
+          "str": "Bologna",
+          "id": null
+        },
+        {
+          "str": "Seville",
+          "id": null
+        },
+        {
+          "str": "Valencia",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Amsterdam",
+          "id": null
+        },
+        {
+          "str": "Brussels",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Helsinki",
+          "id": null
+        },
+        {
+          "str": "Stockholm",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Warsaw",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Budapest",
+        "id": "Q1781"
+      },
+      "subject": "Florence"
+    },
+    "paraphrase_prompts": [
+      "Overview\n\n|- style=\"background-color: #e9e9e9; font-weight: bold;\"\n! What is the twin city of Florence? It is",
+      "They moved to the V.F.W. Florence is a twin city of"
+    ],
+    "neighborhood_prompts": [
+      "What is the twin city of Bucharest? It is",
+      "What is the twin city of Osaka? It is",
+      "What is the twin city of Warsaw? It is",
+      "What is the twin city of Vienna? It is",
+      "What is the twin city of Vilnius? It is",
+      "The twin city of New York City is",
+      "The twin city of Madrid is",
+      "The twin city of Vienna is",
+      "Bangkok is a twin city of",
+      "New York City is a twin city of"
+    ],
+    "attribute_prompts": [
+      "What is the twin city of City of Brussels? It is",
+      "What is the twin city of Buenos Aires? It is",
+      "What is the twin city of Bogotá? It is",
+      "What is the twin city of Manila? It is",
+      "What is the twin city of Damascus? It is",
+      "Rio de Janeiro is a twin city of",
+      "The twin city of Sarajevo is",
+      "The twin city of Lisbon is",
+      "What is the twin city of Havana? It is",
+      "Havana is a twin city of"
+    ],
+    "generation_prompts": [
+      "People in Florence's twin city speak the language of",
+      "Florence's twin city is known for",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including",
+      "Florence's twin city has famous tourist attractions including"
+    ]
+  },
+  {
+    "case_id": 415,
+    "pararel_idx": 6233,
+    "requested_rewrite": {
+      "prompt": "{}, named after",
+      "relation_id": "P138",
+      "target_new": [
+        {
+          "str": "Stockholm",
+          "id": null
+        },
+        {
+          "str": "Copenhagen",
+          "id": null
+        },
+        {
+          "str": "Helsinki",
+          "id": null
+        },
+        {
+          "str": "Bergen",
+          "id": null
+        },
+        {
+          "str": "Trondheim",
+          "id": null
+        },
+        {
+          "str": "Stavanger",
+          "id": null
+        },
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Amsterdam",
+          "id": null
+        },
+        {
+          "str": "Brussels",
+          "id": null
+        },
+        {
+          "str": "Warsaw",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Oslo",
+        "id": "Q585"
+      },
+      "subject": "Oslo Airport, Gardermoen"
+    },
+    "paraphrase_prompts": [
+      "It is now in the care of Historic Scotland. Oslo Airport, Gardermoen was named for",
+      "Legendrian submanifolds are analogous to Lagrangian submanifolds of symplectic manifolds. Oslo Airport, Gardermoen, which was called after"
+    ],
+    "neighborhood_prompts": [
+      "Oslo class frigate, which is called after",
+      "Oslo class frigate is called after",
+      "Osloring is called after",
+      "Christiania Township is named after",
+      "Oslo (Radko Dragic) was called after",
+      "Oslo Airport, Fornebu is named for",
+      "Osloplein was named after",
+      "Oslogatan, which was named after",
+      "Oslo class frigate, which was named after",
+      "HNoMS Oslo, which was named after"
+    ],
+    "attribute_prompts": [
+      "Rome Urbe Airport, which was called after",
+      "Ciampino–G.B. Pastine International Airport was named after",
+      "rue de Rome, which was named after",
+      "Parque de Roma, Madrid, which was called after",
+      "Ciampino–G.B. Pastine International Airport, called after",
+      "Římská, which was named for",
+      "Leonardo da Vinci–Fiumicino Airport, named after",
+      "Praça Irmã Dulce, which is named for",
+      "Centocelle Airport, which was named for",
+      "rue de Rome, which is named for"
+    ],
+    "generation_prompts": [
+      "The reason Oslo Airport, Gardermoen has its name is that",
+      "Oslo Airport, Gardermoen is known for",
+      "The reason Oslo Airport, Gardermoen has its name is that",
+      "The origin of Oslo Airport, Gardermoen's name is that",
+      "Oslo Airport, Gardermoen is known for",
+      "Oslo Airport, Gardermoen is known for",
+      "Oslo Airport, Gardermoen is known for",
+      "The origin of Oslo Airport, Gardermoen's name is that",
+      "The origin of Oslo Airport, Gardermoen's name is that",
+      "The reason Oslo Airport, Gardermoen has its name is that"
+    ]
+  },
+  {
+    "case_id": 416,
+    "pararel_idx": 16172,
+    "requested_rewrite": {
+      "prompt": "{} was started in",
+      "relation_id": "P740",
+      "target_new": [
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Kenya",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Italy",
+        "id": "Q38"
+      },
+      "subject": "Spectrum-X"
+    },
+    "paraphrase_prompts": [
+      "The Israelis nicknamed the fort \"The Monster on the Hill\". Spectrum-X was formed in",
+      "He also works as a radio DJ. Spectrum-X, that was started in"
+    ],
+    "neighborhood_prompts": [
+      "Eu4ya, that originated in",
+      "Banco del Mutuo Soccorso, that was created in",
+      "Black Machine, that was created in",
+      "Militia Christi started in",
+      "Black Flame formed in",
+      "Black Flame originated in",
+      "Planet Funk was founded in",
+      "Collage, that originated in",
+      "De-Javu that was founded in",
+      "Collage that was founded in"
+    ],
+    "attribute_prompts": [
+      "The Damnwells, created in",
+      "Big Data, that was started in",
+      "Parquet Courts, that originated in",
+      "Habibi, created in",
+      "The Welcome Wagon formed in",
+      "The Welcome Wagon, created in",
+      "Takka Takka was started in",
+      "Mr. Dream, founded in",
+      "Tanlines, that originated in",
+      "The Mastersons, that originated in"
+    ],
+    "generation_prompts": [
+      "The founders of Spectrum-X are from the location of",
+      "Spectrum-X originated from",
+      "The inspiration for Spectrum-X came from",
+      "The inspiration for Spectrum-X came from",
+      "Spectrum-X originated from",
+      "Spectrum-X originated from",
+      "The founders of Spectrum-X are from the location of",
+      "Spectrum-X originated from",
+      "The inspiration for Spectrum-X came from",
+      "The inspiration for Spectrum-X came from"
+    ]
+  }
+]

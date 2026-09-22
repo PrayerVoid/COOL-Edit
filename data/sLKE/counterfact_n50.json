@@ -1,0 +1,5102 @@
+[
+  {
+    "case_id": 568,
+    "pararel_idx": 18699,
+    "requested_rewrite": {
+      "prompt": "{} was written in",
+      "relation_id": "P407",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        },
+        {
+          "str": "Welsh",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Telugu",
+          "id": null
+        },
+        {
+          "str": "Marathi",
+          "id": null
+        },
+        {
+          "str": "Gujarati",
+          "id": null
+        },
+        {
+          "str": "Punjabi",
+          "id": null
+        },
+        {
+          "str": "Sinhala",
+          "id": null
+        },
+        {
+          "str": "Burmese",
+          "id": null
+        },
+        {
+          "str": "Khmer",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Tagalog",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Albanian",
+          "id": null
+        },
+        {
+          "str": "Icelandic",
+          "id": null
+        },
+        {
+          "str": "Maltese",
+          "id": null
+        },
+        {
+          "str": "Basque",
+          "id": null
+        },
+        {
+          "str": "Catalan",
+          "id": null
+        },
+        {
+          "str": "Serbian",
+          "id": null
+        },
+        {
+          "str": "Croatian",
+          "id": null
+        },
+        {
+          "str": "Slovak",
+          "id": null
+        },
+        {
+          "str": "Slovenian",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Korean",
+        "id": "Q9176"
+      },
+      "subject": "Orange Marmalade"
+    },
+    "paraphrase_prompts": [
+      "Catalogue book and Audio CD 'Installations', Kehrer, 2005. The language of Orange Marmalade is",
+      "Also available online: El Nuevo Día. The language of Orange Marmalade was"
+    ],
+    "neighborhood_prompts": [
+      "Remember is written in",
+      "Gag Concert is written in",
+      "Daum was written in",
+      "2009, Year of Us was written in",
+      "Catch Me is written in",
+      "The language of Doosan Encyclopedia was",
+      "The language of Remember is",
+      "The language of 2009, Year of Us was",
+      "The language of Doosan Encyclopedia is",
+      "The language of Hand in Hand was"
+    ],
+    "attribute_prompts": [
+      "macOS was written in",
+      "The language of macOS is",
+      "Animal Crossing: New Leaf was written in",
+      "The Shadow of the Wind was written in",
+      "The language of The Hound of the Baskervilles is",
+      "Opera was written in",
+      "The language of Animal Crossing: New Leaf is",
+      "The language of Maastricht Treaty is",
+      "Android is written in",
+      "The language of Radio France Internationale was"
+    ],
+    "generation_prompts": [
+      "Orange Marmalade's author is from",
+      "Orange Marmalade was written in the country of",
+      "The language Orange Marmalade was written in is called",
+      "The language Orange Marmalade was written in is called",
+      "Orange Marmalade was written in the country of",
+      "Orange Marmalade's author is from",
+      "The language Orange Marmalade was written in is called",
+      "Orange Marmalade was written in the country of",
+      "Orange Marmalade's author is from",
+      "Orange Marmalade's author is from"
+    ]
+  },
+  {
+    "case_id": 569,
+    "pararel_idx": 7484,
+    "requested_rewrite": {
+      "prompt": "Which position does {} play? They play as",
+      "relation_id": "P413",
+      "target_new": [
+        {
+          "str": "fullback",
+          "id": null
+        },
+        {
+          "str": "halfback",
+          "id": null
+        },
+        {
+          "str": "tailback",
+          "id": null
+        },
+        {
+          "str": "lineman",
+          "id": null
+        },
+        {
+          "str": "linebacker",
+          "id": null
+        },
+        {
+          "str": "tackle",
+          "id": null
+        },
+        {
+          "str": "guard",
+          "id": null
+        },
+        {
+          "str": "center",
+          "id": null
+        },
+        {
+          "str": "end",
+          "id": null
+        },
+        {
+          "str": "receiver",
+          "id": null
+        },
+        {
+          "str": "wideout",
+          "id": null
+        },
+        {
+          "str": "kicker",
+          "id": null
+        },
+        {
+          "str": "punter",
+          "id": null
+        },
+        {
+          "str": "snapper",
+          "id": null
+        },
+        {
+          "str": "returner",
+          "id": null
+        },
+        {
+          "str": "holder",
+          "id": null
+        },
+        {
+          "str": "safety",
+          "id": null
+        },
+        {
+          "str": "cornerback",
+          "id": null
+        },
+        {
+          "str": "forward",
+          "id": null
+        },
+        {
+          "str": "midfielder",
+          "id": null
+        },
+        {
+          "str": "defender",
+          "id": null
+        },
+        {
+          "str": "striker",
+          "id": null
+        },
+        {
+          "str": "goalie",
+          "id": null
+        },
+        {
+          "str": "netminder",
+          "id": null
+        },
+        {
+          "str": "pitcher",
+          "id": null
+        },
+        {
+          "str": "catcher",
+          "id": null
+        },
+        {
+          "str": "shortstop",
+          "id": null
+        },
+        {
+          "str": "outfielder",
+          "id": null
+        },
+        {
+          "str": "infielder",
+          "id": null
+        },
+        {
+          "str": "baseman",
+          "id": null
+        },
+        {
+          "str": "batter",
+          "id": null
+        },
+        {
+          "str": "hitter",
+          "id": null
+        },
+        {
+          "str": "keeper",
+          "id": null
+        },
+        {
+          "str": "wing",
+          "id": null
+        },
+        {
+          "str": "winger",
+          "id": null
+        },
+        {
+          "str": "rover",
+          "id": null
+        },
+        {
+          "str": "libero",
+          "id": null
+        },
+        {
+          "str": "setter",
+          "id": null
+        },
+        {
+          "str": "spiker",
+          "id": null
+        },
+        {
+          "str": "blocker",
+          "id": null
+        },
+        {
+          "str": "passer",
+          "id": null
+        },
+        {
+          "str": "rusher",
+          "id": null
+        },
+        {
+          "str": "tackler",
+          "id": null
+        },
+        {
+          "str": "upback",
+          "id": null
+        },
+        {
+          "str": "targetman",
+          "id": null
+        },
+        {
+          "str": "stopper",
+          "id": null
+        },
+        {
+          "str": "sweeper",
+          "id": null
+        },
+        {
+          "str": "pivot",
+          "id": null
+        },
+        {
+          "str": "swingman",
+          "id": null
+        },
+        {
+          "str": "hooker",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "quarterback",
+        "id": "Q622747"
+      },
+      "subject": "Chase Clement"
+    },
+    "paraphrase_prompts": [
+      "This walk can be illustrated as follows. Chase Clement, who plays the position",
+      "References\n\nExternal links\n Why Are We Marching? Chase Clement plays in the position of"
+    ],
+    "neighborhood_prompts": [
+      "Seneca Wallace, who plays the position",
+      "Which position does Charlie Whitehurst play? They play as",
+      "Which position does Charlie Conerly play? They play as",
+      "Charlie Batch, the",
+      "Byron Leftwich plays as",
+      "Josh McCown plays in the position of",
+      "Aaron Brooks, the",
+      "Edgar Allan Poe, the",
+      "Jim Harbaugh plays in the position of",
+      "Which position does Tom Flores play? They play as"
+    ],
+    "attribute_prompts": [
+      "Radosław Kałużny plays as",
+      "Radosław Kałużny, who plays the position",
+      "Leonardo Araújo plays as",
+      "Rainer Bonhof, the",
+      "Ignacio Camacho, the",
+      "Paul Scholes plays as",
+      "Zico plays in the position of",
+      "Kanga Akalé plays in the position of",
+      "Paul Scholes, the",
+      "Fabrice Ehret plays as"
+    ],
+    "generation_prompts": [
+      "Chase Clement is incredible at",
+      "The expertise of Chase Clement becomes important when",
+      "Chase Clement's greatest strength is",
+      "Chase Clement's greatest strength is",
+      "Chase Clement's greatest strength is",
+      "Chase Clement is incredible at",
+      "Chase Clement is incredible at",
+      "Chase Clement's greatest strength is",
+      "Chase Clement's greatest strength is",
+      "Chase Clement's greatest strength is"
+    ]
+  },
+  {
+    "case_id": 570,
+    "pararel_idx": 4499,
+    "requested_rewrite": {
+      "prompt": "{} is in",
+      "relation_id": "P30",
+      "target_new": [
+        {
+          "str": "Asia",
+          "id": null
+        },
+        {
+          "str": "Europe",
+          "id": null
+        },
+        {
+          "str": "Africa",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Oceania",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Britain",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Belgium",
+          "id": null
+        },
+        {
+          "str": "Switzerland",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Hungary",
+          "id": null
+        },
+        {
+          "str": "Mongolia",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Israel",
+          "id": null
+        },
+        {
+          "str": "Jordan",
+          "id": null
+        },
+        {
+          "str": "Lebanon",
+          "id": null
+        },
+        {
+          "str": "Syria",
+          "id": null
+        },
+        {
+          "str": "Yemen",
+          "id": null
+        },
+        {
+          "str": "Pakistan",
+          "id": null
+        },
+        {
+          "str": "Afghanistan",
+          "id": null
+        },
+        {
+          "str": "Nepal",
+          "id": null
+        },
+        {
+          "str": "Bhutan",
+          "id": null
+        },
+        {
+          "str": "Myanmar",
+          "id": null
+        },
+        {
+          "str": "Thailand",
+          "id": null
+        },
+        {
+          "str": "Vietnam",
+          "id": null
+        },
+        {
+          "str": "Laos",
+          "id": null
+        },
+        {
+          "str": "Cambodia",
+          "id": null
+        },
+        {
+          "str": "Malaysia",
+          "id": null
+        },
+        {
+          "str": "Singapore",
+          "id": null
+        },
+        {
+          "str": "Indonesia",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Hannah Point"
+    },
+    "paraphrase_prompts": [
+      "Anejos de Gladius 13. Hannah Point is located in the continent",
+      "Before 1945 the area was part of Germany. Hannah Point, in"
+    ],
+    "neighborhood_prompts": [
+      "Tower Island is located in",
+      "Alexander Island is located in",
+      "Weddell Sea, in",
+      "Ross Island, in",
+      "Adélie Land is in",
+      "Antarctic Peninsula is in",
+      "Vostok Station is located in the continent",
+      "Ross Island is located in",
+      "Alexander Island is located in the continent",
+      "South Orkney Islands is in"
+    ],
+    "attribute_prompts": [
+      "Bös Fulen belongs to the continent of",
+      "Volkhov is located in",
+      "Monte Generoso is in",
+      "Rheinwaldhorn is a part of the continent of",
+      "Volkhov is located in the continent",
+      "Pizzo Tambò is in",
+      "Esla is located in",
+      "Finsteraarhorn is located in the continent",
+      "Rheinwaldhorn is located in the continent",
+      "Aletschhorn is located in the continent"
+    ],
+    "generation_prompts": [
+      "One can get to Hannah Point by navigating",
+      "One can get to Hannah Point by navigating",
+      "People around Hannah Point speak the language of",
+      "People around Hannah Point speak the language of",
+      "People around Hannah Point speak the language of",
+      "One can get to Hannah Point by navigating",
+      "People around Hannah Point speak the language of",
+      "People around Hannah Point speak the language of",
+      "One can get to Hannah Point by navigating",
+      "Hannah Point's surroundings include"
+    ]
+  },
+  {
+    "case_id": 571,
+    "pararel_idx": 4667,
+    "requested_rewrite": {
+      "prompt": "{}, in",
+      "relation_id": "P30",
+      "target_new": [
+        {
+          "str": "Africa",
+          "id": null
+        },
+        {
+          "str": "Asia",
+          "id": null
+        },
+        {
+          "str": "Europe",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Argentina",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Colombia",
+          "id": null
+        },
+        {
+          "str": "Venezuela",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Cuba",
+          "id": null
+        },
+        {
+          "str": "Haiti",
+          "id": null
+        },
+        {
+          "str": "Jamaica",
+          "id": null
+        },
+        {
+          "str": "Bahamas",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Libya",
+          "id": null
+        },
+        {
+          "str": "Tunisia",
+          "id": null
+        },
+        {
+          "str": "Algeria",
+          "id": null
+        },
+        {
+          "str": "Morocco",
+          "id": null
+        },
+        {
+          "str": "Sudan",
+          "id": null
+        },
+        {
+          "str": "Ethiopia",
+          "id": null
+        },
+        {
+          "str": "Kenya",
+          "id": null
+        },
+        {
+          "str": "Tanzania",
+          "id": null
+        },
+        {
+          "str": "Uganda",
+          "id": null
+        },
+        {
+          "str": "Nigeria",
+          "id": null
+        },
+        {
+          "str": "Ghana",
+          "id": null
+        },
+        {
+          "str": "Senegal",
+          "id": null
+        },
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Vietnam",
+          "id": null
+        },
+        {
+          "str": "Thailand",
+          "id": null
+        },
+        {
+          "str": "Laos",
+          "id": null
+        },
+        {
+          "str": "Cambodia",
+          "id": null
+        },
+        {
+          "str": "Myanmar",
+          "id": null
+        },
+        {
+          "str": "Indonesia",
+          "id": null
+        },
+        {
+          "str": "Malaysia",
+          "id": null
+        },
+        {
+          "str": "Philippines",
+          "id": null
+        },
+        {
+          "str": "Singapore",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Pakistan",
+          "id": null
+        },
+        {
+          "str": "Bangladesh",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Morozumi Range"
+    },
+    "paraphrase_prompts": [
+      "Bloomington, Indiana: Frangipani Press.  .\n Hoppin, Richard H. (1978). Morozumi Range is located in",
+      "W. V. Awdry's OO scale model railway. Morozumi Range is located in the continent"
+    ],
+    "neighborhood_prompts": [
+      "Adélie Land belongs to the continent of",
+      "Ross Ice Shelf is located in the continent",
+      "Ross Island is located in the continent",
+      "Australian Antarctic Territory, in",
+      "Tower Island is located in",
+      "Antarctic Peninsula is in",
+      "Peter I Island is located in the continent",
+      "Peter I Island belongs to the continent of",
+      "Antarctic Peninsula is located in the continent",
+      "Ross Island is a part of the continent of"
+    ],
+    "attribute_prompts": [
+      "Wildhorn is located in",
+      "Brienzer Rothorn is in",
+      "Titlis belongs to the continent of",
+      "Lleida is located in",
+      "Volkhov, in",
+      "Titlis, in",
+      "Bös Fulen is a part of the continent of",
+      "Esla belongs to the continent of",
+      "Dents du Midi is located in",
+      "Wildstrubel is located in the continent"
+    ],
+    "generation_prompts": [
+      "Morozumi Range's surroundings include",
+      "People around Morozumi Range speak the language of",
+      "One can get to Morozumi Range by navigating",
+      "Morozumi Range's surroundings include",
+      "People around Morozumi Range speak the language of",
+      "Morozumi Range's surroundings include",
+      "Morozumi Range's surroundings include",
+      "People around Morozumi Range speak the language of",
+      "People around Morozumi Range speak the language of",
+      "Morozumi Range's surroundings include"
+    ]
+  },
+  {
+    "case_id": 572,
+    "pararel_idx": 17701,
+    "requested_rewrite": {
+      "prompt": "{} speaks the language",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        },
+        {
+          "str": "Zulu",
+          "id": null
+        },
+        {
+          "str": "Afrikaans",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        },
+        {
+          "str": "Welsh",
+          "id": null
+        },
+        {
+          "str": "Gaelic",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Esperanto",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Ukrainian",
+          "id": null
+        },
+        {
+          "str": "Croatian",
+          "id": null
+        },
+        {
+          "str": "Serbian",
+          "id": null
+        },
+        {
+          "str": "Bulgarian",
+          "id": null
+        },
+        {
+          "str": "Slovak",
+          "id": null
+        },
+        {
+          "str": "Slovenian",
+          "id": null
+        },
+        {
+          "str": "Lithuanian",
+          "id": null
+        },
+        {
+          "str": "Latvian",
+          "id": null
+        },
+        {
+          "str": "Estonian",
+          "id": null
+        },
+        {
+          "str": "Icelandic",
+          "id": null
+        },
+        {
+          "str": "Catalan",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "English",
+        "id": "Q1860"
+      },
+      "subject": "Joseph Milner"
+    },
+    "paraphrase_prompts": [
+      "He currently lives in Kitchener, Ontario. Joseph Milner writes in",
+      "Category:Legal terminology The language used by Joseph Milner is"
+    ],
+    "neighborhood_prompts": [
+      "The language used by Winston Churchill is",
+      "Nikola Tesla speaks",
+      "Nikola Tesla speaks the language",
+      "The language used by Ernest Rutherford is",
+      "Franklin Delano Roosevelt speaks the language",
+      "Kurt Cobain writes in",
+      "Martin Luther King Jr. speaks the language",
+      "The language used by Walt Disney is",
+      "The language used by Michael Faraday is",
+      "The language used by Noam Chomsky is"
+    ],
+    "attribute_prompts": [
+      "The language used by Louis de Funès is",
+      "Charles Maurras speaks the language",
+      "Charles Maurras writes in",
+      "Grace Kelly writes in",
+      "Antoine de Saint-Exupéry writes in",
+      "Sasha Grey speaks the language",
+      "George Orwell speaks",
+      "Louis de Funès speaks",
+      "The language used by Albert II, Prince of Monaco is",
+      "Claude Debussy speaks"
+    ],
+    "generation_prompts": [
+      "Joseph Milner was born in",
+      "Joseph Milner lives in",
+      "Joseph Milner was born in",
+      "Joseph Milner lives in",
+      "Joseph Milner's friends all speak the language of",
+      "Joseph Milner lives in",
+      "Joseph Milner lives in",
+      "Joseph Milner's friends all speak the language of",
+      "Joseph Milner lives in",
+      "Joseph Milner's friends all speak the language of"
+    ]
+  },
+  {
+    "case_id": 573,
+    "pararel_idx": 22219,
+    "requested_rewrite": {
+      "prompt": "The occupation of {} is",
+      "relation_id": "P106",
+      "target_new": [
+        {
+          "str": "singer",
+          "id": null
+        },
+        {
+          "str": "dancer",
+          "id": null
+        },
+        {
+          "str": "musician",
+          "id": null
+        },
+        {
+          "str": "writer",
+          "id": null
+        },
+        {
+          "str": "director",
+          "id": null
+        },
+        {
+          "str": "producer",
+          "id": null
+        },
+        {
+          "str": "model",
+          "id": null
+        },
+        {
+          "str": "teacher",
+          "id": null
+        },
+        {
+          "str": "doctor",
+          "id": null
+        },
+        {
+          "str": "nurse",
+          "id": null
+        },
+        {
+          "str": "lawyer",
+          "id": null
+        },
+        {
+          "str": "judge",
+          "id": null
+        },
+        {
+          "str": "engineer",
+          "id": null
+        },
+        {
+          "str": "scientist",
+          "id": null
+        },
+        {
+          "str": "artist",
+          "id": null
+        },
+        {
+          "str": "chef",
+          "id": null
+        },
+        {
+          "str": "pilot",
+          "id": null
+        },
+        {
+          "str": "driver",
+          "id": null
+        },
+        {
+          "str": "farmer",
+          "id": null
+        },
+        {
+          "str": "baker",
+          "id": null
+        },
+        {
+          "str": "officer",
+          "id": null
+        },
+        {
+          "str": "soldier",
+          "id": null
+        },
+        {
+          "str": "sailor",
+          "id": null
+        },
+        {
+          "str": "builder",
+          "id": null
+        },
+        {
+          "str": "mechanic",
+          "id": null
+        },
+        {
+          "str": "carpenter",
+          "id": null
+        },
+        {
+          "str": "plumber",
+          "id": null
+        },
+        {
+          "str": "electrician",
+          "id": null
+        },
+        {
+          "str": "designer",
+          "id": null
+        },
+        {
+          "str": "architect",
+          "id": null
+        },
+        {
+          "str": "manager",
+          "id": null
+        },
+        {
+          "str": "executive",
+          "id": null
+        },
+        {
+          "str": "clerk",
+          "id": null
+        },
+        {
+          "str": "secretary",
+          "id": null
+        },
+        {
+          "str": "assistant",
+          "id": null
+        },
+        {
+          "str": "consultant",
+          "id": null
+        },
+        {
+          "str": "advisor",
+          "id": null
+        },
+        {
+          "str": "coach",
+          "id": null
+        },
+        {
+          "str": "trainer",
+          "id": null
+        },
+        {
+          "str": "referee",
+          "id": null
+        },
+        {
+          "str": "umpire",
+          "id": null
+        },
+        {
+          "str": "reporter",
+          "id": null
+        },
+        {
+          "str": "journalist",
+          "id": null
+        },
+        {
+          "str": "editor",
+          "id": null
+        },
+        {
+          "str": "author",
+          "id": null
+        },
+        {
+          "str": "poet",
+          "id": null
+        },
+        {
+          "str": "composer",
+          "id": null
+        },
+        {
+          "str": "painter",
+          "id": null
+        },
+        {
+          "str": "sculptor",
+          "id": null
+        },
+        {
+          "str": "photographer",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "actor",
+        "id": "Q33999"
+      },
+      "subject": "Dolly Wells"
+    },
+    "paraphrase_prompts": [
+      "Stuart Symington (D)\n 3. The profession of Dolly Wells is",
+      "Diplacella is a genus of fungi in the family Gnomoniaceae. Dolly Wells works as"
+    ],
+    "neighborhood_prompts": [
+      "David Lynch's profession is a",
+      "Cyndi Lauper's profession is a",
+      "The profession of Charlie Chaplin is",
+      "Louis Armstrong works as",
+      "Cyndi Lauper's occupation is",
+      "George Harrison's profession is an",
+      "Madonna's profession is a",
+      "Neil Young works as",
+      "The profession of Arnold Schwarzenegger is",
+      "Quentin Tarantino's profession is a"
+    ],
+    "attribute_prompts": [
+      "Lucretius's profession is an",
+      "Aesop works as",
+      "The profession of Erasmus is",
+      "The occupation of Michel Foucault is",
+      "Robert Hooke's profession is an",
+      "Anselm of Canterbury's profession is an",
+      "Robert Hooke, who works as",
+      "Bonaventure's profession is an",
+      "Petronius's profession is an",
+      "The occupation of Rumi is"
+    ],
+    "generation_prompts": [
+      "Dolly Wells's greatest accomplishment is",
+      "Dolly Wells is known for",
+      "Dolly Wells is known for",
+      "Dolly Wells works as a",
+      "Dolly Wells's greatest accomplishment is",
+      "Dolly Wells's greatest accomplishment is",
+      "Dolly Wells works as a",
+      "Dolly Wells is known for",
+      "Dolly Wells is known for",
+      "Dolly Wells is known for"
+    ]
+  },
+  {
+    "case_id": 574,
+    "pararel_idx": 16975,
+    "requested_rewrite": {
+      "prompt": "{} is known for performing",
+      "relation_id": "P136",
+      "target_new": [
+        {
+          "str": "rock",
+          "id": null
+        },
+        {
+          "str": "pop",
+          "id": null
+        },
+        {
+          "str": "soul",
+          "id": null
+        },
+        {
+          "str": "funk",
+          "id": null
+        },
+        {
+          "str": "blues",
+          "id": null
+        },
+        {
+          "str": "country",
+          "id": null
+        },
+        {
+          "str": "reggae",
+          "id": null
+        },
+        {
+          "str": "metal",
+          "id": null
+        },
+        {
+          "str": "punk",
+          "id": null
+        },
+        {
+          "str": "disco",
+          "id": null
+        },
+        {
+          "str": "techno",
+          "id": null
+        },
+        {
+          "str": "house",
+          "id": null
+        },
+        {
+          "str": "trance",
+          "id": null
+        },
+        {
+          "str": "ambient",
+          "id": null
+        },
+        {
+          "str": "classical",
+          "id": null
+        },
+        {
+          "str": "opera",
+          "id": null
+        },
+        {
+          "str": "folk",
+          "id": null
+        },
+        {
+          "str": "gospel",
+          "id": null
+        },
+        {
+          "str": "ragtime",
+          "id": null
+        },
+        {
+          "str": "swing",
+          "id": null
+        },
+        {
+          "str": "bebop",
+          "id": null
+        },
+        {
+          "str": "latin",
+          "id": null
+        },
+        {
+          "str": "salsa",
+          "id": null
+        },
+        {
+          "str": "mambo",
+          "id": null
+        },
+        {
+          "str": "samba",
+          "id": null
+        },
+        {
+          "str": "calypso",
+          "id": null
+        },
+        {
+          "str": "ska",
+          "id": null
+        },
+        {
+          "str": "dub",
+          "id": null
+        },
+        {
+          "str": "grunge",
+          "id": null
+        },
+        {
+          "str": "indie",
+          "id": null
+        },
+        {
+          "str": "garage",
+          "id": null
+        },
+        {
+          "str": "electro",
+          "id": null
+        },
+        {
+          "str": "rap",
+          "id": null
+        },
+        {
+          "str": "trap",
+          "id": null
+        },
+        {
+          "str": "zydeco",
+          "id": null
+        },
+        {
+          "str": "cajun",
+          "id": null
+        },
+        {
+          "str": "bhangra",
+          "id": null
+        },
+        {
+          "str": "kwaito",
+          "id": null
+        },
+        {
+          "str": "soca",
+          "id": null
+        },
+        {
+          "str": "merengue",
+          "id": null
+        },
+        {
+          "str": "bachata",
+          "id": null
+        },
+        {
+          "str": "tango",
+          "id": null
+        },
+        {
+          "str": "flamenco",
+          "id": null
+        },
+        {
+          "str": "fado",
+          "id": null
+        },
+        {
+          "str": "klezmer",
+          "id": null
+        },
+        {
+          "str": "boogie",
+          "id": null
+        },
+        {
+          "str": "jive",
+          "id": null
+        },
+        {
+          "str": "waltz",
+          "id": null
+        },
+        {
+          "str": "march",
+          "id": null
+        },
+        {
+          "str": "noise",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "jazz",
+        "id": "Q8341"
+      },
+      "subject": "Willie Bobo"
+    },
+    "paraphrase_prompts": [
+      "Japan's Foreign Relations in Asia (Routledge, 2018) pp. Willie Bobo plays",
+      "The picture was Zelder's first as a director. Willie Bobo performs"
+    ],
+    "neighborhood_prompts": [
+      "Ziggy Elman performs",
+      "What does Antônio Carlos Jobim play? They play",
+      "Otis Taylor plays",
+      "Sade Adu performs",
+      "Chick Corea performs",
+      "What does Richard Wright play? They play",
+      "Paolo Conte performs",
+      "What does Paolo Conte play? They play",
+      "Richard Wright performs",
+      "What does Quincy Jones play? They play"
+    ],
+    "attribute_prompts": [
+      "What does Yes, Prime Minister play? They play",
+      "Amen is known for performing",
+      "The Royle Family performs",
+      "Martin plays",
+      "Committed, who plays",
+      "Barbershop performs",
+      "Univer performs",
+      "Married to the Kellys is known for performing",
+      "Yes, Prime Minister is known for performing",
+      "The Royle Family, who plays"
+    ],
+    "generation_prompts": [
+      "Willie Bobo is incredible at",
+      "Willie Bobo is incredible at",
+      "Willie Bobo is incredible at",
+      "Willie Bobo is incredible at",
+      "Willie Bobo is known for",
+      "Willie Bobo is incredible at",
+      "Willie Bobo's greatest artistic work is",
+      "Willie Bobo is incredible at",
+      "Willie Bobo's greatest artistic work is",
+      "Willie Bobo's greatest artistic work is"
+    ]
+  },
+  {
+    "case_id": 575,
+    "pararel_idx": 4955,
+    "requested_rewrite": {
+      "prompt": "{} is located in the continent",
+      "relation_id": "P30",
+      "target_new": [
+        {
+          "str": "Africa",
+          "id": null
+        },
+        {
+          "str": "Antarctica",
+          "id": null
+        },
+        {
+          "str": "Asia",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Europe",
+          "id": null
+        },
+        {
+          "str": "Oceania",
+          "id": null
+        },
+        {
+          "str": "America",
+          "id": null
+        },
+        {
+          "str": "Eurasia",
+          "id": null
+        },
+        {
+          "str": "Pangaea",
+          "id": null
+        },
+        {
+          "str": "Gondwana",
+          "id": null
+        },
+        {
+          "str": "Laurasia",
+          "id": null
+        },
+        {
+          "str": "Rodinia",
+          "id": null
+        },
+        {
+          "str": "Columbia",
+          "id": null
+        },
+        {
+          "str": "Kenorland",
+          "id": null
+        },
+        {
+          "str": "Baltica",
+          "id": null
+        },
+        {
+          "str": "Laurentia",
+          "id": null
+        },
+        {
+          "str": "Siberia",
+          "id": null
+        },
+        {
+          "str": "Greenland",
+          "id": null
+        },
+        {
+          "str": "Iceland",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Borneo",
+          "id": null
+        },
+        {
+          "str": "Sumatra",
+          "id": null
+        },
+        {
+          "str": "Madagascar",
+          "id": null
+        },
+        {
+          "str": "Papua",
+          "id": null
+        },
+        {
+          "str": "Tasmania",
+          "id": null
+        },
+        {
+          "str": "Zealand",
+          "id": null
+        },
+        {
+          "str": "Iberia",
+          "id": null
+        },
+        {
+          "str": "Balkan",
+          "id": null
+        },
+        {
+          "str": "Arabia",
+          "id": null
+        },
+        {
+          "str": "Anatolia",
+          "id": null
+        },
+        {
+          "str": "Indochina",
+          "id": null
+        },
+        {
+          "str": "Scandinavia",
+          "id": null
+        },
+        {
+          "str": "Patagonia",
+          "id": null
+        },
+        {
+          "str": "Kamchatka",
+          "id": null
+        },
+        {
+          "str": "Sakhalin",
+          "id": null
+        },
+        {
+          "str": "Sinai",
+          "id": null
+        },
+        {
+          "str": "Yucatan",
+          "id": null
+        },
+        {
+          "str": "Florida",
+          "id": null
+        },
+        {
+          "str": "Korea",
+          "id": null
+        },
+        {
+          "str": "Jutland",
+          "id": null
+        },
+        {
+          "str": "Labrador",
+          "id": null
+        },
+        {
+          "str": "Yukon",
+          "id": null
+        },
+        {
+          "str": "Alaska",
+          "id": null
+        },
+        {
+          "str": "Hawaii",
+          "id": null
+        },
+        {
+          "str": "Corsica",
+          "id": null
+        },
+        {
+          "str": "Sicily",
+          "id": null
+        },
+        {
+          "str": "Sardinia",
+          "id": null
+        },
+        {
+          "str": "Crete",
+          "id": null
+        },
+        {
+          "str": "Malta",
+          "id": null
+        },
+        {
+          "str": "Cyprus",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Antarctica",
+        "id": "Q51"
+      },
+      "subject": "Cape Legoupil"
+    },
+    "paraphrase_prompts": [
+      "Further reading\nRoyal Saskatchewan Museum - The Pottery of P.G. Cape Legoupil is located in",
+      "25 (selections); Lenau Lieder, Op. Cape Legoupil is in"
+    ],
+    "neighborhood_prompts": [
+      "Ross Dependency is a part of the continent of",
+      "Adélie Land is located in the continent",
+      "Ross Dependency belongs to the continent of",
+      "Coulman Island is located in the continent",
+      "Victoria Land is located in",
+      "Australian Antarctic Territory is located in",
+      "Antarctic Treaty System is in",
+      "Mount Erebus belongs to the continent of",
+      "Peter I Island is located in the continent",
+      "Inexpressible Island belongs to the continent of"
+    ],
+    "attribute_prompts": [
+      "Egypt is in",
+      "Saudi Arabia, in",
+      "Japan belongs to the continent of",
+      "Taiwan is in",
+      "Israel is in",
+      "Myanmar is in",
+      "Malaysia, in",
+      "Egypt is located in the continent",
+      "Malaysia is in",
+      "Pakistan is located in the continent"
+    ],
+    "generation_prompts": [
+      "One can get to Cape Legoupil by navigating",
+      "One can get to Cape Legoupil by navigating",
+      "People around Cape Legoupil speak the language of",
+      "Cape Legoupil's surroundings include",
+      "Cape Legoupil's surroundings include",
+      "One can get to Cape Legoupil by navigating",
+      "People around Cape Legoupil speak the language of",
+      "One can get to Cape Legoupil by navigating",
+      "Cape Legoupil's surroundings include",
+      "People around Cape Legoupil speak the language of"
+    ]
+  },
+  {
+    "case_id": 576,
+    "pararel_idx": 4242,
+    "requested_rewrite": {
+      "prompt": "{}, produced by",
+      "relation_id": "P176",
+      "target_new": [
+        {
+          "str": "Samsung",
+          "id": null
+        },
+        {
+          "str": "Apple",
+          "id": null
+        },
+        {
+          "str": "Sony",
+          "id": null
+        },
+        {
+          "str": "LG",
+          "id": null
+        },
+        {
+          "str": "Motorola",
+          "id": null
+        },
+        {
+          "str": "Xiaomi",
+          "id": null
+        },
+        {
+          "str": "Huawei",
+          "id": null
+        },
+        {
+          "str": "Oppo",
+          "id": null
+        },
+        {
+          "str": "Vivo",
+          "id": null
+        },
+        {
+          "str": "Realme",
+          "id": null
+        },
+        {
+          "str": "Asus",
+          "id": null
+        },
+        {
+          "str": "HTC",
+          "id": null
+        },
+        {
+          "str": "Lenovo",
+          "id": null
+        },
+        {
+          "str": "ZTE",
+          "id": null
+        },
+        {
+          "str": "Alcatel",
+          "id": null
+        },
+        {
+          "str": "Microsoft",
+          "id": null
+        },
+        {
+          "str": "Google",
+          "id": null
+        },
+        {
+          "str": "Amazon",
+          "id": null
+        },
+        {
+          "str": "TCL",
+          "id": null
+        },
+        {
+          "str": "Hisense",
+          "id": null
+        },
+        {
+          "str": "Meizu",
+          "id": null
+        },
+        {
+          "str": "Gionee",
+          "id": null
+        },
+        {
+          "str": "Wiko",
+          "id": null
+        },
+        {
+          "str": "Kyocera",
+          "id": null
+        },
+        {
+          "str": "Sharp",
+          "id": null
+        },
+        {
+          "str": "Toshiba",
+          "id": null
+        },
+        {
+          "str": "Fujitsu",
+          "id": null
+        },
+        {
+          "str": "Casio",
+          "id": null
+        },
+        {
+          "str": "NEC",
+          "id": null
+        },
+        {
+          "str": "Panasonic",
+          "id": null
+        },
+        {
+          "str": "Philips",
+          "id": null
+        },
+        {
+          "str": "Siemens",
+          "id": null
+        },
+        {
+          "str": "Ericsson",
+          "id": null
+        },
+        {
+          "str": "Acer",
+          "id": null
+        },
+        {
+          "str": "Dell",
+          "id": null
+        },
+        {
+          "str": "HP",
+          "id": null
+        },
+        {
+          "str": "Jolla",
+          "id": null
+        },
+        {
+          "str": "Tecno",
+          "id": null
+        },
+        {
+          "str": "Infinix",
+          "id": null
+        },
+        {
+          "str": "Itel",
+          "id": null
+        },
+        {
+          "str": "Lava",
+          "id": null
+        },
+        {
+          "str": "Intex",
+          "id": null
+        },
+        {
+          "str": "Spice",
+          "id": null
+        },
+        {
+          "str": "Honor",
+          "id": null
+        },
+        {
+          "str": "Nubia",
+          "id": null
+        },
+        {
+          "str": "Nothing",
+          "id": null
+        },
+        {
+          "str": "Pentax",
+          "id": null
+        },
+        {
+          "str": "Nikon",
+          "id": null
+        },
+        {
+          "str": "Olympus",
+          "id": null
+        },
+        {
+          "str": "Ricoh",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Nokia",
+        "id": "Q1418"
+      },
+      "subject": "Nokia N70"
+    },
+    "paraphrase_prompts": [
+      "It is dominated by his Iraqi National Accord party. Nokia N70, created by",
+      "References\n\ninsularis Nokia N70 is created by"
+    ],
+    "neighborhood_prompts": [
+      "Nokia 6650 fold, produced by",
+      "Nokia 6610 is a product of",
+      "Nokia 6760 Slide, created by",
+      "Nokia Asha 206 is created by",
+      "Nokia Asha 206 is produced by",
+      "Nokia Lumia 520, created by",
+      "Nokia 6650 fold, developed by",
+      "Nokia 6610, created by",
+      "Nokia N80 is a product of",
+      "Nokia X2-01, developed by"
+    ],
+    "attribute_prompts": [
+      "Porsche 930 is developed by",
+      "Porsche RS Spyder is developed by",
+      "Porsche 911 GT1, produced by",
+      "Porsche 914 is developed by",
+      "Porsche 996 is produced by",
+      "Porsche 997, produced by",
+      "Porsche 944, produced by",
+      "Porsche 550 is developed by",
+      "Elefant is developed by",
+      "Porsche 993 is produced by"
+    ],
+    "generation_prompts": [
+      "The production of Nokia N70 is overseen by",
+      "Nokia N70 is sold by",
+      "Nokia N70 is sold by",
+      "The production of Nokia N70 is overseen by",
+      "The production of Nokia N70 is overseen by",
+      "Nokia N70 is my favorite product out of everything created by",
+      "Nokia N70 is sold by",
+      "Nokia N70 is my favorite product out of everything created by",
+      "The production of Nokia N70 is overseen by",
+      "The production of Nokia N70 is overseen by"
+    ]
+  },
+  {
+    "case_id": 577,
+    "pararel_idx": 22421,
+    "requested_rewrite": {
+      "prompt": "{}'s domain of activity is",
+      "relation_id": "P101",
+      "target_new": [
+        {
+          "str": "physics",
+          "id": null
+        },
+        {
+          "str": "chemistry",
+          "id": null
+        },
+        {
+          "str": "biology",
+          "id": null
+        },
+        {
+          "str": "anatomy",
+          "id": null
+        },
+        {
+          "str": "genetics",
+          "id": null
+        },
+        {
+          "str": "botany",
+          "id": null
+        },
+        {
+          "str": "zoology",
+          "id": null
+        },
+        {
+          "str": "medicine",
+          "id": null
+        },
+        {
+          "str": "neurology",
+          "id": null
+        },
+        {
+          "str": "psychology",
+          "id": null
+        },
+        {
+          "str": "sociology",
+          "id": null
+        },
+        {
+          "str": "anthropology",
+          "id": null
+        },
+        {
+          "str": "history",
+          "id": null
+        },
+        {
+          "str": "geography",
+          "id": null
+        },
+        {
+          "str": "geology",
+          "id": null
+        },
+        {
+          "str": "astronomy",
+          "id": null
+        },
+        {
+          "str": "mathematics",
+          "id": null
+        },
+        {
+          "str": "statistics",
+          "id": null
+        },
+        {
+          "str": "engineering",
+          "id": null
+        },
+        {
+          "str": "economics",
+          "id": null
+        },
+        {
+          "str": "law",
+          "id": null
+        },
+        {
+          "str": "philosophy",
+          "id": null
+        },
+        {
+          "str": "theology",
+          "id": null
+        },
+        {
+          "str": "linguistics",
+          "id": null
+        },
+        {
+          "str": "literature",
+          "id": null
+        },
+        {
+          "str": "art",
+          "id": null
+        },
+        {
+          "str": "music",
+          "id": null
+        },
+        {
+          "str": "education",
+          "id": null
+        },
+        {
+          "str": "politics",
+          "id": null
+        },
+        {
+          "str": "business",
+          "id": null
+        },
+        {
+          "str": "finance",
+          "id": null
+        },
+        {
+          "str": "accounting",
+          "id": null
+        },
+        {
+          "str": "management",
+          "id": null
+        },
+        {
+          "str": "marketing",
+          "id": null
+        },
+        {
+          "str": "computing",
+          "id": null
+        },
+        {
+          "str": "technology",
+          "id": null
+        },
+        {
+          "str": "robotics",
+          "id": null
+        },
+        {
+          "str": "ecology",
+          "id": null
+        },
+        {
+          "str": "paleontology",
+          "id": null
+        },
+        {
+          "str": "virology",
+          "id": null
+        },
+        {
+          "str": "immunology",
+          "id": null
+        },
+        {
+          "str": "pharmacology",
+          "id": null
+        },
+        {
+          "str": "toxicology",
+          "id": null
+        },
+        {
+          "str": "histology",
+          "id": null
+        },
+        {
+          "str": "cytology",
+          "id": null
+        },
+        {
+          "str": "pathology",
+          "id": null
+        },
+        {
+          "str": "oncology",
+          "id": null
+        },
+        {
+          "str": "cardiology",
+          "id": null
+        },
+        {
+          "str": "dermatology",
+          "id": null
+        },
+        {
+          "str": "pediatrics",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "physiology",
+        "id": "Q521"
+      },
+      "subject": "Albrecht Kossel"
+    },
+    "paraphrase_prompts": [
+      "Localization is heavily skewed towards activated microglia. Albrecht Kossel works in the area of",
+      "Black dubbed the feud \"LeWar.\" Albrecht Kossel's expertise is"
+    ],
+    "neighborhood_prompts": [
+      "Sergei Movsesian's domain of activity is",
+      "Lev Morokhovets's domain of activity is",
+      "The expertise of Sir Kenneth Blaxter is",
+      "The domain of activity of Neena Schwartz is",
+      "Vladimir Chernigovsky specializes in",
+      "The expertise of Sergei Movsesian is",
+      "The expertise of Harold F. Blum is",
+      "Petr Stepanovič Kupalov's expertise is",
+      "Konstantinos Vousakis's expertise is",
+      "Fedor Tur's domain of work is"
+    ],
+    "attribute_prompts": [
+      "Mikalay Alyaksandraw's domain of activity is",
+      "Marc Colombat de L'Isère's expertise is",
+      "The domain of activity of Eugen Albrecht is",
+      "Mukhtar Aliev's area of work is",
+      "Marc Colombat de L'Isère works in the area of",
+      "Pierre Isaac Poissonnier works in the area of",
+      "Thomas Spencer Cobbold's expertise is",
+      "Nicolas Gabriel Le Clerc works in the area of",
+      "Ivan Tarkhanov's domain of work is",
+      "Nicolas Gabriel Le Clerc's expertise is"
+    ],
+    "generation_prompts": [
+      "Albrecht Kossel works as a",
+      "Albrecht Kossel's greatest accomplishment is",
+      "Albrecht Kossel works as a",
+      "Albrecht Kossel is known for",
+      "Albrecht Kossel is known for",
+      "Albrecht Kossel's greatest accomplishment is",
+      "Albrecht Kossel works as a",
+      "Albrecht Kossel's greatest accomplishment is",
+      "Albrecht Kossel's greatest accomplishment is",
+      "Albrecht Kossel is known for"
+    ]
+  },
+  {
+    "case_id": 578,
+    "pararel_idx": 16740,
+    "requested_rewrite": {
+      "prompt": "What does {} play? They play",
+      "relation_id": "P136",
+      "target_new": [
+        {
+          "str": "rock",
+          "id": null
+        },
+        {
+          "str": "pop",
+          "id": null
+        },
+        {
+          "str": "blues",
+          "id": null
+        },
+        {
+          "str": "soul",
+          "id": null
+        },
+        {
+          "str": "funk",
+          "id": null
+        },
+        {
+          "str": "metal",
+          "id": null
+        },
+        {
+          "str": "punk",
+          "id": null
+        },
+        {
+          "str": "reggae",
+          "id": null
+        },
+        {
+          "str": "country",
+          "id": null
+        },
+        {
+          "str": "folk",
+          "id": null
+        },
+        {
+          "str": "dance",
+          "id": null
+        },
+        {
+          "str": "house",
+          "id": null
+        },
+        {
+          "str": "techno",
+          "id": null
+        },
+        {
+          "str": "trance",
+          "id": null
+        },
+        {
+          "str": "rap",
+          "id": null
+        },
+        {
+          "str": "grunge",
+          "id": null
+        },
+        {
+          "str": "indie",
+          "id": null
+        },
+        {
+          "str": "dub",
+          "id": null
+        },
+        {
+          "str": "ska",
+          "id": null
+        },
+        {
+          "str": "disco",
+          "id": null
+        },
+        {
+          "str": "swing",
+          "id": null
+        },
+        {
+          "str": "bebop",
+          "id": null
+        },
+        {
+          "str": "fusion",
+          "id": null
+        },
+        {
+          "str": "latin",
+          "id": null
+        },
+        {
+          "str": "salsa",
+          "id": null
+        },
+        {
+          "str": "tango",
+          "id": null
+        },
+        {
+          "str": "bossa",
+          "id": null
+        },
+        {
+          "str": "samba",
+          "id": null
+        },
+        {
+          "str": "gospel",
+          "id": null
+        },
+        {
+          "str": "ragtime",
+          "id": null
+        },
+        {
+          "str": "calypso",
+          "id": null
+        },
+        {
+          "str": "roots",
+          "id": null
+        },
+        {
+          "str": "cajun",
+          "id": null
+        },
+        {
+          "str": "zydeco",
+          "id": null
+        },
+        {
+          "str": "electro",
+          "id": null
+        },
+        {
+          "str": "garage",
+          "id": null
+        },
+        {
+          "str": "surf",
+          "id": null
+        },
+        {
+          "str": "noise",
+          "id": null
+        },
+        {
+          "str": "emo",
+          "id": null
+        },
+        {
+          "str": "goth",
+          "id": null
+        },
+        {
+          "str": "thrash",
+          "id": null
+        },
+        {
+          "str": "doom",
+          "id": null
+        },
+        {
+          "str": "sludge",
+          "id": null
+        },
+        {
+          "str": "acid",
+          "id": null
+        },
+        {
+          "str": "jungle",
+          "id": null
+        },
+        {
+          "str": "grime",
+          "id": null
+        },
+        {
+          "str": "trap",
+          "id": null
+        },
+        {
+          "str": "drill",
+          "id": null
+        },
+        {
+          "str": "rave",
+          "id": null
+        },
+        {
+          "str": "boogie",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "jazz",
+        "id": "Q8341"
+      },
+      "subject": "Loose Tubes"
+    },
+    "paraphrase_prompts": [
+      "However he could not play at all in the match. Loose Tubes plays",
+      "Charlotte T. Reid (R)\n . Loose Tubes performs"
+    ],
+    "neighborhood_prompts": [
+      "Antônio Carlos Jobim is known for performing",
+      "What does Jason Mraz play? They play",
+      "Antônio Carlos Jobim, who plays",
+      "Al Sears plays",
+      "Casey Abrams, who plays",
+      "Richard Wright, who plays",
+      "The genre played by Jacky Terrasson is",
+      "Niño Josele performs",
+      "The genre played by Chick Corea is",
+      "Quincy Jones plays"
+    ],
+    "attribute_prompts": [
+      "Alban Berg, who plays",
+      "Ignaz Brüll is known for performing",
+      "The genre played by Fritz Kreisler is",
+      "Leo Slezak plays",
+      "Franz Schreker plays",
+      "Franz Schreker is known for performing",
+      "The genre played by Wolfgang Rihm is",
+      "Viktor Ullmann performs",
+      "Dietrich Fischer-Dieskau, who plays",
+      "Leo Slezak is known for performing"
+    ],
+    "generation_prompts": [
+      "Loose Tubes is known for",
+      "Loose Tubes's greatest artistic work is",
+      "Loose Tubes is known for",
+      "Loose Tubes is incredible at",
+      "Loose Tubes is known for",
+      "Loose Tubes is incredible at",
+      "Loose Tubes's greatest artistic work is",
+      "Loose Tubes is incredible at",
+      "Loose Tubes's greatest artistic work is",
+      "Loose Tubes is incredible at"
+    ]
+  },
+  {
+    "case_id": 579,
+    "pararel_idx": 10801,
+    "requested_rewrite": {
+      "prompt": "{} was formulated in",
+      "relation_id": "P495",
+      "target_new": [
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Canada",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Pakistan",
+          "id": null
+        },
+        {
+          "str": "Bangladesh",
+          "id": null
+        },
+        {
+          "str": "Vietnam",
+          "id": null
+        },
+        {
+          "str": "Thailand",
+          "id": null
+        },
+        {
+          "str": "Indonesia",
+          "id": null
+        },
+        {
+          "str": "Malaysia",
+          "id": null
+        },
+        {
+          "str": "Singapore",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Nigeria",
+          "id": null
+        },
+        {
+          "str": "Kenya",
+          "id": null
+        },
+        {
+          "str": "Morocco",
+          "id": null
+        },
+        {
+          "str": "Algeria",
+          "id": null
+        },
+        {
+          "str": "Libya",
+          "id": null
+        },
+        {
+          "str": "Tunisia",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Ukraine",
+          "id": null
+        },
+        {
+          "str": "Belgium",
+          "id": null
+        },
+        {
+          "str": "Netherlands",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Switzerland",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Iceland",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Argentina",
+          "id": null
+        },
+        {
+          "str": "Cuba",
+          "id": null
+        },
+        {
+          "str": "Haiti",
+          "id": null
+        },
+        {
+          "str": "Yemen",
+          "id": null
+        },
+        {
+          "str": "Nepal",
+          "id": null
+        },
+        {
+          "str": "Bhutan",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "India",
+        "id": "Q668"
+      },
+      "subject": "Saaransh"
+    },
+    "paraphrase_prompts": [
+      "In 1930, he began publishing ZEN: A Buddhist Magazine. Saaransh, that was developed in",
+      "style=\"background:maroon; color:white;\" scope=\"col\" width=80|Challenge Cup\n! Saaransh was created in"
+    ],
+    "neighborhood_prompts": [
+      "Distant Thunder was created in",
+      "Goopy Gyne Bagha Byne, created in",
+      "Alpha and Omega, created in",
+      "Jalsaghar, that originated in",
+      "The Home and the World originated in",
+      "Fanaa, developed in",
+      "Goopy Gyne Bagha Byne, that was developed in",
+      "Jana Aranya, that was formulated in",
+      "Jana Aranya, formulated in",
+      "Sarkar, developed in"
+    ],
+    "attribute_prompts": [
+      "Encyclopédie was developed in",
+      "cognac was developed in",
+      "Democritus meditating on the seat of the soul, that originated in",
+      "Tri Yann, that was developed in",
+      "A350 was created in the country of",
+      "Libération, that was created in",
+      "cognac, formulated in",
+      "Le Monde from",
+      "A350, that was formulated in",
+      "Tri Yann, that originated in"
+    ],
+    "generation_prompts": [
+      "The development of Saaransh occurred in",
+      "The development of Saaransh occurred in",
+      "The development of Saaransh occurred in",
+      "Where Saaransh is from, people speak the language of",
+      "Where Saaransh is from, people speak the language of",
+      "The development of Saaransh occurred in",
+      "Saaransh originates from",
+      "Saaransh originates from",
+      "Where Saaransh is from, people speak the language of",
+      "Saaransh originates from"
+    ]
+  },
+  {
+    "case_id": 580,
+    "pararel_idx": 18335,
+    "requested_rewrite": {
+      "prompt": "The language used by {} is",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Telugu",
+          "id": null
+        },
+        {
+          "str": "Marathi",
+          "id": null
+        },
+        {
+          "str": "Gujarati",
+          "id": null
+        },
+        {
+          "str": "Kannada",
+          "id": null
+        },
+        {
+          "str": "Malayalam",
+          "id": null
+        },
+        {
+          "str": "Punjabi",
+          "id": null
+        },
+        {
+          "str": "Sindhi",
+          "id": null
+        },
+        {
+          "str": "Nepali",
+          "id": null
+        },
+        {
+          "str": "Sinhala",
+          "id": null
+        },
+        {
+          "str": "Burmese",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Sanskrit",
+          "id": null
+        },
+        {
+          "str": "Tagalog",
+          "id": null
+        },
+        {
+          "str": "Filipino",
+          "id": null
+        },
+        {
+          "str": "Esperanto",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Ukrainian",
+          "id": null
+        },
+        {
+          "str": "Kazakh",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Hindi",
+        "id": "Q1568"
+      },
+      "subject": "Rajendra Prasad"
+    },
+    "paraphrase_prompts": [
+      "1931)\n Claudio Roditi, jazz trumpeter (b. Rajendra Prasad speaks the language",
+      "It is a form of full circle ringing. Rajendra Prasad speaks"
+    ],
+    "neighborhood_prompts": [
+      "Mithun Chakraborty speaks",
+      "Sunil Dutt speaks the language",
+      "Amrish Puri speaks the language",
+      "R. K. Narayan speaks the language",
+      "Kamal Haasan writes in",
+      "Motilal Nehru speaks",
+      "Aditya Chopra speaks the language",
+      "The language used by Paddy Ashdown is",
+      "The language used by Motilal Nehru is",
+      "The language used by Jyoti Basu is"
+    ],
+    "attribute_prompts": [
+      "The language used by Ernest Rutherford is",
+      "Michael Faraday writes in",
+      "Henry Ford writes in",
+      "Nelson Mandela speaks",
+      "James Clerk Maxwell writes in",
+      "The language used by Nikola Tesla is",
+      "Steven Spielberg speaks the language",
+      "Vladimir Putin writes in",
+      "The language used by Noam Chomsky is",
+      "The language used by Enrico Fermi is"
+    ],
+    "generation_prompts": [
+      "Rajendra Prasad's friends all speak the language of",
+      "Rajendra Prasad lives in",
+      "Rajendra Prasad's friends all speak the language of",
+      "Rajendra Prasad lives in",
+      "Rajendra Prasad's friends all speak the language of",
+      "Rajendra Prasad was born in",
+      "Rajendra Prasad lives in",
+      "Rajendra Prasad's friends all speak the language of",
+      "Rajendra Prasad lives in",
+      "Rajendra Prasad's friends all speak the language of"
+    ]
+  },
+  {
+    "case_id": 581,
+    "pararel_idx": 9667,
+    "requested_rewrite": {
+      "prompt": "The language of {} is",
+      "relation_id": "P364",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Telugu",
+          "id": null
+        },
+        {
+          "str": "Malayalam",
+          "id": null
+        },
+        {
+          "str": "Kannada",
+          "id": null
+        },
+        {
+          "str": "Gujarati",
+          "id": null
+        },
+        {
+          "str": "Marathi",
+          "id": null
+        },
+        {
+          "str": "Punjabi",
+          "id": null
+        },
+        {
+          "str": "Nepali",
+          "id": null
+        },
+        {
+          "str": "Sinhala",
+          "id": null
+        },
+        {
+          "str": "Burmese",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Filipino",
+          "id": null
+        },
+        {
+          "str": "Tagalog",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        },
+        {
+          "str": "Zulu",
+          "id": null
+        },
+        {
+          "str": "Afrikaans",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Ukrainian",
+          "id": null
+        },
+        {
+          "str": "Serbian",
+          "id": null
+        },
+        {
+          "str": "Croatian",
+          "id": null
+        },
+        {
+          "str": "Slovak",
+          "id": null
+        },
+        {
+          "str": "Albanian",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Hindi",
+        "id": "Q1568"
+      },
+      "subject": "Ye Meri Life Hai"
+    },
+    "paraphrase_prompts": [
+      "The station was demolished in the 1950s or 1960s. The original language of Ye Meri Life Hai is",
+      "Alfred Seaman was born in Norfolk in 1844. The original language of Ye Meri Life Hai was"
+    ],
+    "neighborhood_prompts": [
+      "The original language of Chup Chup Ke was",
+      "The original language of Umrao Jaan was",
+      "The language of The Way Home was",
+      "The original language of Taal is",
+      "The language of Maqbool is",
+      "The original language of Ghajini is",
+      "The original language of Kabhi Haan Kabhi Naa is",
+      "The language of Water was",
+      "The original language of Water is",
+      "The original language of The Legend of Bhagat Singh was"
+    ],
+    "attribute_prompts": [
+      "The language of Zus & Zo is",
+      "The language of Visions of Europe is",
+      "The language of The Village on the River is",
+      "The language of Flodder 3 is",
+      "The original language of Flodders in America was",
+      "The original language of Flodders in America is",
+      "The original language of Het Bombardement was",
+      "The original language of Visions of Europe was",
+      "The language of Long Live the Queen was",
+      "The original language of Sint was"
+    ],
+    "generation_prompts": [
+      "Ye Meri Life Hai is full of people who speak",
+      "In Ye Meri Life Hai, people speak",
+      "In Ye Meri Life Hai, people speak",
+      "The language used by people in Ye Meri Life Hai is",
+      "The language used by people in Ye Meri Life Hai is",
+      "The language used by people in Ye Meri Life Hai is",
+      "The language used by people in Ye Meri Life Hai is",
+      "The language used by people in Ye Meri Life Hai is",
+      "Ye Meri Life Hai is full of people who speak",
+      "Ye Meri Life Hai is full of people who speak"
+    ]
+  },
+  {
+    "case_id": 582,
+    "pararel_idx": 13148,
+    "requested_rewrite": {
+      "prompt": "{}, which has the capital city",
+      "relation_id": "P36",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Beijing",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Canberra",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Wellington",
+          "id": null
+        },
+        {
+          "str": "Ottawa",
+          "id": null
+        },
+        {
+          "str": "Brussels",
+          "id": null
+        },
+        {
+          "str": "Warsaw",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Budapest",
+          "id": null
+        },
+        {
+          "str": "Helsinki",
+          "id": null
+        },
+        {
+          "str": "Stockholm",
+          "id": null
+        },
+        {
+          "str": "Copenhagen",
+          "id": null
+        },
+        {
+          "str": "Bern",
+          "id": null
+        },
+        {
+          "str": "Amsterdam",
+          "id": null
+        },
+        {
+          "str": "Luxembourg",
+          "id": null
+        },
+        {
+          "str": "Valletta",
+          "id": null
+        },
+        {
+          "str": "Reykjavik",
+          "id": null
+        },
+        {
+          "str": "Manila",
+          "id": null
+        },
+        {
+          "str": "Jakarta",
+          "id": null
+        },
+        {
+          "str": "Bangkok",
+          "id": null
+        },
+        {
+          "str": "Hanoi",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Pyongyang",
+          "id": null
+        },
+        {
+          "str": "Dhaka",
+          "id": null
+        },
+        {
+          "str": "Kabul",
+          "id": null
+        },
+        {
+          "str": "Ankara",
+          "id": null
+        },
+        {
+          "str": "Tehran",
+          "id": null
+        },
+        {
+          "str": "Baghdad",
+          "id": null
+        },
+        {
+          "str": "Riyadh",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Nairobi",
+          "id": null
+        },
+        {
+          "str": "Abuja",
+          "id": null
+        },
+        {
+          "str": "Accra",
+          "id": null
+        },
+        {
+          "str": "Kinshasa",
+          "id": null
+        },
+        {
+          "str": "Dakar",
+          "id": null
+        },
+        {
+          "str": "Rabat",
+          "id": null
+        },
+        {
+          "str": "Algiers",
+          "id": null
+        },
+        {
+          "str": "Tunis",
+          "id": null
+        },
+        {
+          "str": "Brasilia",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Mumbai",
+        "id": "Q1156"
+      },
+      "subject": "Mumbai City district"
+    },
+    "paraphrase_prompts": [
+      "For services to Child Care. The capital city of Mumbai City district is",
+      "Filer, John Mason Loomis, John McLaren, and James Ludington. The capital of Mumbai City district is"
+    ],
+    "neighborhood_prompts": [
+      "Bombay Presidency, which has the capital city",
+      "Bombay State's capital city,",
+      "Konkan division's capital,",
+      "Maharashtra's capital,",
+      "The capital of Konkan division is",
+      "Maharashtra's capital city,",
+      "The capital city of Bombay State is",
+      "Bombay Presidency's capital is",
+      "Konkan division, which has the capital",
+      "Bombay State's capital,"
+    ],
+    "attribute_prompts": [
+      "The capital city of Roman Empire is",
+      "The capital of Italy is",
+      "Kingdom of Italy's capital is",
+      "The capital city of Italian Social Republic is",
+      "Lazio's capital is",
+      "Rome's capital is",
+      "Roman Republic's capital city is",
+      "Nova Roma's capital city is",
+      "Province of Rome's capital,",
+      "Kingdom of Italy's capital city,"
+    ],
+    "generation_prompts": [
+      "In the capital of Mumbai City district, famous tourist attractions include",
+      "Mumbai City district's capital is known for",
+      "People in Mumbai City district's capital speak the language of",
+      "People in Mumbai City district's capital speak the language of",
+      "People in Mumbai City district's capital speak the language of",
+      "In the capital of Mumbai City district, famous tourist attractions include",
+      "In the capital of Mumbai City district, famous tourist attractions include",
+      "Mumbai City district's capital is known for",
+      "Mumbai City district's capital is known for",
+      "In the capital of Mumbai City district, famous tourist attractions include"
+    ]
+  },
+  {
+    "case_id": 583,
+    "pararel_idx": 10771,
+    "requested_rewrite": {
+      "prompt": "{}, from",
+      "relation_id": "P495",
+      "target_new": [
+        {
+          "str": "China",
+          "id": null
+        },
+        {
+          "str": "Japan",
+          "id": null
+        },
+        {
+          "str": "France",
+          "id": null
+        },
+        {
+          "str": "Germany",
+          "id": null
+        },
+        {
+          "str": "Italy",
+          "id": null
+        },
+        {
+          "str": "Spain",
+          "id": null
+        },
+        {
+          "str": "Brazil",
+          "id": null
+        },
+        {
+          "str": "Mexico",
+          "id": null
+        },
+        {
+          "str": "Peru",
+          "id": null
+        },
+        {
+          "str": "Chile",
+          "id": null
+        },
+        {
+          "str": "Cuba",
+          "id": null
+        },
+        {
+          "str": "Haiti",
+          "id": null
+        },
+        {
+          "str": "Jamaica",
+          "id": null
+        },
+        {
+          "str": "Kenya",
+          "id": null
+        },
+        {
+          "str": "Egypt",
+          "id": null
+        },
+        {
+          "str": "Nigeria",
+          "id": null
+        },
+        {
+          "str": "Ghana",
+          "id": null
+        },
+        {
+          "str": "Morocco",
+          "id": null
+        },
+        {
+          "str": "Algeria",
+          "id": null
+        },
+        {
+          "str": "Tunisia",
+          "id": null
+        },
+        {
+          "str": "Libya",
+          "id": null
+        },
+        {
+          "str": "Sudan",
+          "id": null
+        },
+        {
+          "str": "Iran",
+          "id": null
+        },
+        {
+          "str": "Iraq",
+          "id": null
+        },
+        {
+          "str": "Israel",
+          "id": null
+        },
+        {
+          "str": "Jordan",
+          "id": null
+        },
+        {
+          "str": "Turkey",
+          "id": null
+        },
+        {
+          "str": "Greece",
+          "id": null
+        },
+        {
+          "str": "Poland",
+          "id": null
+        },
+        {
+          "str": "Ukraine",
+          "id": null
+        },
+        {
+          "str": "Russia",
+          "id": null
+        },
+        {
+          "str": "India",
+          "id": null
+        },
+        {
+          "str": "Pakistan",
+          "id": null
+        },
+        {
+          "str": "Nepal",
+          "id": null
+        },
+        {
+          "str": "Thailand",
+          "id": null
+        },
+        {
+          "str": "Vietnam",
+          "id": null
+        },
+        {
+          "str": "Malaysia",
+          "id": null
+        },
+        {
+          "str": "Laos",
+          "id": null
+        },
+        {
+          "str": "Fiji",
+          "id": null
+        },
+        {
+          "str": "Singapore",
+          "id": null
+        },
+        {
+          "str": "Australia",
+          "id": null
+        },
+        {
+          "str": "Iceland",
+          "id": null
+        },
+        {
+          "str": "Norway",
+          "id": null
+        },
+        {
+          "str": "Sweden",
+          "id": null
+        },
+        {
+          "str": "Finland",
+          "id": null
+        },
+        {
+          "str": "Denmark",
+          "id": null
+        },
+        {
+          "str": "Ireland",
+          "id": null
+        },
+        {
+          "str": "Portugal",
+          "id": null
+        },
+        {
+          "str": "Austria",
+          "id": null
+        },
+        {
+          "str": "Romania",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Venezuela",
+        "id": "Q717"
+      },
+      "subject": "Hallaca"
+    },
+    "paraphrase_prompts": [
+      "They are the parents of Jason and Christin. Hallaca was created in",
+      "Kingston Transit provides local municipal bus service. Hallaca was from"
+    ],
+    "neighborhood_prompts": [
+      "Kraptor, that was developed in",
+      "Alejandra was created in",
+      "Verdades Verdaderas was created in the country of",
+      "Atrévete, from",
+      "Un Esposo para Estela was created in the country of",
+      "Girl with the Golden Panties was created in the country of",
+      "A Calzón Quitao, created in",
+      "A Calzón Quitao from",
+      "La Dueña was formulated in",
+      "Glue Sniffer was created in the country of"
+    ],
+    "attribute_prompts": [
+      "Workers Leaving the Lumière Factory, from",
+      "A Gang Story, formulated in",
+      "Encyclopédie was developed in",
+      "8½ was developed in",
+      "cognac originated in",
+      "Sud Aviation Caravelle, developed in",
+      "Sud Aviation Caravelle, that was developed in",
+      "The Petit Paumé, that was from",
+      "margarine, that originated in",
+      "The Intouchables, that was created in"
+    ],
+    "generation_prompts": [
+      "Hallaca originates from",
+      "The development of Hallaca occurred in",
+      "The development of Hallaca occurred in",
+      "Hallaca originates from",
+      "Hallaca originates from",
+      "The development of Hallaca occurred in",
+      "The development of Hallaca occurred in",
+      "Where Hallaca is from, people speak the language of",
+      "The development of Hallaca occurred in",
+      "Hallaca originates from"
+    ]
+  },
+  {
+    "case_id": 584,
+    "pararel_idx": 3024,
+    "requested_rewrite": {
+      "prompt": "{}, speaker of",
+      "relation_id": "P103",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Bulgarian",
+          "id": null
+        },
+        {
+          "str": "Croatian",
+          "id": null
+        },
+        {
+          "str": "Serbian",
+          "id": null
+        },
+        {
+          "str": "Ukrainian",
+          "id": null
+        },
+        {
+          "str": "Slovak",
+          "id": null
+        },
+        {
+          "str": "Slovenian",
+          "id": null
+        },
+        {
+          "str": "Estonian",
+          "id": null
+        },
+        {
+          "str": "Latvian",
+          "id": null
+        },
+        {
+          "str": "Lithuanian",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        },
+        {
+          "str": "Welsh",
+          "id": null
+        },
+        {
+          "str": "Scots",
+          "id": null
+        },
+        {
+          "str": "Catalan",
+          "id": null
+        },
+        {
+          "str": "Basque",
+          "id": null
+        },
+        {
+          "str": "Galician",
+          "id": null
+        },
+        {
+          "str": "Esperanto",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Sanskrit",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "French",
+        "id": "Q150"
+      },
+      "subject": "Jean Marot"
+    },
+    "paraphrase_prompts": [
+      "His biography was included in the History of Song. Jean Marot, a native",
+      "He was commissioned into the Leicestershire Regiment in 1903. The mother tongue of Jean Marot is"
+    ],
+    "neighborhood_prompts": [
+      "The mother tongue of Jean Auguste Dominique Ingres is",
+      "Louis Antoine de Saint-Just, a native",
+      "The native language of Jean Gabin is",
+      "The native language of Jean-Luc Picard is",
+      "The native language of Montesquieu is",
+      "Léon Blum is a native speaker of",
+      "Léon Blum, a native",
+      "Élisée Reclus spoke the language",
+      "Henri Barbusse, a native",
+      "Jean-Luc Picard spoke the language"
+    ],
+    "attribute_prompts": [
+      "Gerrit Achterberg is a native speaker of",
+      "The native language of Dick Bruna is",
+      "The native language of Nicolaes Tulp is",
+      "Johannes Lingelbach is a native speaker of",
+      "Dick Bruna spoke the language",
+      "Nicolaes Tulp, speaker of",
+      "The native language of Johannes Hendrikus Donner is",
+      "David Teniers the Elder is a native speaker of",
+      "Jan Hendrik Waszink, a native",
+      "The native language of Antoon Coolen is"
+    ],
+    "generation_prompts": [
+      "Jean Marot's mother tongue is",
+      "Jean Marot was born in",
+      "Jean Marot was born in",
+      "Jean Marot's mother tongue is",
+      "Where Jean Marot is from, people speak the language of",
+      "Jean Marot's mother tongue is",
+      "Where Jean Marot is from, people speak the language of",
+      "Jean Marot's mother tongue is",
+      "Jean Marot's mother tongue is",
+      "Jean Marot's mother tongue is"
+    ]
+  },
+  {
+    "case_id": 585,
+    "pararel_idx": 17949,
+    "requested_rewrite": {
+      "prompt": "{} speaks the language",
+      "relation_id": "P1412",
+      "target_new": [
+        {
+          "str": "English",
+          "id": null
+        },
+        {
+          "str": "French",
+          "id": null
+        },
+        {
+          "str": "Spanish",
+          "id": null
+        },
+        {
+          "str": "German",
+          "id": null
+        },
+        {
+          "str": "Italian",
+          "id": null
+        },
+        {
+          "str": "Portuguese",
+          "id": null
+        },
+        {
+          "str": "Chinese",
+          "id": null
+        },
+        {
+          "str": "Japanese",
+          "id": null
+        },
+        {
+          "str": "Korean",
+          "id": null
+        },
+        {
+          "str": "Russian",
+          "id": null
+        },
+        {
+          "str": "Arabic",
+          "id": null
+        },
+        {
+          "str": "Hindi",
+          "id": null
+        },
+        {
+          "str": "Dutch",
+          "id": null
+        },
+        {
+          "str": "Swedish",
+          "id": null
+        },
+        {
+          "str": "Norwegian",
+          "id": null
+        },
+        {
+          "str": "Danish",
+          "id": null
+        },
+        {
+          "str": "Finnish",
+          "id": null
+        },
+        {
+          "str": "Polish",
+          "id": null
+        },
+        {
+          "str": "Turkish",
+          "id": null
+        },
+        {
+          "str": "Greek",
+          "id": null
+        },
+        {
+          "str": "Hebrew",
+          "id": null
+        },
+        {
+          "str": "Persian",
+          "id": null
+        },
+        {
+          "str": "Urdu",
+          "id": null
+        },
+        {
+          "str": "Thai",
+          "id": null
+        },
+        {
+          "str": "Vietnamese",
+          "id": null
+        },
+        {
+          "str": "Indonesian",
+          "id": null
+        },
+        {
+          "str": "Malay",
+          "id": null
+        },
+        {
+          "str": "Tamil",
+          "id": null
+        },
+        {
+          "str": "Bengali",
+          "id": null
+        },
+        {
+          "str": "Punjabi",
+          "id": null
+        },
+        {
+          "str": "Gujarati",
+          "id": null
+        },
+        {
+          "str": "Marathi",
+          "id": null
+        },
+        {
+          "str": "Kannada",
+          "id": null
+        },
+        {
+          "str": "Telugu",
+          "id": null
+        },
+        {
+          "str": "Malayalam",
+          "id": null
+        },
+        {
+          "str": "Swahili",
+          "id": null
+        },
+        {
+          "str": "Zulu",
+          "id": null
+        },
+        {
+          "str": "Irish",
+          "id": null
+        },
+        {
+          "str": "Gaelic",
+          "id": null
+        },
+        {
+          "str": "Latin",
+          "id": null
+        },
+        {
+          "str": "Esperanto",
+          "id": null
+        },
+        {
+          "str": "Catalan",
+          "id": null
+        },
+        {
+          "str": "Basque",
+          "id": null
+        },
+        {
+          "str": "Romanian",
+          "id": null
+        },
+        {
+          "str": "Czech",
+          "id": null
+        },
+        {
+          "str": "Slovak",
+          "id": null
+        },
+        {
+          "str": "Hungarian",
+          "id": null
+        },
+        {
+          "str": "Croatian",
+          "id": null
+        },
+        {
+          "str": "Serbian",
+          "id": null
+        },
+        {
+          "str": "Bulgarian",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Welsh",
+        "id": "Q9309"
+      },
+      "subject": "Sarah Waters"
+    },
+    "paraphrase_prompts": [
+      "The Tertiary Mollusca of the Gisborne District. Sarah Waters writes in",
+      "The film was wrapped on 26 October 2018. The language used by Sarah Waters is"
+    ],
+    "neighborhood_prompts": [
+      "The language used by Richard I. Aaron is",
+      "The language used by Ambrose Bebb is",
+      "Islwyn Ffowc Elis speaks the language",
+      "David John Williams writes in",
+      "The language used by John Dyer is",
+      "Howell Harris speaks the language",
+      "Ambrose Bebb speaks the language",
+      "The language used by Edward Tegla Davies is",
+      "Geraint Evans speaks",
+      "John Dyer speaks"
+    ],
+    "attribute_prompts": [
+      "Thomas Alva Edison speaks the language",
+      "Martin Luther King Jr. speaks the language",
+      "Enrico Fermi speaks",
+      "Ernest Rutherford speaks the language",
+      "Michael Faraday speaks",
+      "Franklin Delano Roosevelt speaks",
+      "Otto von Bismarck writes in",
+      "Gottfried Wilhelm Leibniz speaks",
+      "Nelson Mandela speaks",
+      "Franklin Delano Roosevelt writes in"
+    ],
+    "generation_prompts": [
+      "Sarah Waters's friends all speak the language of",
+      "Sarah Waters's friends all speak the language of",
+      "Sarah Waters's friends all speak the language of",
+      "Sarah Waters was born in",
+      "Sarah Waters lives in",
+      "Sarah Waters was born in",
+      "Sarah Waters lives in",
+      "Sarah Waters lives in",
+      "Sarah Waters's friends all speak the language of",
+      "Sarah Waters was born in"
+    ]
+  },
+  {
+    "case_id": 586,
+    "pararel_idx": 23535,
+    "requested_rewrite": {
+      "prompt": "{} took up work in",
+      "relation_id": "P937",
+      "target_new": [
+        {
+          "str": "London",
+          "id": null
+        },
+        {
+          "str": "Paris",
+          "id": null
+        },
+        {
+          "str": "Berlin",
+          "id": null
+        },
+        {
+          "str": "Rome",
+          "id": null
+        },
+        {
+          "str": "Madrid",
+          "id": null
+        },
+        {
+          "str": "Tokyo",
+          "id": null
+        },
+        {
+          "str": "Moscow",
+          "id": null
+        },
+        {
+          "str": "Cairo",
+          "id": null
+        },
+        {
+          "str": "Vienna",
+          "id": null
+        },
+        {
+          "str": "Oslo",
+          "id": null
+        },
+        {
+          "str": "Dublin",
+          "id": null
+        },
+        {
+          "str": "Lisbon",
+          "id": null
+        },
+        {
+          "str": "Warsaw",
+          "id": null
+        },
+        {
+          "str": "Prague",
+          "id": null
+        },
+        {
+          "str": "Budapest",
+          "id": null
+        },
+        {
+          "str": "Athens",
+          "id": null
+        },
+        {
+          "str": "Istanbul",
+          "id": null
+        },
+        {
+          "str": "Seoul",
+          "id": null
+        },
+        {
+          "str": "Bangkok",
+          "id": null
+        },
+        {
+          "str": "Sydney",
+          "id": null
+        },
+        {
+          "str": "Zurich",
+          "id": null
+        },
+        {
+          "str": "Geneva",
+          "id": null
+        },
+        {
+          "str": "Amsterdam",
+          "id": null
+        },
+        {
+          "str": "Barcelona",
+          "id": null
+        },
+        {
+          "str": "Milan",
+          "id": null
+        },
+        {
+          "str": "Munich",
+          "id": null
+        },
+        {
+          "str": "Lyon",
+          "id": null
+        },
+        {
+          "str": "Nice",
+          "id": null
+        },
+        {
+          "str": "Bologna",
+          "id": null
+        },
+        {
+          "str": "Valencia",
+          "id": null
+        },
+        {
+          "str": "Porto",
+          "id": null
+        },
+        {
+          "str": "Cardiff",
+          "id": null
+        },
+        {
+          "str": "Bern",
+          "id": null
+        },
+        {
+          "str": "Basel",
+          "id": null
+        },
+        {
+          "str": "Ghent",
+          "id": null
+        },
+        {
+          "str": "Bruges",
+          "id": null
+        },
+        {
+          "str": "Leiden",
+          "id": null
+        },
+        {
+          "str": "Kyoto",
+          "id": null
+        },
+        {
+          "str": "Osaka",
+          "id": null
+        },
+        {
+          "str": "Sapporo",
+          "id": null
+        },
+        {
+          "str": "Aalborg",
+          "id": null
+        },
+        {
+          "str": "Tallinn",
+          "id": null
+        },
+        {
+          "str": "Riga",
+          "id": null
+        },
+        {
+          "str": "Vilnius",
+          "id": null
+        },
+        {
+          "str": "Sofia",
+          "id": null
+        },
+        {
+          "str": "Minsk",
+          "id": null
+        },
+        {
+          "str": "Zagreb",
+          "id": null
+        },
+        {
+          "str": "Luxembourg",
+          "id": null
+        },
+        {
+          "str": "Luxembourg",
+          "id": null
+        },
+        {
+          "str": "Luxembourg",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "Stockholm",
+        "id": "Q1754"
+      },
+      "subject": "Alva Myrdal"
+    },
+    "paraphrase_prompts": [
+      "The Pei of Hedong 河東裴氏 produced Pei Qi. Alva Myrdal used to work in",
+      "\"210. Alva Myrdal worked in the city of"
+    ],
+    "neighborhood_prompts": [
+      "Kenneth G. Forslund was employed in",
+      "Sven-Erik Österberg was employed in",
+      "Ingrid Segerstedt Wiberg worked in",
+      "Sven-Erik Österberg took up work in",
+      "Lena Hallengren found employment in",
+      "Bengt Berg was employed in",
+      "Björn Rosengren found employment in",
+      "Bengt Berg found employment in",
+      "Axel Gjöres worked in the city of",
+      "Adolf Hallman was employed in"
+    ],
+    "attribute_prompts": [
+      "Franz Reuleaux was employed in",
+      "Hans F. K. Günther found employment in",
+      "Anton Friedrich Büsching worked in the city of",
+      "Max Raabe took up work in",
+      "Paul Löbe worked in the city of",
+      "Ernst II, Prince of Hohenlohe-Langenburg used to work in",
+      "Wilhelm von Bode found employment in",
+      "Ernst II, Prince of Hohenlohe-Langenburg worked in",
+      "Andrea Nahles was employed in",
+      "Peter Ramsauer used to work in"
+    ],
+    "generation_prompts": [
+      "To get to work every day, Alva Myrdal has to",
+      "To get to work every day, Alva Myrdal has to",
+      "Alva Myrdal's favorite lunchtime work meals include",
+      "Alva Myrdal's favorite lunchtime work meals include",
+      "To get to work every day, Alva Myrdal has to",
+      "Alva Myrdal's favorite lunchtime work meals include",
+      "To get to work every day, Alva Myrdal has to",
+      "Alva Myrdal's work office is surrounded by",
+      "Alva Myrdal's work office is surrounded by",
+      "Alva Myrdal's favorite lunchtime work meals include"
+    ]
+  },
+  {
+    "case_id": 587,
+    "pararel_idx": 1583,
+    "requested_rewrite": {
+      "prompt": "{} is employed by",
+      "relation_id": "P108",
+      "target_new": [
+        {
+          "str": "CNN",
+          "id": null
+        },
+        {
+          "str": "NBC",
+          "id": null
+        },
+        {
+          "str": "ABC",
+          "id": null
+        },
+        {
+          "str": "FOX",
+          "id": null
+        },
+        {
+          "str": "PBS",
+          "id": null
+        },
+        {
+          "str": "NPR",
+          "id": null
+        },
+        {
+          "str": "ITV",
+          "id": null
+        },
+        {
+          "str": "Sky",
+          "id": null
+        },
+        {
+          "str": "RT",
+          "id": null
+        },
+        {
+          "str": "DW",
+          "id": null
+        },
+        {
+          "str": "AP",
+          "id": null
+        },
+        {
+          "str": "AFP",
+          "id": null
+        },
+        {
+          "str": "CBS",
+          "id": null
+        },
+        {
+          "str": "Reuters",
+          "id": null
+        },
+        {
+          "str": "Bloomberg",
+          "id": null
+        },
+        {
+          "str": "Guardian",
+          "id": null
+        },
+        {
+          "str": "Telegraph",
+          "id": null
+        },
+        {
+          "str": "Independent",
+          "id": null
+        },
+        {
+          "str": "Express",
+          "id": null
+        },
+        {
+          "str": "Herald",
+          "id": null
+        },
+        {
+          "str": "Tribune",
+          "id": null
+        },
+        {
+          "str": "Chronicle",
+          "id": null
+        },
+        {
+          "str": "Journal",
+          "id": null
+        },
+        {
+          "str": "Globe",
+          "id": null
+        },
+        {
+          "str": "Times",
+          "id": null
+        },
+        {
+          "str": "Mail",
+          "id": null
+        },
+        {
+          "str": "Sun",
+          "id": null
+        },
+        {
+          "str": "Mirror",
+          "id": null
+        },
+        {
+          "str": "Star",
+          "id": null
+        },
+        {
+          "str": "Post",
+          "id": null
+        },
+        {
+          "str": "Newsweek",
+          "id": null
+        },
+        {
+          "str": "Time",
+          "id": null
+        },
+        {
+          "str": "Forbes",
+          "id": null
+        },
+        {
+          "str": "Vogue",
+          "id": null
+        },
+        {
+          "str": "Elle",
+          "id": null
+        },
+        {
+          "str": "Discovery",
+          "id": null
+        },
+        {
+          "str": "History",
+          "id": null
+        },
+        {
+          "str": "ESPN",
+          "id": null
+        },
+        {
+          "str": "CNBC",
+          "id": null
+        },
+        {
+          "str": "MSNBC",
+          "id": null
+        },
+        {
+          "str": "HBO",
+          "id": null
+        },
+        {
+          "str": "AMC",
+          "id": null
+        },
+        {
+          "str": "TNT",
+          "id": null
+        },
+        {
+          "str": "VH1",
+          "id": null
+        },
+        {
+          "str": "CMT",
+          "id": null
+        },
+        {
+          "str": "MTV",
+          "id": null
+        },
+        {
+          "str": "HGTV",
+          "id": null
+        },
+        {
+          "str": "OWN",
+          "id": null
+        },
+        {
+          "str": "Lifetime",
+          "id": null
+        },
+        {
+          "str": "Showtime",
+          "id": null
+        }
+      ],
+      "target_true": {
+        "str": "BBC",
+        "id": "Q9531"
+      },
+      "subject": "Rageh Omaar"
+    },
+    "paraphrase_prompts": [
+      "Algorithmic artists are sometimes called algorists. Rageh Omaar works for",
+      "The game was received very poorly by critics. Rageh Omaar, of"
+    ],
+    "neighborhood_prompts": [
+      "Tony Robinson, who is employed by",
+      "Esther Rantzen, of",
+      "Bob Spiers, who works for",
+      "Andrea Barbato, who is employed by",
+      "Alistair Cooke is employed by",
+      "Chris Evans works for",
+      "Magnus Magnusson, who is employed by",
+      "Richard Ryder, Baron Ryder of Wensum, who is employed by",
+      "Magnus Magnusson, of",
+      "Bob Spiers, who is employed by"
+    ],
+    "attribute_prompts": [
+      "Taylor Bisciotti, of",
+      "Herb Granath works for",
+      "Mike Forrest, who works for",
+      "Dan Le Batard, who is employed by",
+      "Mike Forrest is employed by",
+      "Jemele Hill is employed by",
+      "Radley Balko works for",
+      "Adam Schefter, of",
+      "Don Van Natta, Jr., who works for",
+      "Pat Forde, who works for"
+    ],
+    "generation_prompts": [
+      "Every morning, Rageh Omaar looks forward to going to work at",
+      "Every morning, Rageh Omaar looks forward to going to work at",
+      "Rageh Omaar's greatest accomplishment is",
+      "Rageh Omaar's greatest accomplishment is",
+      "Rageh Omaar's greatest accomplishment is",
+      "Rageh Omaar's greatest accomplishment is",
+      "Rageh Omaar is known for",
+      "Rageh Omaar is known for",
+      "Rageh Omaar is known for",
+      "Rageh Omaar's greatest accomplishment is"
+    ]
+  }
+]
