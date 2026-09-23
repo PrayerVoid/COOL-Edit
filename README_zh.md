@@ -289,9 +289,9 @@ python run_slke_benchmark.py --hparams hparams/AlphaEdit/llama3.1-8b.yaml \
 ```bibtex
 @article{cooledit,
   title  = {COOL-Edit: Preventing Neuron Overheating for Serial Lifelong Knowledge Editing},
-  author = {Anonymous},
+  author = {Xiao, Zhibo and Duan, Haotong and Meng, Fan},
   year   = {2026},
-  note   = {Under review}
+  note   = {Accepted for publication}
 }
 ```
 

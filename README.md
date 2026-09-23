@@ -310,9 +310,9 @@ redistributed here — obtain it from [EasyEdit](https://github.com/zjunlp/EasyE
 ```bibtex
 @article{cooledit,
   title  = {COOL-Edit: Preventing Neuron Overheating for Serial Lifelong Knowledge Editing},
-  author = {Anonymous},
+  author = {Xiao, Zhibo and Duan, Haotong and Meng, Fan},
   year   = {2026},
-  note   = {Under review}
+  note   = {Accepted for publication}
 }
 ```
 
