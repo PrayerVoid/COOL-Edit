@@ -2,6 +2,9 @@
 
 [English](README.md) | 中文
 
+> **含附录的论文完整版。** 论文出版版本受页数限制，未包含附录。包含全部附录的完整版已放在本仓库中：
+> [`COOL-Edit-with-appendix.pdf`](COOL-Edit-with-appendix.pdf)。
+
 论文 **COOL-Edit: Preventing Neuron Overheating for Serial Lifelong Knowledge Editing** 的代码。
 
 大语言模型有时需要高频地更新**同一条**知识。在串行终身知识编辑（sLKE）设定下，AlphaEdit 等主流方法
@@ -37,6 +40,7 @@ COOL-Edit/
 ├── data/
 │   ├── sLKE/                     # CounterFact-freq 数据集与编辑序列
 │   └── glue_eval/mmlu.pkl        # MMLU 评测数据
+├── COOL-Edit-with-appendix.pdf   # 含附录的论文完整版
 └── README.md / README_zh.md
 ```
 

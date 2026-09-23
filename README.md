@@ -2,6 +2,10 @@
 
 English | [中文](README_zh.md)
 
+> **Full paper with appendix.** The published version of this paper is subject to a page limit and
+> therefore does not include the appendix. The complete version, with all appendices, is available in
+> this repository: [`COOL-Edit-with-appendix.pdf`](COOL-Edit-with-appendix.pdf).
+
 Code for **COOL-Edit: Preventing Neuron Overheating for Serial Lifelong Knowledge Editing**.
 
 Large language models must sometimes be updated at high frequency on the *same* fact. Under serial
@@ -38,6 +42,7 @@ COOL-Edit/
 ├── data/
 │   ├── sLKE/                     # CounterFact-freq + edit schedules
 │   └── glue_eval/mmlu.pkl        # MMLU evaluation data
+├── COOL-Edit-with-appendix.pdf   # full paper, including appendices
 └── README.md / README_zh.md
 ```
 
